@@ -1,0 +1,293 @@
+fileFormatVersion: 2
+guid: 9cf573c1f2362424baaa6f4f3653eca7
+timeCreated: 1520395656
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Back_Wheel
+    100004: Back_Wheel 1
+    100006: cntrl__Trolley_01
+    100008: cntrl__Trolley_03
+    100010: cntrl__Trolley_03 1
+    100012: cntrl__Trolley_03_grp
+    100014: cntrl_Trolley_02_Back_Wheel
+    100016: cntrl_Trolley_02_Back_Wheel 1
+    100018: cntrl_Trolley_02_Back_Wheel_grp
+    100020: cntrl_Trolley_02_Back_Wheel_grp 1
+    100022: cntrl_Trolley_02_Front_Wheel
+    100024: cntrl_Trolley_02_Front_Wheel 1
+    100026: cntrl_Trolley_02_Front_Wheel_grp
+    100028: cntrl_Trolley_02_Front_Wheel_grp 1
+    100030: Front_Wheel
+    100032: Front_Wheel 1
+    100034: Trolley_01
+    100036: Trolley_02
+    100038: Trolley_03
+    100040: Trolley_03 1
+    400000: //RootNode
+    400002: Back_Wheel
+    400004: Back_Wheel 1
+    400006: cntrl__Trolley_01
+    400008: cntrl__Trolley_03
+    400010: cntrl__Trolley_03 1
+    400012: cntrl__Trolley_03_grp
+    400014: cntrl_Trolley_02_Back_Wheel
+    400016: cntrl_Trolley_02_Back_Wheel 1
+    400018: cntrl_Trolley_02_Back_Wheel_grp
+    400020: cntrl_Trolley_02_Back_Wheel_grp 1
+    400022: cntrl_Trolley_02_Front_Wheel
+    400024: cntrl_Trolley_02_Front_Wheel 1
+    400026: cntrl_Trolley_02_Front_Wheel_grp
+    400028: cntrl_Trolley_02_Front_Wheel_grp 1
+    400030: Front_Wheel
+    400032: Front_Wheel 1
+    400034: Trolley_01
+    400036: Trolley_02
+    400038: Trolley_03
+    400040: Trolley_03 1
+    2300000: Back_Wheel
+    2300002: Back_Wheel 1
+    2300004: Front_Wheel
+    2300006: Front_Wheel 1
+    2300008: Trolley_03
+    2300010: Trolley_03 1
+    3300000: Back_Wheel
+    3300002: Back_Wheel 1
+    3300004: Front_Wheel
+    3300006: Front_Wheel 1
+    3300008: Trolley_03
+    3300010: Trolley_03 1
+    4300000: Trolley_03
+    4300002: Front_Wheel
+    4300004: Back_Wheel
+    4300006: Trolley_03
+    4300008: Front_Wheel
+    4300010: Back_Wheel
+    7400000: _trollyloop
+    7400002: _trollyloop (1)
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: _trollyloop
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 800
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Trolley_01
+        weight: 1
+      - path: Trolley_01/cntrl__Trolley_01
+        weight: 1
+      - path: Trolley_01/cntrl__Trolley_01/cntrl__Trolley_03
+        weight: 1
+      - path: Trolley_01/cntrl__Trolley_01/cntrl__Trolley_03/cntrl_Trolley_02_Back_Wheel_grp
+        weight: 1
+      - path: Trolley_01/cntrl__Trolley_01/cntrl__Trolley_03/cntrl_Trolley_02_Back_Wheel_grp/cntrl_Trolley_02_Back_Wheel
+        weight: 1
+      - path: Trolley_01/cntrl__Trolley_01/cntrl__Trolley_03/cntrl_Trolley_02_Back_Wheel_grp/cntrl_Trolley_02_Back_Wheel/Back_Wheel
+        weight: 1
+      - path: Trolley_01/cntrl__Trolley_01/cntrl__Trolley_03/cntrl_Trolley_02_Front_Wheel_grp
+        weight: 1
+      - path: Trolley_01/cntrl__Trolley_01/cntrl__Trolley_03/cntrl_Trolley_02_Front_Wheel_grp/cntrl_Trolley_02_Front_Wheel
+        weight: 1
+      - path: Trolley_01/cntrl__Trolley_01/cntrl__Trolley_03/cntrl_Trolley_02_Front_Wheel_grp/cntrl_Trolley_02_Front_Wheel/Front_Wheel
+        weight: 1
+      - path: Trolley_01/cntrl__Trolley_01/cntrl__Trolley_03/Trolley_03
+        weight: 1
+      - path: Trolley_02
+        weight: 1
+      - path: Trolley_02/cntrl__Trolley_03_grp
+        weight: 1
+      - path: Trolley_02/cntrl__Trolley_03_grp/cntrl__Trolley_03 1
+        weight: 1
+      - path: Trolley_02/cntrl__Trolley_03_grp/cntrl__Trolley_03 1/cntrl_Trolley_02_Back_Wheel_grp
+          1
+        weight: 1
+      - path: Trolley_02/cntrl__Trolley_03_grp/cntrl__Trolley_03 1/cntrl_Trolley_02_Back_Wheel_grp
+          1/cntrl_Trolley_02_Back_Wheel 1
+        weight: 1
+      - path: Trolley_02/cntrl__Trolley_03_grp/cntrl__Trolley_03 1/cntrl_Trolley_02_Back_Wheel_grp
+          1/cntrl_Trolley_02_Back_Wheel 1/Back_Wheel 1
+        weight: 1
+      - path: Trolley_02/cntrl__Trolley_03_grp/cntrl__Trolley_03 1/cntrl_Trolley_02_Front_Wheel_grp
+          1
+        weight: 1
+      - path: Trolley_02/cntrl__Trolley_03_grp/cntrl__Trolley_03 1/cntrl_Trolley_02_Front_Wheel_grp
+          1/cntrl_Trolley_02_Front_Wheel 1
+        weight: 1
+      - path: Trolley_02/cntrl__Trolley_03_grp/cntrl__Trolley_03 1/cntrl_Trolley_02_Front_Wheel_grp
+          1/cntrl_Trolley_02_Front_Wheel 1/Front_Wheel 1
+        weight: 1
+      - path: Trolley_02/cntrl__Trolley_03_grp/cntrl__Trolley_03 1/Trolley_03 1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: _trollyloop (1)
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 800
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Trolley_01
+        weight: 1
+      - path: Trolley_01/cntrl__Trolley_01
+        weight: 1
+      - path: Trolley_01/cntrl__Trolley_01/cntrl__Trolley_03
+        weight: 1
+      - path: Trolley_01/cntrl__Trolley_01/cntrl__Trolley_03/cntrl_Trolley_02_Back_Wheel_grp
+        weight: 1
+      - path: Trolley_01/cntrl__Trolley_01/cntrl__Trolley_03/cntrl_Trolley_02_Back_Wheel_grp/cntrl_Trolley_02_Back_Wheel
+        weight: 1
+      - path: Trolley_01/cntrl__Trolley_01/cntrl__Trolley_03/cntrl_Trolley_02_Back_Wheel_grp/cntrl_Trolley_02_Back_Wheel/Back_Wheel
+        weight: 1
+      - path: Trolley_01/cntrl__Trolley_01/cntrl__Trolley_03/cntrl_Trolley_02_Front_Wheel_grp
+        weight: 1
+      - path: Trolley_01/cntrl__Trolley_01/cntrl__Trolley_03/cntrl_Trolley_02_Front_Wheel_grp/cntrl_Trolley_02_Front_Wheel
+        weight: 1
+      - path: Trolley_01/cntrl__Trolley_01/cntrl__Trolley_03/cntrl_Trolley_02_Front_Wheel_grp/cntrl_Trolley_02_Front_Wheel/Front_Wheel
+        weight: 1
+      - path: Trolley_01/cntrl__Trolley_01/cntrl__Trolley_03/Trolley_03
+        weight: 1
+      - path: Trolley_02
+        weight: 1
+      - path: Trolley_02/cntrl__Trolley_03_grp
+        weight: 1
+      - path: Trolley_02/cntrl__Trolley_03_grp/cntrl__Trolley_03 1
+        weight: 1
+      - path: Trolley_02/cntrl__Trolley_03_grp/cntrl__Trolley_03 1/cntrl_Trolley_02_Back_Wheel_grp
+          1
+        weight: 1
+      - path: Trolley_02/cntrl__Trolley_03_grp/cntrl__Trolley_03 1/cntrl_Trolley_02_Back_Wheel_grp
+          1/cntrl_Trolley_02_Back_Wheel 1
+        weight: 1
+      - path: Trolley_02/cntrl__Trolley_03_grp/cntrl__Trolley_03 1/cntrl_Trolley_02_Back_Wheel_grp
+          1/cntrl_Trolley_02_Back_Wheel 1/Back_Wheel 1
+        weight: 1
+      - path: Trolley_02/cntrl__Trolley_03_grp/cntrl__Trolley_03 1/cntrl_Trolley_02_Front_Wheel_grp
+          1
+        weight: 1
+      - path: Trolley_02/cntrl__Trolley_03_grp/cntrl__Trolley_03 1/cntrl_Trolley_02_Front_Wheel_grp
+          1/cntrl_Trolley_02_Front_Wheel 1
+        weight: 1
+      - path: Trolley_02/cntrl__Trolley_03_grp/cntrl__Trolley_03 1/cntrl_Trolley_02_Front_Wheel_grp
+          1/cntrl_Trolley_02_Front_Wheel 1/Front_Wheel 1
+        weight: 1
+      - path: Trolley_02/cntrl__Trolley_03_grp/cntrl__Trolley_03 1/Trolley_03 1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

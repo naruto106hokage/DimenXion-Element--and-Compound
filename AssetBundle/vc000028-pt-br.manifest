@@ -1,0 +1,145 @@
+ManifestFileVersion: 0
+CRC: 950118626
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5f05d137213078ea56fc1a3280213c01
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a23ef77a0b74801dc4fe99a3c222bc62
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/OtherResources/pt-BR/ObjectiveContent.wav
+- Assets/OtherResources/pt-BR/C_Inst_AssesmentScoringRule.wav
+- Assets/OtherResources/pt-BR/L1_VO_Clip_1.wav
+- Assets/OtherResources/pt-BR/C_Assess_your_Knowledge.wav
+- Assets/OtherResources/pt-BR/L2_Inst_MixtureOfIronSulphideMagnet.wav
+- Assets/OtherResources/pt-BR/C_Btn_Resume.wav
+- Assets/OtherResources/pt-BR/L2_Inst_DragDropForSulphide.wav
+- Assets/OtherResources/pt-BR/Level2.wav
+- Assets/OtherResources/pt-BR/L2_Q3.wav
+- Assets/OtherResources/pt-BR/C_Completed_Activity.wav
+- Assets/OtherResources/pt-BR/L3_Inst_DragDropSilver.wav
+- Assets/OtherResources/pt-BR/L1_Btn_Instruction5.wav
+- Assets/OtherResources/pt-BR/L1_Inst_drag3.wav
+- Assets/OtherResources/pt-BR/L1_Inst_SelectButton1.wav
+- Assets/OtherResources/pt-BR/L2_Inst_DragDropForSulphur.wav
+- Assets/OtherResources/pt-BR/C_Btn_Yes.wav
+- Assets/OtherResources/pt-BR/L1_Btn_Instruction8.wav
+- Assets/OtherResources/pt-BR/L3_Btn_SilverDropped.wav
+- Assets/OtherResources/pt-BR/L3_Inst_ObserveSalinewater.wav
+- Assets/OtherResources/pt-BR/L2_Inst_MixtureSulphurRetains.wav
+- Assets/OtherResources/pt-BR/L3_Inst_DragDropMedicalGas.wav
+- Assets/OtherResources/pt-BR/L1_Btn_Instruction2.wav
+- Assets/OtherResources/pt-BR/C_Try_Multipletimes_awarded_only_answer_correctly.wav
+- Assets/OtherResources/pt-BR/C_Correct_Response.wav
+- Assets/OtherResources/pt-BR/L1_Btn_Instruction6.wav
+- Assets/OtherResources/pt-BR/L1_Btn_Instruction4.wav
+- Assets/OtherResources/pt-BR/L1_Btn_AddedInst3.wav
+- Assets/OtherResources/pt-BR/L3_Btn_MedicalGasDropped.wav
+- Assets/OtherResources/pt-BR/C_TryAgain3.wav
+- Assets/OtherResources/pt-BR/C_Want_To_Quit.wav
+- Assets/OtherResources/pt-BR/L1_Btn_Instruction1.wav
+- Assets/OtherResources/pt-BR/C_Check_Network_Tryagain.wav
+- Assets/OtherResources/pt-BR/L2_Inst_MixtureSulphurDissolves.wav
+- Assets/OtherResources/pt-BR/C_Inst_Assesment_Complete.wav
+- Assets/OtherResources/pt-BR/L2_Inst_DragDropSolutionBottle.wav
+- Assets/OtherResources/pt-BR/C_Btn_SyncToServer.wav
+- Assets/OtherResources/pt-BR/C_Restart_Activity.wav
+- Assets/OtherResources/pt-BR/L3_Inst_SelectSalinewater.wav
+- Assets/Resources/Fonts/font-pt-BR.ttf
+- Assets/OtherResources/pt-BR/L3_Inst_DragDropSalinewater.wav
+- Assets/OtherResources/pt-BR/L3_Inst_SelectCylinder.wav
+- Assets/OtherResources/pt-BR/C_Choose_Langage.wav
+- Assets/OtherResources/pt-BR/L2_Inst_NoChangesObserved.wav
+- Assets/OtherResources/pt-BR/L1_Inst_drag1.wav
+- Assets/OtherResources/pt-BR/L1_Btn_Instruction3.wav
+- Assets/OtherResources/pt-BR/L2_Inst_LetsTestBoth.wav
+- Assets/OtherResources/pt-BR/L2_Inst_ObserveChanges.wav
+- Assets/OtherResources/pt-BR/C_Quit.wav
+- Assets/OtherResources/pt-BR/C_Scored_Less_Than_60.wav
+- Assets/OtherResources/pt-BR/L1_Inst_drag4.wav
+- Assets/OtherResources/pt-BR/C_TryAgain2.wav
+- Assets/OtherResources/pt-BR/C_Inst_ServerError.wav
+- Assets/OtherResources/pt-BR/L2_Inst_IronSulphideMagnet.wav
+- Assets/OtherResources/pt-BR/L2_Inst_SelectCapOfBottle.wav
+- Assets/OtherResources/pt-BR/C_Resume.wav
+- Assets/OtherResources/pt-BR/C_WellDone1.wav
+- Assets/OtherResources/pt-BR/L3_Inst_MoveForword.wav
+- Assets/OtherResources/pt-BR/L1_Inst_SelectButton3.wav
+- Assets/OtherResources/pt-BR/C_Inst_RightOption.wav
+- Assets/OtherResources/pt-BR/L2_Q1.wav
+- Assets/OtherResources/pt-BR/L3_Btn_Instruction1.wav
+- Assets/OtherResources/pt-BR/L3_Btn_CylinderDropped.wav
+- Assets/OtherResources/pt-BR/L1_Btn_Instruction9.wav
+- Assets/OtherResources/pt-BR/L3_Inst_ObserveMedicalGas.wav
+- Assets/OtherResources/pt-BR/L2_Inst_KeyConcept.wav
+- Assets/OtherResources/pt-BR/C_Return_Menu_Try_Activity_Again.wav
+- Assets/OtherResources/pt-BR/C_No.wav
+- Assets/OtherResources/pt-BR/C_TryAgain1.wav
+- Assets/OtherResources/pt-BR/L1_Inst_drag2.wav
+- Assets/OtherResources/pt-BR/L3_Btn_CopperDropped.wav
+- Assets/OtherResources/pt-BR/C_Completed_Assessment.wav
+- Assets/OtherResources/pt-BR/C_Inst_Assesment_GreaterThan60%.wav
+- Assets/OtherResources/pt-BR/L3_Inst_SelectSilver.wav
+- Assets/OtherResources/pt-BR/L2_Q2.wav
+- Assets/OtherResources/pt-BR/L3_Inst_ObserveSilver.wav
+- Assets/OtherResources/pt-BR/L1_Btn_AddedInst1.wav
+- Assets/OtherResources/pt-BR/L1_Btn_AddedInst2.wav
+- Assets/OtherResources/pt-BR/L3_Inst_ObserveCylinder.wav
+- Assets/OtherResources/pt-BR/C_Inst_ActivityComplete.wav
+- Assets/OtherResources/pt-BR/L1_Btn_Instruction7.wav
+- Assets/OtherResources/pt-BR/L3_Inst_SelectBack.wav
+- Assets/OtherResources/pt-BR/C_WellDone2.wav
+- Assets/OtherResources/pt-BR/C_Follow_Ins_Perform_Assessment_Earn_Points.wav
+- Assets/OtherResources/pt-BR/L3_Btn_SalinewaterDropped.wav
+- Assets/OtherResources/pt-BR/L2_Inst_ObserveBoth.wav
+- Assets/OtherResources/pt-BR/L3_Inst_SelectCopper.wav
+- Assets/OtherResources/pt-BR/Title.wav
+- Assets/OtherResources/pt-BR/L2_Inst_FollowInst.wav
+- Assets/OtherResources/pt-BR/C_Activity_Menu.wav
+- Assets/OtherResources/pt-BR/C_Btn_Veiw LO.wav
+- Assets/OtherResources/pt-BR/L1_Inst_SelectButton2.wav
+- Assets/OtherResources/pt-BR/C_Scored_Well_Completed_Module.wav
+- Assets/OtherResources/pt-BR/C_Close.wav
+- Assets/OtherResources/pt-BR/L3_Inst_DragDropCopper.wav
+- Assets/SmartLocalizationWorkspace/AutoGenerated/Resources/Language.pt-BR.txt
+- Assets/OtherResources/pt-BR/C_Move_Highlighted_Area.wav
+- Assets/OtherResources/pt-BR/C_Btn_Close.wav
+- Assets/OtherResources/pt-BR/C_Btn_RestartActivity.wav
+- Assets/OtherResources/pt-BR/L1_Inst_SelectYellowButton.wav
+- Assets/OtherResources/pt-BR/C_yes.wav
+- Assets/OtherResources/pt-BR/C_Btn_ActivityMenu.wav
+- Assets/OtherResources/pt-BR/Choose_Language.wav
+- Assets/OtherResources/pt-BR/L2_Inst_DragDropGraduateCylForA.wav
+- Assets/OtherResources/pt-BR/L2_Inst_MixtureOfBoth.wav
+- Assets/OtherResources/pt-BR/L3_Inst_SelectMedicalGas.wav
+- Assets/OtherResources/pt-BR/C_View_Learning_Objective.wav
+- Assets/OtherResources/pt-BR/L3_Inst_DragDropCylinder.wav
+- Assets/OtherResources/pt-BR/L2_Inst_DragDropGraduateCylForB.wav
+- Assets/OtherResources/pt-BR/C_Here_is_Your_Score.wav
+- Assets/OtherResources/pt-BR/C_WellDone3.wav
+- Assets/OtherResources/pt-BR/C_Btn_No.wav
+- Assets/OtherResources/pt-BR/L2_Inst_MoveTowardsNext.wav
+- Assets/OtherResources/pt-BR/C_Select_Ok_Menu_Exit.wav
+- Assets/OtherResources/pt-BR/Level1.wav
+- Assets/OtherResources/pt-BR/L3_Inst_ObserveCopper.wav
+- Assets/OtherResources/pt-BR/L2_Inst_TakeaLook.wav
+- Assets/OtherResources/pt-BR/L2_Inst_ObserveProcess.wav
+- Assets/OtherResources/pt-BR/L1_Btn_AddedInst4.wav
+Dependencies:
+- G:/EduPro_Hindi/Umety-DPVR-P-vc000028/AssetBundle/vc000028-es-es
+- G:/EduPro_Hindi/Umety-DPVR-P-vc000028/AssetBundle/vc000028-ar-ar

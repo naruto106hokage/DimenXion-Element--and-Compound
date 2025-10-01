@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 559b2a2ca7a96a94d8c2dbec44713882
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kruti Dev 718
+  fontNames:
+  - Kruti Dev 718
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: vc000028-mr-in
+  assetBundleVariant: 

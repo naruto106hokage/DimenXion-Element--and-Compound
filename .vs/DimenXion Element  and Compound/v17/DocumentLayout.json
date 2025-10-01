@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\frontEnd\\Element  and Compound\\DimenXion Element  and Compound\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC7ADA9-E309-A509-AC16-6698614C79F3}|Assembly-CSharp.csproj|d:\\work\\frontend\\element  and compound\\dimenxion element  and compound\\assets\\base assets\\languagehandler\\script\\localisetextandvoiceover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC7ADA9-E309-A509-AC16-6698614C79F3}|Assembly-CSharp.csproj|solutionrelative:assets\\base assets\\languagehandler\\script\\localisetextandvoiceover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC7ADA9-E309-A509-AC16-6698614C79F3}|Assembly-CSharp.csproj|d:\\work\\frontend\\element  and compound\\dimenxion element  and compound\\assets\\authenticationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC7ADA9-E309-A509-AC16-6698614C79F3}|Assembly-CSharp.csproj|solutionrelative:assets\\authenticationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC7ADA9-E309-A509-AC16-6698614C79F3}|Assembly-CSharp.csproj|D:\\Work\\frontEnd\\Element  and Compound\\DimenXion Element  and Compound\\assets\\base assets\\loading scene\\loadingscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAC7ADA9-E309-A509-AC16-6698614C79F3}|Assembly-CSharp.csproj|solutionrelative:assets\\base assets\\loading scene\\loadingscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LocaliseTextAndVoiceOver.cs",
+              "DocumentMoniker": "D:\\Work\\frontEnd\\Element  and Compound\\DimenXion Element  and Compound\\Assets\\Base Assets\\LanguageHandler\\Script\\LocaliseTextAndVoiceOver.cs",
+              "RelativeDocumentMoniker": "Assets\\Base Assets\\LanguageHandler\\Script\\LocaliseTextAndVoiceOver.cs",
+              "ToolTip": "D:\\Work\\frontEnd\\Element  and Compound\\DimenXion Element  and Compound\\Assets\\Base Assets\\LanguageHandler\\Script\\LocaliseTextAndVoiceOver.cs",
+              "RelativeToolTip": "Assets\\Base Assets\\LanguageHandler\\Script\\LocaliseTextAndVoiceOver.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:28:56.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationUser.cs",
+              "DocumentMoniker": "D:\\Work\\frontEnd\\Element  and Compound\\DimenXion Element  and Compound\\Assets\\AuthenticationUser.cs",
+              "RelativeDocumentMoniker": "Assets\\AuthenticationUser.cs",
+              "ToolTip": "D:\\Work\\frontEnd\\Element  and Compound\\DimenXion Element  and Compound\\Assets\\AuthenticationUser.cs",
+              "RelativeToolTip": "Assets\\AuthenticationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T14:28:49.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoadingScene.cs",
+              "DocumentMoniker": "D:\\Work\\frontEnd\\Element  and Compound\\DimenXion Element  and Compound\\Assets\\Base Assets\\Loading Scene\\LoadingScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Base Assets\\Loading Scene\\LoadingScene.cs",
+              "ToolTip": "D:\\Work\\frontEnd\\Element  and Compound\\DimenXion Element  and Compound\\Assets\\Base Assets\\Loading Scene\\LoadingScene.cs",
+              "RelativeToolTip": "Assets\\Base Assets\\Loading Scene\\LoadingScene.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwEUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T14:26:39.517Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

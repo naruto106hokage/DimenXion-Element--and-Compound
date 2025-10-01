@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 996de8d6ee3c41d47b2caf69232fccf3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Markazi Text
+  fontNames:
+  - Markazi Text
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: vc000028-vi-vn
+  assetBundleVariant: 

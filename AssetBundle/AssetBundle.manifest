@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3749091786
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: vc000028-mr-in
+      Dependencies: {}
+    Info_1:
+      Name: vc000028-pt-br
+      Dependencies:
+        Dependency_0: vc000028-es-es
+        Dependency_1: vc000028-ar-ar
+    Info_2:
+      Name: vc000028-vi-vn
+      Dependencies: {}
+    Info_3:
+      Name: vc000028-es-es
+      Dependencies:
+        Dependency_0: vc000028-pt-br
+        Dependency_1: vc000028-ar-ar
+    Info_4:
+      Name: vc000028-ar-ar
+      Dependencies: {}
+    Info_5:
+      Name: vc000028-hi-in
+      Dependencies: {}

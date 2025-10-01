@@ -1,0 +1,766 @@
+fileFormatVersion: 2
+guid: aa535a7dae4ca93419b1f2e19a297fb0
+timeCreated: 1520395704
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: All_Blends_Grp
+    100004: Blades
+    100006: camera1
+    100008: camera2
+    100010: camera3
+    100012: cntrl__Iron_Sulfide_Main
+    100014: cntrl__Iron_Sulfide_Main_grp
+    100016: cntrl__Sulphur_Iron_Mixture_Main
+    100018: cntrl__Sulphur_Iron_Mixture_Main_grp
+    100020: cntrl_Blades
+    100022: cntrl_Blades_grp
+    100024: cntrl_joint2
+    100026: cntrl_joint2_grp
+    100028: cntrl_joint4
+    100030: cntrl_joint4_grp
+    100032: cntrl_Left_Button
+    100034: cntrl_Left_Button_Grp
+    100036: cntrl_Right_Button
+    100038: cntrl_Right_Button_Grp
+    100040: cntrl_Yellow_Button1
+    100042: cntrl_Yellow_Button1_grp
+    100044: Controller
+    100046: Controller1
+    100048: Controller1 1
+    100050: Controller3
+    100052: Controller3 1
+    100054: Controller_Grp
+    100056: Iron_Sulfide_Main
+    100058: Iron_Sulfied_Blends_Grp
+    100060: Jnt_grp
+    100062: jnt_grp
+    100064: joint1
+    100066: joint2
+    100068: joint3
+    100070: joint4
+    100072: Left_Button_Grp
+    100074: Level_01
+    100076: Main_Buttons_Shadow
+    100078: Main_Buttons_Shadow1
+    100080: Main_Buttons_Shadow2
+    100082: Mixing_Chamber_Grp
+    100084: Reaction_Chamber_Grp
+    100086: Right_Button_Grp
+    100088: Shadow
+    100090: Suction_Pipe
+    100092: Suction_Pipe 1
+    100094: Sulphur_Iron_Mixture_Grp
+    100096: Sulphur_Iron_Mixture_Main
+    100098: Watch_Glass
+    100100: Yellow_Button
+    100102: Yellow_Button1
+    400000: //RootNode
+    400002: All_Blends_Grp
+    400004: Blades
+    400006: camera1
+    400008: camera2
+    400010: camera3
+    400012: cntrl__Iron_Sulfide_Main
+    400014: cntrl__Iron_Sulfide_Main_grp
+    400016: cntrl__Sulphur_Iron_Mixture_Main
+    400018: cntrl__Sulphur_Iron_Mixture_Main_grp
+    400020: cntrl_Blades
+    400022: cntrl_Blades_grp
+    400024: cntrl_joint2
+    400026: cntrl_joint2_grp
+    400028: cntrl_joint4
+    400030: cntrl_joint4_grp
+    400032: cntrl_Left_Button
+    400034: cntrl_Left_Button_Grp
+    400036: cntrl_Right_Button
+    400038: cntrl_Right_Button_Grp
+    400040: cntrl_Yellow_Button1
+    400042: cntrl_Yellow_Button1_grp
+    400044: Controller
+    400046: Controller1
+    400048: Controller1 1
+    400050: Controller3
+    400052: Controller3 1
+    400054: Controller_Grp
+    400056: Iron_Sulfide_Main
+    400058: Iron_Sulfied_Blends_Grp
+    400060: Jnt_grp
+    400062: jnt_grp
+    400064: joint1
+    400066: joint2
+    400068: joint3
+    400070: joint4
+    400072: Left_Button_Grp
+    400074: Level_01
+    400076: Main_Buttons_Shadow
+    400078: Main_Buttons_Shadow1
+    400080: Main_Buttons_Shadow2
+    400082: Mixing_Chamber_Grp
+    400084: Reaction_Chamber_Grp
+    400086: Right_Button_Grp
+    400088: Shadow
+    400090: Suction_Pipe
+    400092: Suction_Pipe 1
+    400094: Sulphur_Iron_Mixture_Grp
+    400096: Sulphur_Iron_Mixture_Main
+    400098: Watch_Glass
+    400100: Yellow_Button
+    400102: Yellow_Button1
+    2300000: Blades
+    2300002: Controller
+    2300004: Controller1
+    2300006: Controller1 1
+    2300008: Controller3
+    2300010: Controller3 1
+    2300012: Main_Buttons_Shadow
+    2300014: Main_Buttons_Shadow1
+    2300016: Main_Buttons_Shadow2
+    2300018: Shadow
+    2300020: Watch_Glass
+    2300022: Yellow_Button
+    2300024: Yellow_Button1
+    3300000: Blades
+    3300002: Controller
+    3300004: Controller1
+    3300006: Controller1 1
+    3300008: Controller3
+    3300010: Controller3 1
+    3300012: Main_Buttons_Shadow
+    3300014: Main_Buttons_Shadow1
+    3300016: Main_Buttons_Shadow2
+    3300018: Shadow
+    3300020: Watch_Glass
+    3300022: Yellow_Button
+    3300024: Yellow_Button1
+    4300000: Controller
+    4300002: Main_Buttons_Shadow
+    4300004: Shadow
+    4300006: Controller3
+    4300008: Controller1
+    4300010: Controller3
+    4300012: Main_Buttons_Shadow1
+    4300014: Main_Buttons_Shadow2
+    4300016: Yellow_Button
+    4300018: Yellow_Button1
+    4300020: Controller1
+    4300022: Watch_Glass
+    4300024: Suction_Pipe
+    4300026: Iron_Sulfide_Main
+    4300028: Suction_Pipe
+    4300030: Sulphur_Iron_Mixture_Main
+    4300032: Blades
+    7400000: _acitivity1Lab1
+    7400002: Mixing1
+    7400004: Reaction
+    7400006: Collection
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Iron_Sulfide_Main
+    13700002: Suction_Pipe
+    13700004: Suction_Pipe 1
+    13700006: Sulphur_Iron_Mixture_Main
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: _acitivity1Lab1
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 460
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: camera1
+        weight: 1
+      - path: camera2
+        weight: 1
+      - path: camera3
+        weight: 1
+      - path: Level_01
+        weight: 1
+      - path: Level_01/All_Blends_Grp
+        weight: 1
+      - path: Level_01/All_Blends_Grp/Iron_Sulfied_Blends_Grp
+        weight: 1
+      - path: Level_01/All_Blends_Grp/Sulphur_Iron_Mixture_Grp
+        weight: 1
+      - path: Level_01/Controller_Grp
+        weight: 1
+      - path: Level_01/Controller_Grp/cntrl_Right_Button_Grp
+        weight: 1
+      - path: Level_01/Controller_Grp/cntrl_Right_Button_Grp/cntrl_Right_Button
+        weight: 1
+      - path: Level_01/Controller_Grp/cntrl_Right_Button_Grp/cntrl_Right_Button/Controller1
+        weight: 1
+      - path: Level_01/Controller_Grp/cntrl_Yellow_Button1_grp
+        weight: 1
+      - path: Level_01/Controller_Grp/cntrl_Yellow_Button1_grp/cntrl_Yellow_Button1
+        weight: 1
+      - path: Level_01/Controller_Grp/cntrl_Yellow_Button1_grp/cntrl_Yellow_Button1/Yellow_Button1
+        weight: 1
+      - path: Level_01/Controller_Grp/Controller
+        weight: 1
+      - path: Level_01/Controller_Grp/Left_Button_Grp
+        weight: 1
+      - path: Level_01/Controller_Grp/Left_Button_Grp/cntrl_Left_Button_Grp
+        weight: 1
+      - path: Level_01/Controller_Grp/Left_Button_Grp/cntrl_Left_Button_Grp/cntrl_Left_Button
+        weight: 1
+      - path: Level_01/Controller_Grp/Left_Button_Grp/cntrl_Left_Button_Grp/cntrl_Left_Button/Controller1
+          1
+        weight: 1
+      - path: Level_01/Controller_Grp/Left_Button_Grp/Controller3
+        weight: 1
+      - path: Level_01/Controller_Grp/Main_Buttons_Shadow
+        weight: 1
+      - path: Level_01/Controller_Grp/Main_Buttons_Shadow1
+        weight: 1
+      - path: Level_01/Controller_Grp/Main_Buttons_Shadow2
+        weight: 1
+      - path: Level_01/Controller_Grp/Right_Button_Grp
+        weight: 1
+      - path: Level_01/Controller_Grp/Right_Button_Grp/Controller3 1
+        weight: 1
+      - path: Level_01/Controller_Grp/Shadow
+        weight: 1
+      - path: Level_01/Controller_Grp/Yellow_Button
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/cntrl__Sulphur_Iron_Mixture_Main_grp
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/cntrl__Sulphur_Iron_Mixture_Main_grp/cntrl__Sulphur_Iron_Mixture_Main
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/cntrl__Sulphur_Iron_Mixture_Main_grp/cntrl__Sulphur_Iron_Mixture_Main/Sulphur_Iron_Mixture_Main
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/cntrl_Blades_grp
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/cntrl_Blades_grp/cntrl_Blades
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/cntrl_Blades_grp/cntrl_Blades/Blades
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/jnt_grp
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/jnt_grp/cntrl_joint2_grp
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/jnt_grp/cntrl_joint2_grp/cntrl_joint2
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/jnt_grp/cntrl_joint2_grp/cntrl_joint2/joint2
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/jnt_grp/joint1
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/Suction_Pipe
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/cntrl__Iron_Sulfide_Main_grp
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/cntrl__Iron_Sulfide_Main_grp/cntrl__Iron_Sulfide_Main
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/cntrl__Iron_Sulfide_Main_grp/cntrl__Iron_Sulfide_Main/Iron_Sulfide_Main
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/Jnt_grp
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/Jnt_grp/cntrl_joint4_grp
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/Jnt_grp/cntrl_joint4_grp/cntrl_joint4
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/Jnt_grp/cntrl_joint4_grp/cntrl_joint4/joint4
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/Jnt_grp/joint3
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/Suction_Pipe 1
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/Watch_Glass
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Mixing1
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 215
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: camera1
+        weight: 1
+      - path: camera2
+        weight: 1
+      - path: camera3
+        weight: 1
+      - path: Level_01
+        weight: 1
+      - path: Level_01/All_Blends_Grp
+        weight: 1
+      - path: Level_01/All_Blends_Grp/Iron_Sulfied_Blends_Grp
+        weight: 1
+      - path: Level_01/All_Blends_Grp/Sulphur_Iron_Mixture_Grp
+        weight: 1
+      - path: Level_01/Controller_Grp
+        weight: 1
+      - path: Level_01/Controller_Grp/cntrl_Right_Button_Grp
+        weight: 1
+      - path: Level_01/Controller_Grp/cntrl_Right_Button_Grp/cntrl_Right_Button
+        weight: 1
+      - path: Level_01/Controller_Grp/cntrl_Right_Button_Grp/cntrl_Right_Button/Controller1
+        weight: 1
+      - path: Level_01/Controller_Grp/cntrl_Yellow_Button1_grp
+        weight: 1
+      - path: Level_01/Controller_Grp/cntrl_Yellow_Button1_grp/cntrl_Yellow_Button1
+        weight: 1
+      - path: Level_01/Controller_Grp/cntrl_Yellow_Button1_grp/cntrl_Yellow_Button1/Yellow_Button1
+        weight: 1
+      - path: Level_01/Controller_Grp/Controller
+        weight: 1
+      - path: Level_01/Controller_Grp/Left_Button_Grp
+        weight: 1
+      - path: Level_01/Controller_Grp/Left_Button_Grp/cntrl_Left_Button_Grp
+        weight: 1
+      - path: Level_01/Controller_Grp/Left_Button_Grp/cntrl_Left_Button_Grp/cntrl_Left_Button
+        weight: 1
+      - path: Level_01/Controller_Grp/Left_Button_Grp/cntrl_Left_Button_Grp/cntrl_Left_Button/Controller1
+          1
+        weight: 1
+      - path: Level_01/Controller_Grp/Left_Button_Grp/Controller3
+        weight: 1
+      - path: Level_01/Controller_Grp/Main_Buttons_Shadow
+        weight: 1
+      - path: Level_01/Controller_Grp/Main_Buttons_Shadow1
+        weight: 1
+      - path: Level_01/Controller_Grp/Main_Buttons_Shadow2
+        weight: 1
+      - path: Level_01/Controller_Grp/Right_Button_Grp
+        weight: 1
+      - path: Level_01/Controller_Grp/Right_Button_Grp/Controller3 1
+        weight: 1
+      - path: Level_01/Controller_Grp/Shadow
+        weight: 1
+      - path: Level_01/Controller_Grp/Yellow_Button
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/cntrl__Sulphur_Iron_Mixture_Main_grp
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/cntrl__Sulphur_Iron_Mixture_Main_grp/cntrl__Sulphur_Iron_Mixture_Main
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/cntrl__Sulphur_Iron_Mixture_Main_grp/cntrl__Sulphur_Iron_Mixture_Main/Sulphur_Iron_Mixture_Main
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/cntrl_Blades_grp
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/cntrl_Blades_grp/cntrl_Blades
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/cntrl_Blades_grp/cntrl_Blades/Blades
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/jnt_grp
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/jnt_grp/cntrl_joint2_grp
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/jnt_grp/cntrl_joint2_grp/cntrl_joint2
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/jnt_grp/cntrl_joint2_grp/cntrl_joint2/joint2
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/jnt_grp/joint1
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/Suction_Pipe
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/cntrl__Iron_Sulfide_Main_grp
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/cntrl__Iron_Sulfide_Main_grp/cntrl__Iron_Sulfide_Main
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/cntrl__Iron_Sulfide_Main_grp/cntrl__Iron_Sulfide_Main/Iron_Sulfide_Main
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/Jnt_grp
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/Jnt_grp/cntrl_joint4_grp
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/Jnt_grp/cntrl_joint4_grp/cntrl_joint4
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/Jnt_grp/cntrl_joint4_grp/cntrl_joint4/joint4
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/Jnt_grp/joint3
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/Suction_Pipe 1
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/Watch_Glass
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Reaction
+      takeName: Take 001
+      firstFrame: 230
+      lastFrame: 282
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: camera1
+        weight: 1
+      - path: camera2
+        weight: 1
+      - path: camera3
+        weight: 1
+      - path: Level_01
+        weight: 1
+      - path: Level_01/All_Blends_Grp
+        weight: 1
+      - path: Level_01/All_Blends_Grp/Iron_Sulfied_Blends_Grp
+        weight: 1
+      - path: Level_01/All_Blends_Grp/Sulphur_Iron_Mixture_Grp
+        weight: 1
+      - path: Level_01/Controller_Grp
+        weight: 1
+      - path: Level_01/Controller_Grp/cntrl_Right_Button_Grp
+        weight: 1
+      - path: Level_01/Controller_Grp/cntrl_Right_Button_Grp/cntrl_Right_Button
+        weight: 1
+      - path: Level_01/Controller_Grp/cntrl_Right_Button_Grp/cntrl_Right_Button/Controller1
+        weight: 1
+      - path: Level_01/Controller_Grp/cntrl_Yellow_Button1_grp
+        weight: 1
+      - path: Level_01/Controller_Grp/cntrl_Yellow_Button1_grp/cntrl_Yellow_Button1
+        weight: 1
+      - path: Level_01/Controller_Grp/cntrl_Yellow_Button1_grp/cntrl_Yellow_Button1/Yellow_Button1
+        weight: 1
+      - path: Level_01/Controller_Grp/Controller
+        weight: 1
+      - path: Level_01/Controller_Grp/Left_Button_Grp
+        weight: 1
+      - path: Level_01/Controller_Grp/Left_Button_Grp/cntrl_Left_Button_Grp
+        weight: 1
+      - path: Level_01/Controller_Grp/Left_Button_Grp/cntrl_Left_Button_Grp/cntrl_Left_Button
+        weight: 1
+      - path: Level_01/Controller_Grp/Left_Button_Grp/cntrl_Left_Button_Grp/cntrl_Left_Button/Controller1
+          1
+        weight: 1
+      - path: Level_01/Controller_Grp/Left_Button_Grp/Controller3
+        weight: 1
+      - path: Level_01/Controller_Grp/Main_Buttons_Shadow
+        weight: 1
+      - path: Level_01/Controller_Grp/Main_Buttons_Shadow1
+        weight: 1
+      - path: Level_01/Controller_Grp/Main_Buttons_Shadow2
+        weight: 1
+      - path: Level_01/Controller_Grp/Right_Button_Grp
+        weight: 1
+      - path: Level_01/Controller_Grp/Right_Button_Grp/Controller3 1
+        weight: 1
+      - path: Level_01/Controller_Grp/Shadow
+        weight: 1
+      - path: Level_01/Controller_Grp/Yellow_Button
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/cntrl__Sulphur_Iron_Mixture_Main_grp
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/cntrl__Sulphur_Iron_Mixture_Main_grp/cntrl__Sulphur_Iron_Mixture_Main
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/cntrl__Sulphur_Iron_Mixture_Main_grp/cntrl__Sulphur_Iron_Mixture_Main/Sulphur_Iron_Mixture_Main
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/cntrl_Blades_grp
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/cntrl_Blades_grp/cntrl_Blades
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/cntrl_Blades_grp/cntrl_Blades/Blades
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/jnt_grp
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/jnt_grp/cntrl_joint2_grp
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/jnt_grp/cntrl_joint2_grp/cntrl_joint2
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/jnt_grp/cntrl_joint2_grp/cntrl_joint2/joint2
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/jnt_grp/joint1
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/Suction_Pipe
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/cntrl__Iron_Sulfide_Main_grp
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/cntrl__Iron_Sulfide_Main_grp/cntrl__Iron_Sulfide_Main
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/cntrl__Iron_Sulfide_Main_grp/cntrl__Iron_Sulfide_Main/Iron_Sulfide_Main
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/Jnt_grp
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/Jnt_grp/cntrl_joint4_grp
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/Jnt_grp/cntrl_joint4_grp/cntrl_joint4
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/Jnt_grp/cntrl_joint4_grp/cntrl_joint4/joint4
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/Jnt_grp/joint3
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/Suction_Pipe 1
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/Watch_Glass
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Collection
+      takeName: Take 001
+      firstFrame: 400
+      lastFrame: 460
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: camera1
+        weight: 1
+      - path: camera2
+        weight: 1
+      - path: camera3
+        weight: 1
+      - path: Level_01
+        weight: 1
+      - path: Level_01/All_Blends_Grp
+        weight: 1
+      - path: Level_01/All_Blends_Grp/Iron_Sulfied_Blends_Grp
+        weight: 1
+      - path: Level_01/All_Blends_Grp/Sulphur_Iron_Mixture_Grp
+        weight: 1
+      - path: Level_01/Controller_Grp
+        weight: 1
+      - path: Level_01/Controller_Grp/cntrl_Right_Button_Grp
+        weight: 1
+      - path: Level_01/Controller_Grp/cntrl_Right_Button_Grp/cntrl_Right_Button
+        weight: 1
+      - path: Level_01/Controller_Grp/cntrl_Right_Button_Grp/cntrl_Right_Button/Controller1
+        weight: 1
+      - path: Level_01/Controller_Grp/cntrl_Yellow_Button1_grp
+        weight: 1
+      - path: Level_01/Controller_Grp/cntrl_Yellow_Button1_grp/cntrl_Yellow_Button1
+        weight: 1
+      - path: Level_01/Controller_Grp/cntrl_Yellow_Button1_grp/cntrl_Yellow_Button1/Yellow_Button1
+        weight: 1
+      - path: Level_01/Controller_Grp/Controller
+        weight: 1
+      - path: Level_01/Controller_Grp/Left_Button_Grp
+        weight: 1
+      - path: Level_01/Controller_Grp/Left_Button_Grp/cntrl_Left_Button_Grp
+        weight: 1
+      - path: Level_01/Controller_Grp/Left_Button_Grp/cntrl_Left_Button_Grp/cntrl_Left_Button
+        weight: 1
+      - path: Level_01/Controller_Grp/Left_Button_Grp/cntrl_Left_Button_Grp/cntrl_Left_Button/Controller1
+          1
+        weight: 1
+      - path: Level_01/Controller_Grp/Left_Button_Grp/Controller3
+        weight: 1
+      - path: Level_01/Controller_Grp/Main_Buttons_Shadow
+        weight: 1
+      - path: Level_01/Controller_Grp/Main_Buttons_Shadow1
+        weight: 1
+      - path: Level_01/Controller_Grp/Main_Buttons_Shadow2
+        weight: 1
+      - path: Level_01/Controller_Grp/Right_Button_Grp
+        weight: 1
+      - path: Level_01/Controller_Grp/Right_Button_Grp/Controller3 1
+        weight: 1
+      - path: Level_01/Controller_Grp/Shadow
+        weight: 1
+      - path: Level_01/Controller_Grp/Yellow_Button
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/cntrl__Sulphur_Iron_Mixture_Main_grp
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/cntrl__Sulphur_Iron_Mixture_Main_grp/cntrl__Sulphur_Iron_Mixture_Main
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/cntrl__Sulphur_Iron_Mixture_Main_grp/cntrl__Sulphur_Iron_Mixture_Main/Sulphur_Iron_Mixture_Main
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/cntrl_Blades_grp
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/cntrl_Blades_grp/cntrl_Blades
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/cntrl_Blades_grp/cntrl_Blades/Blades
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/jnt_grp
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/jnt_grp/cntrl_joint2_grp
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/jnt_grp/cntrl_joint2_grp/cntrl_joint2
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/jnt_grp/cntrl_joint2_grp/cntrl_joint2/joint2
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/jnt_grp/joint1
+        weight: 1
+      - path: Level_01/Mixing_Chamber_Grp/Suction_Pipe
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/cntrl__Iron_Sulfide_Main_grp
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/cntrl__Iron_Sulfide_Main_grp/cntrl__Iron_Sulfide_Main
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/cntrl__Iron_Sulfide_Main_grp/cntrl__Iron_Sulfide_Main/Iron_Sulfide_Main
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/Jnt_grp
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/Jnt_grp/cntrl_joint4_grp
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/Jnt_grp/cntrl_joint4_grp/cntrl_joint4
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/Jnt_grp/cntrl_joint4_grp/cntrl_joint4/joint4
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/Jnt_grp/joint3
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/Suction_Pipe 1
+        weight: 1
+      - path: Level_01/Reaction_Chamber_Grp/Watch_Glass
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

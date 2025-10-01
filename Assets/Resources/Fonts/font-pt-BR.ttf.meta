@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 85aed6b4e86964148bfcd38dfd0228e1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arial
+  fontNames:
+  - Arial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 60681c90fa1368e418e6778a3f5b6092, type: 3}
+  - {fileID: 12800000, guid: 711034f2246ef874b91cb0c8b5736bef, type: 3}
+  - {fileID: 12800000, guid: 0638b34685a77c34d9415187695ac162, type: 3}
+  - {fileID: 12800000, guid: a60bfd682c0957f49962eb41769be5e4, type: 3}
+  - {fileID: 12800000, guid: 53de5bbbbfa920945ac907ed0bd9aee4, type: 3}
+  - {fileID: 12800000, guid: 49907d8e40b099647b32e22375c17441, type: 3}
+  - {fileID: 12800000, guid: 4ce2ad5ffafb77340ade0000e506129c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: vc000028-pt-br
+  assetBundleVariant: 

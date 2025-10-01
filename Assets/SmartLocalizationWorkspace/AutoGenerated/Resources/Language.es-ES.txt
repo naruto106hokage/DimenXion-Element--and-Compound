@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root><!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+	<data name="C_Activity_Menu" xml:space="preserve">
+		<value>Menú de actividades</value>
+	</data>
+	<data name="C_Assess_your_Knowledge" xml:space="preserve">
+		<value>Evalúa tu conocimiento</value>
+	</data>
+	<data name="C_Btn_Close" xml:space="preserve">
+		<value>Cerrar</value>
+	</data>
+	<data name="C_Btn_SyncToServer" xml:space="preserve">
+		<value>Sincronizar con el servidor</value>
+	</data>
+	<data name="C_Completed_Activity" xml:space="preserve">
+		<value>Has completado esta actividad.</value>
+	</data>
+	<data name="C_Completed_Assessment" xml:space="preserve">
+		<value>Has completado la evaluación.</value>
+	</data>
+	<data name="C_Correct_Response" xml:space="preserve">
+		<value>Esta es la respuesta correcta.</value>
+	</data>
+	<data name="C_Follow_Ins_Perform_Assessment_Earn_Points" xml:space="preserve">
+		<value>Sigue las instrucciones para realizar la evaluación y ganar puntos.</value>
+	</data>
+	<data name="C_Fullpoints_Correct_Fewpoints_Tryagain" xml:space="preserve">
+		<value>Recibirás puntos completos cuando estés correcto en el primer intento, menos puntos si tienes que volver a intentarlo.</value>
+	</data>
+	<data name="C_Here_is_Your_Score" xml:space="preserve">
+		<value>Aquí está tu puntuación: </value>
+	</data>
+	<data name="C_Inst_CheckNetworkConnection" xml:space="preserve">
+		<value>Verifica tu conexión de red o intenta mas tarde</value>
+	</data>
+	<data name="C_Inst_ServerError" xml:space="preserve">
+		<value>Error de servidor interno</value>
+	</data>
+	<data name="C_Move_Highlighted_Area" xml:space="preserve">
+		<value>Muévete al área resaltada usando tu controlador.</value>
+	</data>
+	<data name="C_No" xml:space="preserve">
+		<value>No</value>
+	</data>
+	<data name="C_Nopoint_Hint" xml:space="preserve">
+		<value>No se otorgan puntos si utilizas una pista.</value>
+	</data>
+	<data name="C_OK" xml:space="preserve">
+		<value>OK</value>
+	</data>
+	<data name="C_Perform_Assessment_Earn_Points" xml:space="preserve">
+		<value>Sigue las instrucciones para realizar la evaluación y ganar puntos.</value>
+	</data>
+	<data name="C_Quit" xml:space="preserve">
+		<value>Abandonar</value>
+	</data>
+	<data name="C_Restart_Activity" xml:space="preserve">
+		<value>Reiniciar actividad</value>
+	</data>
+	<data name="C_Resume" xml:space="preserve">
+		<value>Resumen</value>
+	</data>
+	<data name="C_Return_Menu_Continue_Next_Activity" xml:space="preserve">
+		<value>Selecciona OK para volver al menú y continuar con la siguiente actividad.</value>
+	</data>
+	<data name="C_Return_Menu_Try_Activity_Again" xml:space="preserve">
+		<value>Después de volver al menú, puedes intentar la actividad nuevamente para mejorar tu puntaje.</value>
+	</data>
+	<data name="C_Scored_Less_Than_60" xml:space="preserve">
+		<value>Obtuviste menos del 60%.</value>
+	</data>
+	<data name="C_Scored_Well_Completed_Module" xml:space="preserve">
+		<value>¡Has anotado bien y has completado el módulo! </value>
+	</data>
+	<data name="C_Scrore" xml:space="preserve">
+		<value>Puntuación</value>
+	</data>
+	<data name="C_Select_Ok_Menu_Exit" xml:space="preserve">
+		<value>Selecciona OK para volver al menú donde puedes salir.</value>
+	</data>
+	<data name="C_Try_Multipletimes_awarded_only_answer_correctly" xml:space="preserve">
+		<value>Puedes intentarlo varias veces, pero los puntos solo se otorgan si respondes correctamente en el primer intento.</value>
+	</data>
+	<data name="C_TryAgain1" xml:space="preserve">
+		<value>Inténtalo de nuevo.</value>
+	</data>
+	<data name="C_TryAgain2" xml:space="preserve">
+		<value>Eso no es.</value>
+	</data>
+	<data name="C_TryAgain3" xml:space="preserve">
+		<value>No del todo bien.</value>
+	</data>
+	<data name="C_View_Learning_Objective" xml:space="preserve">
+		<value>Ver objetivos de aprendizaje</value>
+	</data>
+	<data name="C_Want_To_Quit" xml:space="preserve">
+		<value>¿Seguro que quieres salir?</value>
+	</data>
+	<data name="C_WellDone1" xml:space="preserve">
+		<value>¡Bien hecho!</value>
+	</data>
+	<data name="C_WellDone2" xml:space="preserve">
+		<value>¡Bien!</value>
+	</data>
+	<data name="C_WellDone3" xml:space="preserve">
+		<value>¡Correcto!</value>
+	</data>
+	<data name="C_yes" xml:space="preserve">
+		<value>Sí</value>
+	</data>
+	<data name="Choose_Language" xml:space="preserve">
+		<value></value>
+	</data>
+	<data name="L1_Btn_AddedInst1" xml:space="preserve">
+		<value>¿Sabes que toda la materia en el universo se puede clasificar como una sustancia pura o una mezcla? Las sustancias puras tienen la misma composición en todas partes. Se pueden clasificar como elementos o compuestos</value>
+	</data>
+	<data name="L1_Btn_AddedInst2" xml:space="preserve">
+		<value>Los elementos no se pueden descomponer. Los compuestos se forman a partir de la combinación química de dos o más elementos. Estos elementos no pueden separarse por medios físicos. Las propiedades de un compuesto son completamente diferentes de las propiedades de cada uno de los elementos que lo componen.</value>
+	</data>
+	<data name="L1_Btn_AddedInst3" xml:space="preserve">
+		<value>Las mezclas se forman cuando dos o más sustancias se combinan físicamente. Las partes de una mezcla pueden separarse físicamente entre sí. Todas las sustancias en una mezcla conservan sus propiedades originales.</value>
+	</data>
+	<data name="L1_Btn_AddedInst4" xml:space="preserve">
+		<value>Usaremos estas muestras en el próximo experimento.</value>
+	</data>
+	<data name="L1_Btn_Instruction1" xml:space="preserve">
+		<value>Los elementos hierro y azufre están en la cámara de mezcla. Realicemos algunos experimentos para aprender más sobre sustancias y mezclas puras.</value>
+	</data>
+	<data name="L1_Btn_Instruction2" xml:space="preserve">
+		<value>Los elementos simplemente se mezclan y no se produce ninguna reacción química.</value>
+	</data>
+	<data name="L1_Btn_Instruction3" xml:space="preserve">
+		<value>Cuando se calienta, el hierro y el azufre reaccionan químicamente para formar sulfuro de hierro.</value>
+	</data>
+	<data name="L1_Btn_Instruction4" xml:space="preserve">
+		<value>Clasifiquemos estas sustancias como elementos, compuestos o mezclas en función de sus propiedades.</value>
+	</data>
+	<data name="L1_Btn_Instruction5" xml:space="preserve">
+		<value>El hierro está hecho solo de átomos de hierro. Por lo tanto, es un elemento.</value>
+	</data>
+	<data name="L1_Btn_Instruction6" xml:space="preserve">
+		<value>El azufre está hecho solo de átomos de azufre. Por lo tanto, también es un elemento.</value>
+	</data>
+	<data name="L1_Btn_Instruction7" xml:space="preserve">
+		<value>Este es el sulfuro de hierro compuesto. Está formado por dos elementos, hierro y azufre, que no pueden separarse físicamente. </value>
+	</data>
+	<data name="L1_Btn_Instruction8" xml:space="preserve">
+		<value>Esta muestra es una mezcla porque las sustancias hierro y azufre permanecen distintas. No están químicamente combinados.</value>
+	</data>
+	<data name="L1_Btn_Instruction9" xml:space="preserve">
+		<value>Conceptos clave
+
+● Los elementos y compuestos son sustancias puras
+   porque tienen la misma composición en todas partes.
+● Las mezclas se forman cuando dos o más sustancias
+   se combinan físicamente, pero no químicamente.</value>
+	</data>
+	<data name="L1_Inst_drag1" xml:space="preserve">
+		<value>Arrastra la placa de Petri que contiene levadura de hierro al área resaltada para ver su vista de partículas.</value>
+	</data>
+	<data name="L1_Inst_drag2" xml:space="preserve">
+		<value>Arrastra la placa de Petri que contiene azufre al área resaltada para ver su vista de partículas.</value>
+	</data>
+	<data name="L1_Inst_drag3" xml:space="preserve">
+		<value>Arrastra la placa de Petri que contiene materia desde la cámara de reacción al área resaltada para ver su vista de partículas.</value>
+	</data>
+	<data name="L1_Inst_drag4" xml:space="preserve">
+		<value>Arrastra la placa de Petri que contiene materia desde la cámara de mezcla al área resaltada para ver su vista de partículas.</value>
+	</data>
+	<data name="L1_Inst_SelectButton1" xml:space="preserve">
+		<value>Selecciona el botón resaltado para comenzar la mezcla.</value>
+	</data>
+	<data name="L1_Inst_SelectButton2" xml:space="preserve">
+		<value>Selecciona el botón resaltado para comenzar la reacción.</value>
+	</data>
+	<data name="L1_Inst_SelectButton3" xml:space="preserve">
+		<value>Selecciona el botón resaltado para recolectar una muestra de cada cámara.</value>
+	</data>
+	<data name="L1_Inst_SelectYellowButton" xml:space="preserve">
+		<value>Selecciona el botón resaltado para agregar la mezcla de hierro y azufre a la cámara de reacción.</value>
+	</data>
+	<data name="L1_Label_Compond" xml:space="preserve">
+		<value>Compuesto</value>
+	</data>
+	<data name="L1_Label_Element" xml:space="preserve">
+		<value>Elemento</value>
+	</data>
+	<data name="L1_Label_Heat" xml:space="preserve">
+		<value>Calor</value>
+	</data>
+	<data name="L1_Label_iron" xml:space="preserve">
+		<value>Hierro</value>
+	</data>
+	<data name="L1_Label_IronSulphide" xml:space="preserve">
+		<value>Sulfuro de hierro</value>
+	</data>
+	<data name="L1_Label_Mixture" xml:space="preserve">
+		<value>Mezcla</value>
+	</data>
+	<data name="L1_Label_mixture_chamber" xml:space="preserve">
+		<value>Materia obtenida de la cámara de mezcla</value>
+	</data>
+	<data name="L1_Label_mixure1" xml:space="preserve">
+		<value>Cámara de mezclado</value>
+	</data>
+	<data name="L1_Label_mixure2" xml:space="preserve">
+		<value>Cámara de reacción</value>
+	</data>
+	<data name="L1_Label_reaction_chamber" xml:space="preserve">
+		<value>Materia obtenida de la cámara de reacción</value>
+	</data>
+	<data name="L1_Label_sulfur" xml:space="preserve">
+		<value>Azufre</value>
+	</data>
+	<data name="L2_Inst_DragDropForSulphide" xml:space="preserve">
+		<value>Selecciona el imán para probar la
+propiedad magnética del sulfuro de hierro.</value>
+	</data>
+	<data name="L2_Inst_DragDropForSulphur" xml:space="preserve">
+		<value>Selecciona el imán para probar la propiedad magnética de la mezcla de hierro y azufre.</value>
+	</data>
+	<data name="L2_Inst_DragDropGraduateCylForA" xml:space="preserve">
+		<value>Arrastra el cilindro graduado al vaso de precipitados A y vierta 20 ml de disulfuro de carbono en el vaso de precipitados A.</value>
+	</data>
+	<data name="L2_Inst_DragDropGraduateCylForB" xml:space="preserve">
+		<value>Arrastra el cilindro graduado al vaso de precipitados B y vierta 20 ml de disulfuro de carbono en el vaso de precipitados B.</value>
+	</data>
+	<data name="L2_Inst_DragDropSolutionBottle" xml:space="preserve">
+		<value>Arrastra la botella de solución de disulfuro de carbono al cilindro graduado y vierta 40 ml de disulfuro de carbono en el cilindro graduado.</value>
+	</data>
+	<data name="L2_Inst_FollowInst" xml:space="preserve">
+		<value>Continuemos explorando las formas en que podemos distinguir entre compuestos y mezclas. </value>
+	</data>
+	<data name="L2_Inst_IronSulphideMagnet" xml:space="preserve">
+		<value>Cuando el imán se mueve sobre el sulfuro de hierro, no se adhieren partículas al imán. Por lo tanto, el sulfuro de hierro no es magnético.</value>
+	</data>
+	<data name="L2_Inst_KeyConcept" xml:space="preserve">
+		<value>Conceptos clave
+
+● Las propiedades de un compuesto son diferentes de las propiedades de
+   cada uno de los elementos que lo componen.
+● En las mezclas, todas las sustancias que componen la mezcla conservan sus
+   propiedades originales.</value>
+	</data>
+	<data name="L2_Inst_LetsTestBoth" xml:space="preserve">
+		<value>El hierro, como elemento, es magnético. Probemos tanto el compuesto como la mezcla para ver si se mantiene el magnetismo del hierro.</value>
+	</data>
+	<data name="L2_Inst_MixtureOfBoth" xml:space="preserve">
+		<value>En la mezcla de hierro y azufre, tanto el polvo de azufre amarillo como las limaduras de hierro son visibles. En contraste, el sulfuro de hierro tiene una apariencia uniforme.</value>
+	</data>
+	<data name="L2_Inst_MixtureOfIronSulphideMagnet" xml:space="preserve">
+		<value>En una mezcla, el hierro conserva sus propiedades, mientras que en el compuesto, el hierro ha perdido sus propiedades.</value>
+	</data>
+	<data name="L2_Inst_MixtureSulphurDissolves" xml:space="preserve">
+		<value>El azufre se disuelve en el disulfuro de carbono. Las limaduras de hierro son insolubles y permanecen en el fondo del vaso de precipitados.</value>
+	</data>
+	<data name="L2_Inst_MixtureSulphurRetains" xml:space="preserve">
+		<value>El azufre conserva sus propiedades en una mezcla, mientras que el azufre ha perdido sus propiedades originales después de reaccionar con el hierro.</value>
+	</data>
+	<data name="L2_Inst_MoveTowards" xml:space="preserve">
+		<value>Muévete al área resaltada usando el controlador.</value>
+	</data>
+	<data name="L2_Inst_MoveTowardsNext" xml:space="preserve">
+		<value>Continuemos explorando las características de los compuestos. Dirígete al área resaltada.</value>
+	</data>
+	<data name="L2_Inst_NoChangesObserved" xml:space="preserve">
+		<value>No se observa ningún cambio cuando se agrega disulfuro de carbono al sulfuro de hierro.</value>
+	</data>
+	<data name="L2_Inst_ObserveBoth" xml:space="preserve">
+		<value>Las limaduras de hierro se adhieren al imán.</value>
+	</data>
+	<data name="L2_Inst_ObserveChanges" xml:space="preserve">
+		<value>Observa la reacción cuando se agrega disulfuro de carbono a la mezcla de hierro y azufre.</value>
+	</data>
+	<data name="L2_Inst_ObserveProcess" xml:space="preserve">
+		<value>Las limaduras de hierro se adhieren al imán.</value>
+	</data>
+	<data name="L2_Inst_SelectCapOfBottle" xml:space="preserve">
+		<value>Una de las propiedades del azufre es su solubilidad en disulfuro de carbono. Selecciona la tapa de la botella de solución de disulfuro de carbono para eliminarla.</value>
+	</data>
+	<data name="L2_Inst_TakeaLook" xml:space="preserve">
+		<value>Observa la apariencia tanto del sulfuro de hierro como de la mezcla de hierro y azufre.</value>
+	</data>
+	<data name="L2_Label_Appearance" xml:space="preserve">
+		<value>Apariencia</value>
+	</data>
+	<data name="L2_Label_Behaviour" xml:space="preserve">
+		<value>Magnetismo</value>
+	</data>
+	<data name="L2_Label_BothYellow" xml:space="preserve">
+		<value>Tanto el polvo de azufre amarillo como los rellenos de hierro son visibles</value>
+	</data>
+	<data name="L2_Label_CarbonDI" xml:space="preserve">
+		<value>Disulfuro de
+carbono</value>
+	</data>
+	<data name="L2_Label_Comparing" xml:space="preserve">
+		<value>Propiedades del compuesto y mezclas.</value>
+	</data>
+	<data name="L2_Label_cylinder" xml:space="preserve">
+		<value>Cilindro
+graduado</value>
+	</data>
+	<data name="L2_Label_HavingUniform" xml:space="preserve">
+		<value>Apariencia
+uniforme
+entodo</value>
+	</data>
+	<data name="L2_Label_IronAndSulphur" xml:space="preserve">
+		<value>Hierro y azufre
+(mezcla)</value>
+	</data>
+	<data name="L2_Label_IronFilings" xml:space="preserve">
+		<value>Las limaduras de hierro se aferran al imán</value>
+	</data>
+	<data name="L2_Label_Ironsulphide" xml:space="preserve">
+		<value>Sulfuro de hierro
+(compuesto)</value>
+	</data>
+	<data name="L2_Label_IronSulphide" xml:space="preserve">
+		<value>Sulfuro de hierro
+(compuesto)</value>
+	</data>
+	<data name="L2_Label_Magnet" xml:space="preserve">
+		<value>Imán</value>
+	</data>
+	<data name="L2_Label_MixtureOfIron " xml:space="preserve">
+		<value>Mezcla de hierro
+y azufre.</value>
+	</data>
+	<data name="L2_Label_NoChange" xml:space="preserve">
+		<value>No se observan cambios.</value>
+	</data>
+	<data name="L2_Label_NoParticle" xml:space="preserve">
+		<value>No se adhieren partículas al imán.
+</value>
+	</data>
+	<data name="L2_Label_Property" xml:space="preserve">
+		<value>Propiedad</value>
+	</data>
+	<data name="L2_Label_Solvent" xml:space="preserve">
+		<value>Solubilidad</value>
+	</data>
+	<data name="L2_Label_SulphurDissolves" xml:space="preserve">
+		<value>El azufre se disuelve</value>
+	</data>
+	<data name="L2_Label_TableIronAndSulphur" xml:space="preserve">
+		<value>Hierro y azufre
+(mezcla)</value>
+	</data>
+	<data name="L2_Label_TableIronsulphide" xml:space="preserve">
+		<value>Sulfuro de hierro (compuesto)</value>
+	</data>
+	<data name="L2_Q1" xml:space="preserve">
+		<value>P.1. ¿Puedes distinguir los dos en función 
+		  de su apariencia?     </value>
+	</data>
+	<data name="L2_Q1_A" xml:space="preserve">
+		<value>A. Sí</value>
+	</data>
+	<data name="L2_Q1_B" xml:space="preserve">
+		<value>B. No</value>
+	</data>
+	<data name="L2_Q2" xml:space="preserve">
+		<value>P.2. El hierro mantiene su propiedad
+       magnética en la.</value>
+	</data>
+	<data name="L2_Q2_A" xml:space="preserve">
+		<value>A. Sulfuro de hierro </value>
+	</data>
+	<data name="L2_Q2_B" xml:space="preserve">
+		<value>B. Mezcla de hierro y azufre</value>
+	</data>
+	<data name="L2_Q3" xml:space="preserve">
+		<value>P.3. El azufre conserva sus propiedades en
+		 el sulfuro de hierro .</value>
+	</data>
+	<data name="L2_Q3_A" xml:space="preserve">
+		<value>A. Verdadero</value>
+	</data>
+	<data name="L2_Q3_B" xml:space="preserve">
+		<value>B. Falso</value>
+	</data>
+	<data name="L3_Btn_Back" xml:space="preserve">
+		<value>ATRÁS</value>
+	</data>
+	<data name="L3_Btn_CopperDropped" xml:space="preserve">
+		<value>El cobre es una sustancia pura porque está compuesto solo de átomos de cobre.</value>
+	</data>
+	<data name="L3_Btn_CylinderDropped" xml:space="preserve">
+		<value>El metano es una sustancia pura porque está compuesto solo de moléculas de CH₄. </value>
+	</data>
+	<data name="L3_Btn_Instruction1" xml:space="preserve">
+		<value>Identifica cada artículo como una sustancia pura o una mezcla.</value>
+	</data>
+	<data name="L3_Btn_MedicalGasDropped" xml:space="preserve">
+		<value>El cilindro de gas médico consiste en una mezcla de helio y oxígeno que no se combinan químicamente. </value>
+	</data>
+	<data name="L3_Btn_SalinewaterDropped" xml:space="preserve">
+		<value>La solución salina es una mezcla porque los iones de sodio, los iones de cloro y las moléculas de agua pueden separarse físicamente entre sí.</value>
+	</data>
+	<data name="L3_Btn_SilverDropped" xml:space="preserve">
+		<value>La plata esterlina es una aleación que contiene plata y cobre. Es una mezcla porque sus partes pueden separarse físicamente entre sí. </value>
+	</data>
+	<data name="L3_Inst_DragDropCopper" xml:space="preserve">
+		<value>Arrastra la barra de cobre al cuadro correcto.</value>
+	</data>
+	<data name="L3_Inst_DragDropCylinder" xml:space="preserve">
+		<value>Arrastra el gas metano a la caja correcta.</value>
+	</data>
+	<data name="L3_Inst_DragDropMedicalGas" xml:space="preserve">
+		<value>Arrastra el cilindro de gas médico a la caja correcta.</value>
+	</data>
+	<data name="L3_Inst_DragDropSalinewater" xml:space="preserve">
+		<value>Arrastra la botella de agua salina al cuadro correcto.</value>
+	</data>
+	<data name="L3_Inst_DragDropSilver" xml:space="preserve">
+		<value>Arrastra la barra de plata esterlina al cuadro correcto.</value>
+	</data>
+	<data name="L3_Inst_MoveForword" xml:space="preserve">
+		<value>Avanza en la pista.</value>
+	</data>
+	<data name="L3_Inst_ObserveCopper" xml:space="preserve">
+		<value>Observa la composición de la barra de cobre.</value>
+	</data>
+	<data name="L3_Inst_ObserveCylinder" xml:space="preserve">
+		<value>Observa la composición del gas.</value>
+	</data>
+	<data name="L3_Inst_ObserveMedicalGas" xml:space="preserve">
+		<value>Observa la composición del gas.</value>
+	</data>
+	<data name="L3_Inst_ObserveSalinewater" xml:space="preserve">
+		<value>Observa la composición del agua salina.</value>
+	</data>
+	<data name="L3_Inst_ObserveSilver" xml:space="preserve">
+		<value>Observa la composición de la barra de plata esterlina.</value>
+	</data>
+	<data name="L3_Inst_SelectBack" xml:space="preserve">
+		<value>Selecciona ATRÁS para salir de la vista molecular.</value>
+	</data>
+	<data name="L3_Inst_SelectCopper" xml:space="preserve">
+		<value>Selecciona la barra de cobre para ver su estructura molecular.</value>
+	</data>
+	<data name="L3_Inst_SelectCylinder" xml:space="preserve">
+		<value>Selecciona el cilindro de gas para ver la estructura molecular de las partículas de gas metano.</value>
+	</data>
+	<data name="L3_Inst_SelectMedicalGas" xml:space="preserve">
+		<value>Selecciona el cilindro de gas médico para ver la estructura molecular de las partículas de gas.</value>
+	</data>
+	<data name="L3_Inst_SelectSalinewater" xml:space="preserve">
+		<value>Selecciona la botella de agua salina para ver su estructura molecular.</value>
+	</data>
+	<data name="L3_Inst_SelectSilver" xml:space="preserve">
+		<value>Selecciona la barra de plata esterlina para ver su estructura molecular.</value>
+	</data>
+	<data name="L3_Label_Mixtures" xml:space="preserve">
+		<value>Mezclas</value>
+	</data>
+	<data name="L3_Label_PureSubstances " xml:space="preserve">
+		<value>Sustancias puras</value>
+	</data>
+	<data name="Level1" xml:space="preserve">
+		<value>Explora sustancias y mezclas puras</value>
+	</data>
+	<data name="Level2" xml:space="preserve">
+		<value>Distinguir entre compuestos y mezclas.</value>
+	</data>
+	<data name="ObjectiveContent" xml:space="preserve">
+		<value>Objetivos de aprendizaje
+
+Después de completar este módulo, podrás:
+● Identificar las características de sustancias,elementos, 
+   compuestos y mezclas puros .
+● Distinguir entre compuestos y mezclas.
+● Clasificar la materia como una sustancia pura o una mezcla.
+</value>
+	</data>
+	<data name="Title" xml:space="preserve">
+		<value>Elementos, compuestos y mezclas</value>
+	</data>
+</root>

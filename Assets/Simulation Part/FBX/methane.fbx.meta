@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 4132b67c41b46f742ac98be2edca992f
+timeCreated: 1520395752
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: All_Molecules
+    100002: C_Atom
+    100004: cntrl_Methane
+    100006: cntrl_Methane_grp
+    100008: H_Atom_0116
+    100010: H_Atom_0117
+    100012: H_Atom_0118
+    100014: H_Atom_04
+    100016: Methane
+    100018: //RootNode
+    100020: Single_Bond_01
+    100022: Single_Bond_014
+    100024: Single_Bond_015
+    100026: Single_Bond_016
+    400000: All_Molecules
+    400002: C_Atom
+    400004: cntrl_Methane
+    400006: cntrl_Methane_grp
+    400008: H_Atom_0116
+    400010: H_Atom_0117
+    400012: H_Atom_0118
+    400014: H_Atom_04
+    400016: Methane
+    400018: //RootNode
+    400020: Single_Bond_01
+    400022: Single_Bond_014
+    400024: Single_Bond_015
+    400026: Single_Bond_016
+    2300000: C_Atom
+    2300002: H_Atom_0116
+    2300004: H_Atom_0117
+    2300006: H_Atom_0118
+    2300008: H_Atom_04
+    2300010: Single_Bond_01
+    2300012: Single_Bond_014
+    2300014: Single_Bond_015
+    2300016: Single_Bond_016
+    3300000: C_Atom
+    3300002: H_Atom_0116
+    3300004: H_Atom_0117
+    3300006: H_Atom_0118
+    3300008: H_Atom_04
+    3300010: Single_Bond_01
+    3300012: Single_Bond_014
+    3300014: Single_Bond_015
+    3300016: Single_Bond_016
+    4300000: C_Atom
+    4300002: Single_Bond_01
+    4300004: H_Atom_04
+    4300006: H_Atom_0116
+    4300008: Single_Bond_014
+    4300010: H_Atom_0117
+    4300012: Single_Bond_015
+    4300014: H_Atom_0118
+    4300016: Single_Bond_016
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 100
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: All_Molecules
+        weight: 1
+      - path: All_Molecules/cntrl_Methane_grp
+        weight: 1
+      - path: All_Molecules/cntrl_Methane_grp/cntrl_Methane
+        weight: 1
+      - path: All_Molecules/cntrl_Methane_grp/cntrl_Methane/Methane
+        weight: 1
+      - path: All_Molecules/cntrl_Methane_grp/cntrl_Methane/Methane/C_Atom
+        weight: 1
+      - path: All_Molecules/cntrl_Methane_grp/cntrl_Methane/Methane/H_Atom_04
+        weight: 1
+      - path: All_Molecules/cntrl_Methane_grp/cntrl_Methane/Methane/H_Atom_0116
+        weight: 1
+      - path: All_Molecules/cntrl_Methane_grp/cntrl_Methane/Methane/H_Atom_0117
+        weight: 1
+      - path: All_Molecules/cntrl_Methane_grp/cntrl_Methane/Methane/H_Atom_0118
+        weight: 1
+      - path: All_Molecules/cntrl_Methane_grp/cntrl_Methane/Methane/Single_Bond_01
+        weight: 1
+      - path: All_Molecules/cntrl_Methane_grp/cntrl_Methane/Methane/Single_Bond_014
+        weight: 1
+      - path: All_Molecules/cntrl_Methane_grp/cntrl_Methane/Methane/Single_Bond_015
+        weight: 1
+      - path: All_Molecules/cntrl_Methane_grp/cntrl_Methane/Methane/Single_Bond_016
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

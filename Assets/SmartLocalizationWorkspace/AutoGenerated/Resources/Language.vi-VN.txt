@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root><!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+	<data name="C_Activity_Menu" xml:space="preserve">
+		<value>Danh mục hoạt động</value>
+	</data>
+	<data name="C_Assess_your_Knowledge" xml:space="preserve">
+		<value>Đánh giá kiến thức của bạn</value>
+	</data>
+	<data name="C_Btn_Close" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_Btn_SyncToServer" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_Completed_Activity" xml:space="preserve">
+		<value>Bạn đã hoàn thành hoạt động này. </value>
+	</data>
+	<data name="C_Completed_Assessment" xml:space="preserve">
+		<value>Bạn đã hoàn thành đánh giá. Đây là điểm số của bạn: </value>
+	</data>
+	<data name="C_Correct_Response" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_Follow_Ins_Perform_Assessment_Earn_Points" xml:space="preserve">
+		<value>Thực hiện theo các hướng dẫn để đánh giá và ghi điểm.</value>
+	</data>
+	<data name="C_Fullpoints_Correct_Fewpoints_Tryagain" xml:space="preserve">
+		<value>Bạn sẽ nhận được điểm tối đa khi bạn đúng trong lần thử đầu tiên và ít điểm hơn nếu bạn phải thử lại.</value>
+	</data>
+	<data name="C_Here_is_Your_Score" xml:space="preserve">
+		<value>Đây là điểm số của bạn: </value>
+	</data>
+	<data name="C_Inst_CheckNetworkConnection" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_Inst_ServerError" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_Move_Highlighted_Area" xml:space="preserve">
+		<value>Di chuyển đến khu vực được đánh dấu bằng bộ điều khiển của bạn.</value>
+	</data>
+	<data name="C_No" xml:space="preserve">
+		<value>Không</value>
+	</data>
+	<data name="C_Nopoint_Hint" xml:space="preserve">
+		<value>Không có điểm nào được trao nếu bạn sử dụng gợi ý.</value>
+	</data>
+	<data name="C_OK" xml:space="preserve">
+		<value>Đồng ý</value>
+	</data>
+	<data name="C_Perform_Assessment_Earn_Points" xml:space="preserve">
+		<value>Thực hiện theo các hướng dẫn để đánh giá và ghi điểm.</value>
+	</data>
+	<data name="C_Quit" xml:space="preserve">
+		<value>Thoát</value>
+	</data>
+	<data name="C_Restart_Activity" xml:space="preserve">
+		<value>Khởi động lại hoạt động</value>
+	</data>
+	<data name="C_Resume" xml:space="preserve">
+		<value>Khôi phục lại</value>
+	</data>
+	<data name="C_Return_Menu_Continue_Next_Activity" xml:space="preserve">
+		<value>Chọn Đồng ý để trở về danh mục và tiếp tục hoạt động tiếp theo.</value>
+	</data>
+	<data name="C_Return_Menu_Try_Activity_Again" xml:space="preserve">
+		<value>Sau khi trở lại danh mục, bạn có thể thử lại hoạt động để cải thiện điểm số của mình.</value>
+	</data>
+	<data name="C_Scored_Less_Than_60" xml:space="preserve">
+		<value>Bạn ghi được ít hơn 60% số điểm.</value>
+	</data>
+	<data name="C_Scored_Well_Completed_Module" xml:space="preserve">
+		<value>Bạn đã ghi điểm tốt và đã hoàn thành học phần!</value>
+	</data>
+	<data name="C_Scrore" xml:space="preserve">
+		<value>Điểm số</value>
+	</data>
+	<data name="C_Select_Ok_Menu_Exit" xml:space="preserve">
+		<value>Chọn Đồng ý để trở về danh mục và bạn có thể thoát.</value>
+	</data>
+	<data name="C_Try_Multipletimes_awarded_only_answer_correctly" xml:space="preserve">
+		<value>Bạn có thể thử nhiều lần, nhưng điểm chỉ được trao nếu bạn trả lời đúng trong lần thử đầu tiên.</value>
+	</data>
+	<data name="C_TryAgain1" xml:space="preserve">
+		<value>Thử lại.</value>
+	</data>
+	<data name="C_TryAgain2" xml:space="preserve">
+		<value>Không đúng.</value>
+	</data>
+	<data name="C_TryAgain3" xml:space="preserve">
+		<value>Không hoàn toàn đúng.</value>
+	</data>
+	<data name="C_View_Learning_Objective" xml:space="preserve">
+		<value>Xem mục tiêu học tập</value>
+	</data>
+	<data name="C_Want_To_Quit" xml:space="preserve">
+		<value>Bạn có chắc chắn muốn thoát?</value>
+	</data>
+	<data name="C_WellDone1" xml:space="preserve">
+		<value>Làm tốt!</value>
+	</data>
+	<data name="C_WellDone2" xml:space="preserve">
+		<value>Chính xác!</value>
+	</data>
+	<data name="C_WellDone3" xml:space="preserve">
+		<value>Đúng!</value>
+	</data>
+	<data name="C_yes" xml:space="preserve">
+		<value>Đúng</value>
+	</data>
+	<data name="Choose_Language" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L1_Btn_AddedInst1" xml:space="preserve">
+		<value>Bạn có biết rằng, tất cả các vật chất trong vũ trụ có thể được phân loại thành chất tinh khiết hoặc hỗn hợp không? Các chất tinh khiết có cấu tạo từ một thành phần. Các chất tinh khiết có thể được phân loại thành các đơn chất hoặc hợp chất.</value>
+	</data>
+	<data name="L1_Btn_AddedInst2" xml:space="preserve">
+		<value>Các đơn chất không thể bị phá vỡ. Các hợp chất được hình thành từ sự kết hợp hóa học của hai hoặc nhiều nguyên tố. Những nguyên tố này không thể được phân tách bằng phương pháp vật lý. Các tính chất của hợp chất hoàn toàn khác với tính chất của từng nguyên tố tạo nên hợp chất</value>
+	</data>
+	<data name="L1_Btn_AddedInst3" xml:space="preserve">
+		<value>Hỗn hợp được hình thành khi hai hoặc nhiều chất được kết hợp vật lý. Các thành phần của hỗn hợp có thể được tách ra khỏi nhau. Tất cả các chất trong hỗn hợp giữ nguyên tính chất ban đầu của chúng.</value>
+	</data>
+	<data name="L1_Btn_AddedInst4" xml:space="preserve">
+		<value>Chúng ta sẽ sử dụng các mẫu này trong thí nghiệm tiếp theo.</value>
+	</data>
+	<data name="L1_Btn_Instruction1" xml:space="preserve">
+		<value>Các đơn chất sắt và lưu huỳnh đang nằm trong khoang trộn. Hãy thực hiện một số thí nghiệm để tìm hiểu thêm về các chất tinh khiết và hỗn hợp.</value>
+	</data>
+	<data name="L1_Btn_Instruction2" xml:space="preserve">
+		<value>Các đơn chất được trộn với nhau một cách đơn giản và không có phản ứng hóa học diễn ra.</value>
+	</data>
+	<data name="L1_Btn_Instruction3" xml:space="preserve">
+		<value>Khi đun nóng, sắt và lưu huỳnh phản ứng hóa học tạo thành sắt sunfua.</value>
+	</data>
+	<data name="L1_Btn_Instruction4" xml:space="preserve">
+		<value>Hãy phân loại các chất này thành các đơn chất, hợp chất hoặc hỗn hợp dựa trên tính chất của chúng.</value>
+	</data>
+	<data name="L1_Btn_Instruction5" xml:space="preserve">
+		<value>Sắt chỉ được hình thành từ các nguyên tử sắt. Do đó, sắt là một đơn chất.</value>
+	</data>
+	<data name="L1_Btn_Instruction6" xml:space="preserve">
+		<value>Lưu huỳnh chỉ được hình thành từ các nguyên tử lưu huỳnh. Do đó, lưu huỳnh cũng là một đơn chất.</value>
+	</data>
+	<data name="L1_Btn_Instruction7" xml:space="preserve">
+		<value>Đây là hợp chất sắt sunfua. Sắt sunfua được tạo thành từ hai nguyên tố sắt và lưu huỳnh, không thể tách rời về mặt vật lý. </value>
+	</data>
+	<data name="L1_Btn_Instruction8" xml:space="preserve">
+		<value>Mẫu này là hỗn hợp do các chất sắt và lưu huỳnh vẫn tồn tại tách biệt nhau. Các chất trong mẫu không được kết hợp hóa học.</value>
+	</data>
+	<data name="L1_Btn_Instruction9" xml:space="preserve">
+		<value>Nội dung chính
+● Các đơn chất và hợp chất là các chất tinh khiết, vì chúng được cấu tạo từ một thành phần duy nhất
+● Hỗn hợp được hình thành khi hai hoặc nhiều chất được kết hợp về mặt vật lý nhưng không kết hợp hóa học.</value>
+	</data>
+	<data name="L1_Inst_drag1" xml:space="preserve">
+		<value>Kéo đĩa petri chứa bột sắt đến khu vực được đánh dấu để quan sát các nguyên tử sắt.</value>
+	</data>
+	<data name="L1_Inst_drag2" xml:space="preserve">
+		<value>Kéo đĩa petri chứa lưu huỳnh đến khu vực được đánh dấu để quan sát các nguyên tử lưu huỳnh.</value>
+	</data>
+	<data name="L1_Inst_drag3" xml:space="preserve">
+		<value>Kéo đĩa petri chứa vật chất từ khoang phản ứng đến khu vực được đánh dấu để quan sát bằng chế độ xem phóng đại đến cỡ hạt.</value>
+	</data>
+	<data name="L1_Inst_drag4" xml:space="preserve">
+		<value>Kéo đĩa petri chứa vật chất từ khoang trộn đến khu vực được đánh dấu để quan sát bằng chế độ xem phóng đại đến cỡ hạt.</value>
+	</data>
+	<data name="L1_Inst_SelectButton1" xml:space="preserve">
+		<value>Chọn nút được đánh dấu để bắt đầu trộn.</value>
+	</data>
+	<data name="L1_Inst_SelectButton2" xml:space="preserve">
+		<value>Chọn nút được đánh dấu để cung cấp nhiệt cho hỗn hợp bắt đầu phản ứng hóa học với nhau.</value>
+	</data>
+	<data name="L1_Inst_SelectButton3" xml:space="preserve">
+		<value>Chọn nút được đánh dấu để thu thập mẫu từ mỗi khoang.</value>
+	</data>
+	<data name="L1_Inst_SelectYellowButton" xml:space="preserve">
+		<value>Chọn nút được đánh dấu để đưa hỗn hợp sắt và lưu huỳnh vào khoang phản ứng.</value>
+	</data>
+	<data name="L1_Label_Compond" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L1_Label_Element" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L1_Label_Heat" xml:space="preserve">
+		<value>Nhiệt</value>
+	</data>
+	<data name="L1_Label_iron" xml:space="preserve">
+		<value>Sắt </value>
+	</data>
+	<data name="L1_Label_IronSulphide" xml:space="preserve">
+		<value>Sắt sunfua</value>
+	</data>
+	<data name="L1_Label_Mixture" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L1_Label_mixture_chamber" xml:space="preserve">
+		<value>Vật chất thu được từ khoang trộn</value>
+	</data>
+	<data name="L1_Label_mixure1" xml:space="preserve">
+		<value>Khoang trộn</value>
+	</data>
+	<data name="L1_Label_mixure2" xml:space="preserve">
+		<value>Khoang phản ứng</value>
+	</data>
+	<data name="L1_Label_reaction_chamber" xml:space="preserve">
+		<value>Vật chất thu được từ khoang phản ứng</value>
+	</data>
+	<data name="L1_Label_sulfur" xml:space="preserve">
+		<value>Lưu huỳnh</value>
+	</data>
+	<data name="L2_Inst_DragDropForSulphide" xml:space="preserve">
+		<value>Chọn nam châm để kiểm tra từ tính của sắt sunfua.</value>
+	</data>
+	<data name="L2_Inst_DragDropForSulphur" xml:space="preserve">
+		<value>Chọn nam châm để kiểm tra từ tính của hỗn hợp sắt và lưu huỳnh. </value>
+	</data>
+	<data name="L2_Inst_DragDropGraduateCylForA" xml:space="preserve">
+		<value>Kéo xilanh chia độ vào cốc A và đổ 20ml cacbon đisunfua vào cốc A.</value>
+	</data>
+	<data name="L2_Inst_DragDropGraduateCylForB" xml:space="preserve">
+		<value>Kéo xilanh chia độ vào cốc B và đổ 20ml cacbon đisunfua vào cốc B.</value>
+	</data>
+	<data name="L2_Inst_DragDropSolutionBottle" xml:space="preserve">
+		<value>Kéo chai dung dịch cacbon đisunfua tới bình chia độ và đổ 40ml cacbon đisunfua vào bình chia độ.</value>
+	</data>
+	<data name="L2_Inst_FollowInst" xml:space="preserve">
+		<value>Hãy tiếp tục khám phá những cách mà chúng ta có thể dùng để phân biệt giữa các hợp chất và hỗn hợp.</value>
+	</data>
+	<data name="L2_Inst_IronSulphideMagnet" xml:space="preserve">
+		<value>Khi nam châm được di chuyển qua sắt sunfua, không có hạt nào dính vào nam châm. Do đó, sắt sunfua không có từ tính.</value>
+	</data>
+	<data name="L2_Inst_KeyConcept" xml:space="preserve">
+		<value>Nội dung chính
+● Các tính chất của hợp chất khác với tính chất của từng nguyên tố tạo nên hợp chất.
+● Trong hỗn hợp, tất cả các chất tạo nên hỗn hợp đều giữ được các đặc tính ban đầu của chún</value>
+	</data>
+	<data name="L2_Inst_LetsTestBoth" xml:space="preserve">
+		<value>Sắt là một đơn chất có từ tính. Hãy thí nghiệm với cả hai hợp chất và hỗn hợp để xem liệu từ tính của sắt có được duy trì trong đó hay không.</value>
+	</data>
+	<data name="L2_Inst_MixtureOfBoth" xml:space="preserve">
+		<value>Trong hỗn hợp sắt và lưu huỳnh, có thể nhìn thấy cả bột lưu huỳnh màu vàng và các mạt sắt. Ngược lại, sắt sunfua có hình dạng bên ngoài đồng đều.</value>
+	</data>
+	<data name="L2_Inst_MixtureOfIronSulphideMagnet" xml:space="preserve">
+		<value>Trong hỗn hợp, sắt vẫn giữ được các tính chất của nó. Ngược lại, trong hợp chất, sắt đã mất đi tính chất của nó.</value>
+	</data>
+	<data name="L2_Inst_MixtureSulphurDissolves" xml:space="preserve">
+		<value>Lưu huỳnh hòa tan trong cacbon đisunfua. Các mạt sắt không hòa tan và vẫn nằm dưới đáy cốc.</value>
+	</data>
+	<data name="L2_Inst_MixtureSulphurRetains" xml:space="preserve">
+		<value>Trong hỗn hợp, lưu huỳnh giữ lại các thuộc tính của nó. Ngược lại,  lưu huỳnh đã mất tính chất ban đầu sau khi phản ứng với sắt.</value>
+	</data>
+	<data name="L2_Inst_MoveTowards" xml:space="preserve">
+		<value>Hãy tiếp tục khám phá các đặc tính của các hợp chất. Di chuyển đến khu vực được đánh dấu.</value>
+	</data>
+	<data name="L2_Inst_MoveTowardsNext" xml:space="preserve">
+		<value>Hãy tiếp tục khám phá các đặc tính của các hợp chất. Di chuyển đến khu vực được đánh dấu.</value>
+	</data>
+	<data name="L2_Inst_NoChangesObserved" xml:space="preserve">
+		<value>Không có thay đổi nào được quan sát thấy khi cacbon đisunfua được thêm vào sắt sunfua. </value>
+	</data>
+	<data name="L2_Inst_ObserveBoth" xml:space="preserve">
+		<value>Các mạt sắt dính vào nam châm.</value>
+	</data>
+	<data name="L2_Inst_ObserveChanges" xml:space="preserve">
+		<value>Quan sát phản ứng khi cacbon đisunfua được thêm vào hỗn hợp sắt và lưu huỳnh.</value>
+	</data>
+	<data name="L2_Inst_ObserveProcess" xml:space="preserve">
+		<value>Các mạt sắt dính vào nam châm.</value>
+	</data>
+	<data name="L2_Inst_SelectCapOfBottle" xml:space="preserve">
+		<value>Một trong những tính chất của lưu huỳnh là khả năng hòa tan của nó trong cacbon đisunfua. Chọn nắp của chai dung dịch cacbon đisunfua để mở nó.</value>
+	</data>
+	<data name="L2_Inst_TakeaLook" xml:space="preserve">
+		<value>Hãy nhìn vào sự xuất hiện của cả sắt sunfua cùng hỗn hợp sắt và lưu huỳnh.</value>
+	</data>
+	<data name="L2_Label_Appearance" xml:space="preserve">
+		<value>Hình dạng bên ngoài</value>
+	</data>
+	<data name="L2_Label_Behaviour" xml:space="preserve">
+		<value>Từ tính</value>
+	</data>
+	<data name="L2_Label_BothYellow" xml:space="preserve">
+		<value>Có thể nhìn thấy cả bột lưu huỳnh màu vàng và mạt sắt</value>
+	</data>
+	<data name="L2_Label_CarbonDI" xml:space="preserve">
+		<value>Cacbon đisunfua</value>
+	</data>
+	<data name="L2_Label_Comparing" xml:space="preserve">
+		<value>Tính chất của hợp chất và hỗn hợp</value>
+	</data>
+	<data name="L2_Label_cylinder" xml:space="preserve">
+		<value>Xi lanh chia độ</value>
+	</data>
+	<data name="L2_Label_HavingUniform" xml:space="preserve">
+		<value>Hình dạng đều khắp</value>
+	</data>
+	<data name="L2_Label_IronAndSulphur" xml:space="preserve">
+		<value>Sắt và lưu huỳnh(Hỗn hợp) </value>
+	</data>
+	<data name="L2_Label_IronFilings" xml:space="preserve">
+		<value>Mạt sắt bám vào nam châm</value>
+	</data>
+	<data name="L2_Label_Ironsulphide" xml:space="preserve">
+		<value>Sắt sunfua (Hợp chất)</value>
+	</data>
+	<data name="L2_Label_IronSulphide" xml:space="preserve">
+		<value>Sắt sunfua (Hợp chất)</value>
+	</data>
+	<data name="L2_Label_Magnet" xml:space="preserve">
+		<value>Nam châm</value>
+	</data>
+	<data name="L2_Label_MixtureOfIron " xml:space="preserve">
+		<value>Hỗn hợp sắt và lưu huỳnh</value>
+	</data>
+	<data name="L2_Label_NoChange" xml:space="preserve">
+		<value>Không có thay đổi nào được quan sát</value>
+	</data>
+	<data name="L2_Label_NoParticle" xml:space="preserve">
+		<value>Không có hạt nào dính vào nam châm</value>
+	</data>
+	<data name="L2_Label_Property" xml:space="preserve">
+		<value>Tính chất</value>
+	</data>
+	<data name="L2_Label_Solvent" xml:space="preserve">
+		<value>Khả năng hòa tan</value>
+	</data>
+	<data name="L2_Label_SulphurDissolves" xml:space="preserve">
+		<value>Lưu huỳnh hòa tan</value>
+	</data>
+	<data name="L2_Label_TableIronAndSulphur" xml:space="preserve">
+		<value>Sắt và lưu huỳnh(Hỗn hợp)</value>
+	</data>
+	<data name="L2_Label_TableIronsulphide" xml:space="preserve">
+		<value>Sắt sunfua (Hợp chất)</value>
+	</data>
+	<data name="L2_Q1" xml:space="preserve">
+		<value>Câu 1. Bạn có thể phân biệt hai vật này dựa trên hình dạng của chúng? </value>
+	</data>
+	<data name="L2_Q1_A" xml:space="preserve">
+		<value>A. Có</value>
+	</data>
+	<data name="L2_Q1_B" xml:space="preserve">
+		<value>B. Không</value>
+	</data>
+	<data name="L2_Q2" xml:space="preserve">
+		<value>Câu 2. Sắt duy trì từ tính của nó bên trong ____________ .</value>
+	</data>
+	<data name="L2_Q2_A" xml:space="preserve">
+		<value>A. sắt sunfua </value>
+	</data>
+	<data name="L2_Q2_B" xml:space="preserve">
+		<value>B. hỗn hợp sắt và lưu huỳnh</value>
+	</data>
+	<data name="L2_Q3" xml:space="preserve">
+		<value>Câu 3. Lưu huỳnh giữ lại các tính chất của nó trong sắt sunfua.</value>
+	</data>
+	<data name="L2_Q3_A" xml:space="preserve">
+		<value>A. Đúng</value>
+	</data>
+	<data name="L2_Q3_B" xml:space="preserve">
+		<value>B. Sai</value>
+	</data>
+	<data name="L3_Btn_Back" xml:space="preserve">
+		<value>QUAY LẠI</value>
+	</data>
+	<data name="L3_Btn_CopperDropped" xml:space="preserve">
+		<value>Đồng là một chất tinh khiết vì nó chỉ gồm các nguyên tử đồng.</value>
+	</data>
+	<data name="L3_Btn_CylinderDropped" xml:space="preserve">
+		<value>Metan là một chất tinh khiết vì nó chỉ được tạo thành từ các phân tử CH₄.</value>
+	</data>
+	<data name="L3_Btn_Instruction1" xml:space="preserve">
+		<value>Xác định mỗi đối tượng là một chất tinh khiết hay hỗn hợp.</value>
+	</data>
+	<data name="L3_Btn_MedicalGasDropped" xml:space="preserve">
+		<value>Xi lanh khí y tế chứa hỗn hợp khí heli và oxi không được kết hợp hóa học.</value>
+	</data>
+	<data name="L3_Btn_SalinewaterDropped" xml:space="preserve">
+		<value>Nước muối là một hỗn hợp vì các ion natri, ion clo và các phân tử nước có thể được phân tách vật lý với nhau.</value>
+	</data>
+	<data name="L3_Btn_SilverDropped" xml:space="preserve">
+		<value>Bạc sterling là một hợp kim gồm bạc và đồng. Đây là một hỗn hợp vì các thành phần của bạc sterling có thể được phân tách vật lý với nhau.</value>
+	</data>
+	<data name="L3_Inst_DragDropCopper" xml:space="preserve">
+		<value>Kéo thanh đồng vào ô thích hợp.</value>
+	</data>
+	<data name="L3_Inst_DragDropCylinder" xml:space="preserve">
+		<value>Kéo khí metan vào ô thích hợp.</value>
+	</data>
+	<data name="L3_Inst_DragDropMedicalGas" xml:space="preserve">
+		<value>Kéo xi lanh khí y tế vào ô thích hợp.</value>
+	</data>
+	<data name="L3_Inst_DragDropSalinewater" xml:space="preserve">
+		<value>Kéo chai nước muối vào ô thích hợp.</value>
+	</data>
+	<data name="L3_Inst_DragDropSilver" xml:space="preserve">
+		<value>Kéo thanh bạc sterling vào ô thích hợp.</value>
+	</data>
+	<data name="L3_Inst_MoveForword" xml:space="preserve">
+		<value>Tiến về phía trước đường đua.</value>
+	</data>
+	<data name="L3_Inst_ObserveCopper" xml:space="preserve">
+		<value>Quan sát thành phần của thanh đồng</value>
+	</data>
+	<data name="L3_Inst_ObserveCylinder" xml:space="preserve">
+		<value>Quan sát thành phần của khí.</value>
+	</data>
+	<data name="L3_Inst_ObserveMedicalGas" xml:space="preserve">
+		<value>Quan sát thành phần của khí.</value>
+	</data>
+	<data name="L3_Inst_ObserveSalinewater" xml:space="preserve">
+		<value>Quan sát thành phần của nước muối.</value>
+	</data>
+	<data name="L3_Inst_ObserveSilver" xml:space="preserve">
+		<value>Quan sát thành phần của thanh bạc sterling.</value>
+	</data>
+	<data name="L3_Inst_SelectBack" xml:space="preserve">
+		<value>Chọn QUAY LẠI để thoát khỏi chế độ xem phân tử.</value>
+	</data>
+	<data name="L3_Inst_SelectCopper" xml:space="preserve">
+		<value>Chọn thanh đồng để quan sát các thành phần có trong đó.</value>
+	</data>
+	<data name="L3_Inst_SelectCylinder" xml:space="preserve">
+		<value>Chọn xi lanh khí để quan sát các thành phần có trong đó.</value>
+	</data>
+	<data name="L3_Inst_SelectMedicalGas" xml:space="preserve">
+		<value>Chọn xi lanh khí y tế để quan sát các thành phần có trong đó.</value>
+	</data>
+	<data name="L3_Inst_SelectSalinewater" xml:space="preserve">
+		<value>Chọn chai nước muối để quan sát các thành phần có trong đó.</value>
+	</data>
+	<data name="L3_Inst_SelectSilver" xml:space="preserve">
+		<value>Chọn thanh bạc sterling để quan sát các thành phần có trong đó.</value>
+	</data>
+	<data name="L3_Label_Mixtures" xml:space="preserve">
+		<value>Các hỗn hợp</value>
+	</data>
+	<data name="L3_Label_PureSubstances " xml:space="preserve">
+		<value>Các chất tinh khiết</value>
+	</data>
+	<data name="Level1" xml:space="preserve">
+		<value>Khám phá các chất tinh khiết và hỗn hợp </value>
+	</data>
+	<data name="Level2" xml:space="preserve">
+		<value>Phân biệt giữa các hợp chất và hỗn hợp</value>
+	</data>
+	<data name="ObjectiveContent" xml:space="preserve">
+		<value>Mục tiêu học tập
+Sau khi hoàn thành học phần này, bạn sẽ có thể:
+● Xác định tính chất của các chất tinh khiết, các đơn chất, hợp chất và hỗn hợp.
+● Phân biệt các hợp chất và hỗn hợp.
+● Phân loại chất thành chất tinh khiết hoặc hỗn hợp.</value>
+	</data>
+	<data name="Title" xml:space="preserve">
+		<value>Các đơn chất, hợp chất và hỗn hợp</value>
+	</data>
+</root>

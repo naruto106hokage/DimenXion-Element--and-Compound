@@ -1,0 +1,1747 @@
+fileFormatVersion: 2
+guid: 59756c9063a224c408593e0e163805ee
+timeCreated: 1520395654
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Activity_Grp
+    100004: All_Blends_Grp
+    100006: Beaker
+    100008: Beaker 1
+    100010: Beaker_A
+    100012: Beaker_A_Blend
+    100014: Beaker_B
+    100016: Beaker_B_Blend
+    100018: Beaker_Fill_Blend_Main
+    100020: Beaker_Fill_Main
+    100022: Beaker_Grp
+    100024: Beaker_Grp 1
+    100026: Bottle
+    100028: camera1
+    100030: Cap
+    100032: Carbon_Disulphide1
+    100034: Carbon_Disulphide_Blends
+    100036: Carbon_Disulphide_Main
+    100038: Carbon_Disulphide_Main1
+    100040: Carbon_Disulphide_Raise_Main
+    100042: cntrl_Beaker_A
+    100044: cntrl_Beaker_A_grp
+    100046: cntrl_Beaker_B
+    100048: cntrl_Beaker_B_grp
+    100050: cntrl_Bottle
+    100052: cntrl_Bottle_grp
+    100054: cntrl_Cap
+    100056: cntrl_Cap_grp
+    100058: cntrl_Crystal_Main_01
+    100060: cntrl_Crystal_Main_010
+    100062: cntrl_Crystal_Main_010_grp
+    100064: cntrl_Crystal_Main_011
+    100066: cntrl_Crystal_Main_011_grp
+    100068: cntrl_Crystal_Main_012
+    100070: cntrl_Crystal_Main_012_grp
+    100072: cntrl_Crystal_Main_013
+    100074: cntrl_Crystal_Main_013_grp
+    100076: cntrl_Crystal_Main_014
+    100078: cntrl_Crystal_Main_014_grp
+    100080: cntrl_Crystal_Main_015
+    100082: cntrl_Crystal_Main_015_grp
+    100084: cntrl_Crystal_Main_016
+    100086: cntrl_Crystal_Main_016_grp
+    100088: cntrl_Crystal_Main_017
+    100090: cntrl_Crystal_Main_017_grp
+    100092: cntrl_Crystal_Main_018
+    100094: cntrl_Crystal_Main_018_grp
+    100096: cntrl_Crystal_Main_019
+    100098: cntrl_Crystal_Main_019_grp
+    100100: cntrl_Crystal_Main_01_grp
+    100102: cntrl_Crystal_Main_02
+    100104: cntrl_Crystal_Main_020
+    100106: cntrl_Crystal_Main_020_grp
+    100108: cntrl_Crystal_Main_021
+    100110: cntrl_Crystal_Main_021_grp
+    100112: cntrl_Crystal_Main_022
+    100114: cntrl_Crystal_Main_022_grp
+    100116: cntrl_Crystal_Main_023
+    100118: cntrl_Crystal_Main_023_grp
+    100120: cntrl_Crystal_Main_02_grp
+    100122: cntrl_Crystal_Main_03
+    100124: cntrl_Crystal_Main_03_grp
+    100126: cntrl_Crystal_Main_04
+    100128: cntrl_Crystal_Main_04_grp
+    100130: cntrl_Crystal_Main_05
+    100132: cntrl_Crystal_Main_05_grp
+    100134: cntrl_Crystal_Main_06
+    100136: cntrl_Crystal_Main_06_grp
+    100138: cntrl_Crystal_Main_07
+    100140: cntrl_Crystal_Main_07_grp
+    100142: cntrl_Crystal_Main_08
+    100144: cntrl_Crystal_Main_08_grp
+    100146: cntrl_Crystal_Main_09
+    100148: cntrl_Crystal_Main_09_grp
+    100150: cntrl_Graduated_Cylinder
+    100152: cntrl_Graduated_Cylinder_grp
+    100154: cntrl_Sulphur_Crystal_Grp
+    100156: cntrl_Sulphur_Crystal_Grp_grp
+    100158: Crystal_Main_01
+    100160: Crystal_Main_010
+    100162: Crystal_Main_011
+    100164: Crystal_Main_012
+    100166: Crystal_Main_013
+    100168: Crystal_Main_014
+    100170: Crystal_Main_015
+    100172: Crystal_Main_016
+    100174: Crystal_Main_017
+    100176: Crystal_Main_018
+    100178: Crystal_Main_019
+    100180: Crystal_Main_02
+    100182: Crystal_Main_020
+    100184: Crystal_Main_021
+    100186: Crystal_Main_022
+    100188: Crystal_Main_023
+    100190: Crystal_Main_03
+    100192: Crystal_Main_04
+    100194: Crystal_Main_05
+    100196: Crystal_Main_06
+    100198: Crystal_Main_07
+    100200: Crystal_Main_08
+    100202: Crystal_Main_09
+    100204: Graduated_Cylinder
+    100206: Graduated_Cylinder 1
+    100208: Graduated_Cylinder_Blends_Grp
+    100210: Iron_Powder_Alphas
+    100212: Iron_Sulfide_Grp
+    100214: Iron_Sulfide_Grp 1
+    100216: Iron_Sulfide_Main
+    100218: Iron_Sulfide_Main 1
+    100220: Level_2
+    100222: Shadow
+    100224: Shadow 1
+    100226: Shadow 2
+    100228: Shadow 3
+    100230: Sulphur_Crystal_Blends_Grp
+    100232: Sulphur_Crystal_Grp
+    100234: Sulphur_Iron_Mixture_01
+    100236: Sulphur_Iron_Mixture_02
+    100238: Sulphur_Iron_Mixture_03
+    100240: Sulphur_Iron_Mixture_04
+    100242: Sulphur_Iron_Mixture_05
+    100244: Sulphur_Iron_Mixture_06
+    100246: Sulphur_Iron_Mixture_07
+    100248: Sulphur_Iron_Mixture_Blend_Grp
+    100250: Sulphur_Iron_Mixture_Grp
+    100252: Sulphur_Iron_Mixture_Main
+    100254: Table_02
+    100256: Table_02 1
+    100258: Iron_Sulfide_Main1
+    100260: camera2
+    100262: Carbon_Disulphide_Main 1
+    400000: //RootNode
+    400002: Activity_Grp
+    400004: All_Blends_Grp
+    400006: Beaker
+    400008: Beaker 1
+    400010: Beaker_A
+    400012: Beaker_A_Blend
+    400014: Beaker_B
+    400016: Beaker_B_Blend
+    400018: Beaker_Fill_Blend_Main
+    400020: Beaker_Fill_Main
+    400022: Beaker_Grp
+    400024: Beaker_Grp 1
+    400026: Bottle
+    400028: camera1
+    400030: Cap
+    400032: Carbon_Disulphide1
+    400034: Carbon_Disulphide_Blends
+    400036: Carbon_Disulphide_Main
+    400038: Carbon_Disulphide_Main1
+    400040: Carbon_Disulphide_Raise_Main
+    400042: cntrl_Beaker_A
+    400044: cntrl_Beaker_A_grp
+    400046: cntrl_Beaker_B
+    400048: cntrl_Beaker_B_grp
+    400050: cntrl_Bottle
+    400052: cntrl_Bottle_grp
+    400054: cntrl_Cap
+    400056: cntrl_Cap_grp
+    400058: cntrl_Crystal_Main_01
+    400060: cntrl_Crystal_Main_010
+    400062: cntrl_Crystal_Main_010_grp
+    400064: cntrl_Crystal_Main_011
+    400066: cntrl_Crystal_Main_011_grp
+    400068: cntrl_Crystal_Main_012
+    400070: cntrl_Crystal_Main_012_grp
+    400072: cntrl_Crystal_Main_013
+    400074: cntrl_Crystal_Main_013_grp
+    400076: cntrl_Crystal_Main_014
+    400078: cntrl_Crystal_Main_014_grp
+    400080: cntrl_Crystal_Main_015
+    400082: cntrl_Crystal_Main_015_grp
+    400084: cntrl_Crystal_Main_016
+    400086: cntrl_Crystal_Main_016_grp
+    400088: cntrl_Crystal_Main_017
+    400090: cntrl_Crystal_Main_017_grp
+    400092: cntrl_Crystal_Main_018
+    400094: cntrl_Crystal_Main_018_grp
+    400096: cntrl_Crystal_Main_019
+    400098: cntrl_Crystal_Main_019_grp
+    400100: cntrl_Crystal_Main_01_grp
+    400102: cntrl_Crystal_Main_02
+    400104: cntrl_Crystal_Main_020
+    400106: cntrl_Crystal_Main_020_grp
+    400108: cntrl_Crystal_Main_021
+    400110: cntrl_Crystal_Main_021_grp
+    400112: cntrl_Crystal_Main_022
+    400114: cntrl_Crystal_Main_022_grp
+    400116: cntrl_Crystal_Main_023
+    400118: cntrl_Crystal_Main_023_grp
+    400120: cntrl_Crystal_Main_02_grp
+    400122: cntrl_Crystal_Main_03
+    400124: cntrl_Crystal_Main_03_grp
+    400126: cntrl_Crystal_Main_04
+    400128: cntrl_Crystal_Main_04_grp
+    400130: cntrl_Crystal_Main_05
+    400132: cntrl_Crystal_Main_05_grp
+    400134: cntrl_Crystal_Main_06
+    400136: cntrl_Crystal_Main_06_grp
+    400138: cntrl_Crystal_Main_07
+    400140: cntrl_Crystal_Main_07_grp
+    400142: cntrl_Crystal_Main_08
+    400144: cntrl_Crystal_Main_08_grp
+    400146: cntrl_Crystal_Main_09
+    400148: cntrl_Crystal_Main_09_grp
+    400150: cntrl_Graduated_Cylinder
+    400152: cntrl_Graduated_Cylinder_grp
+    400154: cntrl_Sulphur_Crystal_Grp
+    400156: cntrl_Sulphur_Crystal_Grp_grp
+    400158: Crystal_Main_01
+    400160: Crystal_Main_010
+    400162: Crystal_Main_011
+    400164: Crystal_Main_012
+    400166: Crystal_Main_013
+    400168: Crystal_Main_014
+    400170: Crystal_Main_015
+    400172: Crystal_Main_016
+    400174: Crystal_Main_017
+    400176: Crystal_Main_018
+    400178: Crystal_Main_019
+    400180: Crystal_Main_02
+    400182: Crystal_Main_020
+    400184: Crystal_Main_021
+    400186: Crystal_Main_022
+    400188: Crystal_Main_023
+    400190: Crystal_Main_03
+    400192: Crystal_Main_04
+    400194: Crystal_Main_05
+    400196: Crystal_Main_06
+    400198: Crystal_Main_07
+    400200: Crystal_Main_08
+    400202: Crystal_Main_09
+    400204: Graduated_Cylinder
+    400206: Graduated_Cylinder 1
+    400208: Graduated_Cylinder_Blends_Grp
+    400210: Iron_Powder_Alphas
+    400212: Iron_Sulfide_Grp
+    400214: Iron_Sulfide_Grp 1
+    400216: Iron_Sulfide_Main
+    400218: Iron_Sulfide_Main 1
+    400220: Level_2
+    400222: Shadow
+    400224: Shadow 1
+    400226: Shadow 2
+    400228: Shadow 3
+    400230: Sulphur_Crystal_Blends_Grp
+    400232: Sulphur_Crystal_Grp
+    400234: Sulphur_Iron_Mixture_01
+    400236: Sulphur_Iron_Mixture_02
+    400238: Sulphur_Iron_Mixture_03
+    400240: Sulphur_Iron_Mixture_04
+    400242: Sulphur_Iron_Mixture_05
+    400244: Sulphur_Iron_Mixture_06
+    400246: Sulphur_Iron_Mixture_07
+    400248: Sulphur_Iron_Mixture_Blend_Grp
+    400250: Sulphur_Iron_Mixture_Grp
+    400252: Sulphur_Iron_Mixture_Main
+    400254: Table_02
+    400256: Table_02 1
+    400258: Iron_Sulfide_Main1
+    400260: camera2
+    400262: Carbon_Disulphide_Main 1
+    2300000: Beaker
+    2300002: Beaker 1
+    2300004: Bottle
+    2300006: Cap
+    2300008: Graduated_Cylinder 1
+    2300010: Iron_Powder_Alphas
+    2300012: Shadow
+    2300014: Shadow 1
+    2300016: Shadow 2
+    2300018: Shadow 3
+    2300020: Sulphur_Iron_Mixture_01
+    2300022: Sulphur_Iron_Mixture_02
+    2300024: Sulphur_Iron_Mixture_03
+    2300026: Sulphur_Iron_Mixture_04
+    2300028: Sulphur_Iron_Mixture_05
+    2300030: Sulphur_Iron_Mixture_06
+    2300032: Sulphur_Iron_Mixture_07
+    2300034: Sulphur_Iron_Mixture_Main
+    2300036: Iron_Sulfide_Main1
+    3300000: Beaker
+    3300002: Beaker 1
+    3300004: Bottle
+    3300006: Cap
+    3300008: Graduated_Cylinder 1
+    3300010: Iron_Powder_Alphas
+    3300012: Shadow
+    3300014: Shadow 1
+    3300016: Shadow 2
+    3300018: Shadow 3
+    3300020: Sulphur_Iron_Mixture_01
+    3300022: Sulphur_Iron_Mixture_02
+    3300024: Sulphur_Iron_Mixture_03
+    3300026: Sulphur_Iron_Mixture_04
+    3300028: Sulphur_Iron_Mixture_05
+    3300030: Sulphur_Iron_Mixture_06
+    3300032: Sulphur_Iron_Mixture_07
+    3300034: Sulphur_Iron_Mixture_Main
+    3300036: Iron_Sulfide_Main1
+    4300000: Shadow
+    4300002: Bottle
+    4300004: Carbon_Disulphide_Main1
+    4300006: Shadow
+    4300008: Carbon_Disulphide_Main
+    4300010: Graduated_Cylinder
+    4300012: Carbon_Disulphide_Raise_Main
+    4300014: Iron_Sulfide_Main
+    4300016: Beaker
+    4300018: Beaker_Fill_Main
+    4300020: Shadow
+    4300022: Shadow
+    4300024: Beaker
+    4300026: Beaker_Fill_Blend_Main
+    4300028: Sulphur_Iron_Mixture_Main
+    4300030: Iron_Powder_Alphas
+    4300032: Iron_Sulfide_Main
+    4300034: Crystal_Main_023
+    4300036: Crystal_Main_022
+    4300038: Crystal_Main_021
+    4300040: Crystal_Main_020
+    4300042: Crystal_Main_019
+    4300044: Crystal_Main_018
+    4300046: Crystal_Main_017
+    4300048: Crystal_Main_016
+    4300050: Crystal_Main_015
+    4300052: Crystal_Main_014
+    4300054: Crystal_Main_013
+    4300056: Crystal_Main_012
+    4300058: Crystal_Main_011
+    4300060: Crystal_Main_010
+    4300062: Crystal_Main_09
+    4300064: Crystal_Main_08
+    4300066: Crystal_Main_07
+    4300068: Crystal_Main_06
+    4300070: Crystal_Main_05
+    4300072: Crystal_Main_04
+    4300074: Crystal_Main_03
+    4300076: Crystal_Main_02
+    4300078: Crystal_Main_01
+    4300080: Cap
+    4300082: Sulphur_Iron_Mixture_07
+    4300084: Sulphur_Iron_Mixture_06
+    4300086: Sulphur_Iron_Mixture_05
+    4300088: Sulphur_Iron_Mixture_04
+    4300090: Sulphur_Iron_Mixture_03
+    4300092: Sulphur_Iron_Mixture_02
+    4300094: Sulphur_Iron_Mixture_01
+    4300096: Iron_Sulfide_Main1
+    4300098: Carbon_Disulphide_Main
+    7400000: beakerAClip
+    7400002: selectCap
+    7400004: pourSolutionToCyl
+    7400006: _acitivity2Lab2
+    7400008: beakerBClip
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Beaker_Fill_Blend_Main
+    13700002: Beaker_Fill_Main
+    13700004: Carbon_Disulphide_Main
+    13700006: Carbon_Disulphide_Main1
+    13700008: Carbon_Disulphide_Raise_Main
+    13700010: Crystal_Main_01
+    13700012: Crystal_Main_010
+    13700014: Crystal_Main_011
+    13700016: Crystal_Main_012
+    13700018: Crystal_Main_013
+    13700020: Crystal_Main_014
+    13700022: Crystal_Main_015
+    13700024: Crystal_Main_016
+    13700026: Crystal_Main_017
+    13700028: Crystal_Main_018
+    13700030: Crystal_Main_019
+    13700032: Crystal_Main_02
+    13700034: Crystal_Main_020
+    13700036: Crystal_Main_021
+    13700038: Crystal_Main_022
+    13700040: Crystal_Main_023
+    13700042: Crystal_Main_03
+    13700044: Crystal_Main_04
+    13700046: Crystal_Main_05
+    13700048: Crystal_Main_06
+    13700050: Crystal_Main_07
+    13700052: Crystal_Main_08
+    13700054: Crystal_Main_09
+    13700056: Iron_Sulfide_Main
+    13700058: Iron_Sulfide_Main 1
+    13700060: Carbon_Disulphide_Main 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: beakerAClip
+      takeName: Take 001
+      firstFrame: 376
+      lastFrame: 440
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Level_2
+        weight: 1
+      - path: Level_2/Activity_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/Carbon_Disulphide1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/Carbon_Disulphide1/cntrl_Bottle_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/Carbon_Disulphide1/cntrl_Bottle_grp/cntrl_Bottle
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/Carbon_Disulphide1/cntrl_Bottle_grp/cntrl_Bottle/Bottle
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/Carbon_Disulphide1/cntrl_Bottle_grp/cntrl_Bottle/Carbon_Disulphide_Main1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/Carbon_Disulphide1/Shadow
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp/cntrl_Beaker_A
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp/cntrl_Beaker_A/Beaker_A
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp/cntrl_Beaker_A/Beaker_A/Beaker_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp/cntrl_Beaker_A/Beaker_A/Beaker_Grp/Beaker
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp/cntrl_Beaker_A/Beaker_A/Beaker_Grp/Beaker_Fill_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp/Shadow 1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Beaker_Grp
+          1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Beaker_Grp
+          1/Beaker 1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Beaker_Grp
+          1/Beaker_Fill_Blend_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_01_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_01_grp/cntrl_Crystal_Main_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_01_grp/cntrl_Crystal_Main_01/Crystal_Main_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_02_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_02_grp/cntrl_Crystal_Main_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_02_grp/cntrl_Crystal_Main_02/Crystal_Main_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_03_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_03_grp/cntrl_Crystal_Main_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_03_grp/cntrl_Crystal_Main_03/Crystal_Main_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_04_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_04_grp/cntrl_Crystal_Main_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_04_grp/cntrl_Crystal_Main_04/Crystal_Main_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_05_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_05_grp/cntrl_Crystal_Main_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_05_grp/cntrl_Crystal_Main_05/Crystal_Main_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_06_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_06_grp/cntrl_Crystal_Main_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_06_grp/cntrl_Crystal_Main_06/Crystal_Main_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_07_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_07_grp/cntrl_Crystal_Main_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_07_grp/cntrl_Crystal_Main_07/Crystal_Main_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_08_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_08_grp/cntrl_Crystal_Main_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_08_grp/cntrl_Crystal_Main_08/Crystal_Main_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_09_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_09_grp/cntrl_Crystal_Main_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_09_grp/cntrl_Crystal_Main_09/Crystal_Main_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_010_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_010_grp/cntrl_Crystal_Main_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_010_grp/cntrl_Crystal_Main_010/Crystal_Main_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_011_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_011_grp/cntrl_Crystal_Main_011
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_011_grp/cntrl_Crystal_Main_011/Crystal_Main_011
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_012_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_012_grp/cntrl_Crystal_Main_012
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_012_grp/cntrl_Crystal_Main_012/Crystal_Main_012
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_013_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_013_grp/cntrl_Crystal_Main_013
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_013_grp/cntrl_Crystal_Main_013/Crystal_Main_013
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_014_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_014_grp/cntrl_Crystal_Main_014
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_014_grp/cntrl_Crystal_Main_014/Crystal_Main_014
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_015_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_015_grp/cntrl_Crystal_Main_015
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_015_grp/cntrl_Crystal_Main_015/Crystal_Main_015
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_016_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_016_grp/cntrl_Crystal_Main_016
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_016_grp/cntrl_Crystal_Main_016/Crystal_Main_016
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_017_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_017_grp/cntrl_Crystal_Main_017
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_017_grp/cntrl_Crystal_Main_017/Crystal_Main_017
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_018_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_018_grp/cntrl_Crystal_Main_018
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_018_grp/cntrl_Crystal_Main_018/Crystal_Main_018
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_019_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_019_grp/cntrl_Crystal_Main_019
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_019_grp/cntrl_Crystal_Main_019/Crystal_Main_019
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_020_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_020_grp/cntrl_Crystal_Main_020
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_020_grp/cntrl_Crystal_Main_020/Crystal_Main_020
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_021_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_021_grp/cntrl_Crystal_Main_021
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_021_grp/cntrl_Crystal_Main_021/Crystal_Main_021
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_022_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_022_grp/cntrl_Crystal_Main_022
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_022_grp/cntrl_Crystal_Main_022/Crystal_Main_022
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_023_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_023_grp/cntrl_Crystal_Main_023
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_023_grp/cntrl_Crystal_Main_023/Crystal_Main_023
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/Sulphur_Crystal_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Iron_Sulfide_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Iron_Sulfide_Grp/Iron_Sulfide_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Sulphur_Iron_Mixture_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Sulphur_Iron_Mixture_Grp/Iron_Powder_Alphas
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Sulphur_Iron_Mixture_Grp/Sulphur_Iron_Mixture_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/Shadow 2
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Cap_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Cap_grp/cntrl_Cap
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Cap_grp/cntrl_Cap/Cap
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp/cntrl_Graduated_Cylinder
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp/cntrl_Graduated_Cylinder/Graduated_Cylinder
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp/cntrl_Graduated_Cylinder/Graduated_Cylinder/Carbon_Disulphide_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp/cntrl_Graduated_Cylinder/Graduated_Cylinder/Carbon_Disulphide_Raise_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp/cntrl_Graduated_Cylinder/Graduated_Cylinder/Graduated_Cylinder
+          1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp/Shadow 3
+        weight: 1
+      - path: Level_2/Iron_Sulfide_Main1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: selectCap
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Level_2
+        weight: 1
+      - path: Level_2/Activity_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/Carbon_Disulphide1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/Carbon_Disulphide1/cntrl_Bottle_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/Carbon_Disulphide1/cntrl_Bottle_grp/cntrl_Bottle
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/Carbon_Disulphide1/cntrl_Bottle_grp/cntrl_Bottle/Bottle
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/Carbon_Disulphide1/cntrl_Bottle_grp/cntrl_Bottle/Carbon_Disulphide_Main1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/Carbon_Disulphide1/Shadow
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp/cntrl_Beaker_A
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp/cntrl_Beaker_A/Beaker_A
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp/cntrl_Beaker_A/Beaker_A/Beaker_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp/cntrl_Beaker_A/Beaker_A/Beaker_Grp/Beaker
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp/cntrl_Beaker_A/Beaker_A/Beaker_Grp/Beaker_Fill_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp/Shadow 1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Beaker_Grp
+          1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Beaker_Grp
+          1/Beaker 1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Beaker_Grp
+          1/Beaker_Fill_Blend_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_01_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_01_grp/cntrl_Crystal_Main_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_01_grp/cntrl_Crystal_Main_01/Crystal_Main_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_02_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_02_grp/cntrl_Crystal_Main_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_02_grp/cntrl_Crystal_Main_02/Crystal_Main_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_03_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_03_grp/cntrl_Crystal_Main_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_03_grp/cntrl_Crystal_Main_03/Crystal_Main_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_04_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_04_grp/cntrl_Crystal_Main_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_04_grp/cntrl_Crystal_Main_04/Crystal_Main_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_05_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_05_grp/cntrl_Crystal_Main_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_05_grp/cntrl_Crystal_Main_05/Crystal_Main_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_06_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_06_grp/cntrl_Crystal_Main_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_06_grp/cntrl_Crystal_Main_06/Crystal_Main_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_07_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_07_grp/cntrl_Crystal_Main_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_07_grp/cntrl_Crystal_Main_07/Crystal_Main_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_08_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_08_grp/cntrl_Crystal_Main_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_08_grp/cntrl_Crystal_Main_08/Crystal_Main_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_09_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_09_grp/cntrl_Crystal_Main_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_09_grp/cntrl_Crystal_Main_09/Crystal_Main_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_010_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_010_grp/cntrl_Crystal_Main_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_010_grp/cntrl_Crystal_Main_010/Crystal_Main_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_011_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_011_grp/cntrl_Crystal_Main_011
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_011_grp/cntrl_Crystal_Main_011/Crystal_Main_011
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_012_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_012_grp/cntrl_Crystal_Main_012
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_012_grp/cntrl_Crystal_Main_012/Crystal_Main_012
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_013_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_013_grp/cntrl_Crystal_Main_013
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_013_grp/cntrl_Crystal_Main_013/Crystal_Main_013
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_014_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_014_grp/cntrl_Crystal_Main_014
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_014_grp/cntrl_Crystal_Main_014/Crystal_Main_014
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_015_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_015_grp/cntrl_Crystal_Main_015
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_015_grp/cntrl_Crystal_Main_015/Crystal_Main_015
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_016_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_016_grp/cntrl_Crystal_Main_016
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_016_grp/cntrl_Crystal_Main_016/Crystal_Main_016
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_017_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_017_grp/cntrl_Crystal_Main_017
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_017_grp/cntrl_Crystal_Main_017/Crystal_Main_017
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_018_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_018_grp/cntrl_Crystal_Main_018
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_018_grp/cntrl_Crystal_Main_018/Crystal_Main_018
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_019_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_019_grp/cntrl_Crystal_Main_019
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_019_grp/cntrl_Crystal_Main_019/Crystal_Main_019
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_020_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_020_grp/cntrl_Crystal_Main_020
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_020_grp/cntrl_Crystal_Main_020/Crystal_Main_020
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_021_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_021_grp/cntrl_Crystal_Main_021
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_021_grp/cntrl_Crystal_Main_021/Crystal_Main_021
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_022_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_022_grp/cntrl_Crystal_Main_022
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_022_grp/cntrl_Crystal_Main_022/Crystal_Main_022
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_023_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_023_grp/cntrl_Crystal_Main_023
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_023_grp/cntrl_Crystal_Main_023/Crystal_Main_023
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/Sulphur_Crystal_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Iron_Sulfide_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Iron_Sulfide_Grp/Iron_Sulfide_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Sulphur_Iron_Mixture_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Sulphur_Iron_Mixture_Grp/Iron_Powder_Alphas
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Sulphur_Iron_Mixture_Grp/Sulphur_Iron_Mixture_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/Shadow 2
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Cap_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Cap_grp/cntrl_Cap
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Cap_grp/cntrl_Cap/Cap
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp/cntrl_Graduated_Cylinder
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp/cntrl_Graduated_Cylinder/Graduated_Cylinder
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp/cntrl_Graduated_Cylinder/Graduated_Cylinder/Carbon_Disulphide_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp/cntrl_Graduated_Cylinder/Graduated_Cylinder/Carbon_Disulphide_Raise_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp/cntrl_Graduated_Cylinder/Graduated_Cylinder/Graduated_Cylinder
+          1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp/Shadow 3
+        weight: 1
+      - path: Level_2/Iron_Sulfide_Main1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: pourSolutionToCyl
+      takeName: Take 001
+      firstFrame: 150
+      lastFrame: 270
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Level_2
+        weight: 1
+      - path: Level_2/Activity_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/Carbon_Disulphide1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/Carbon_Disulphide1/cntrl_Bottle_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/Carbon_Disulphide1/cntrl_Bottle_grp/cntrl_Bottle
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/Carbon_Disulphide1/cntrl_Bottle_grp/cntrl_Bottle/Bottle
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/Carbon_Disulphide1/cntrl_Bottle_grp/cntrl_Bottle/Carbon_Disulphide_Main1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/Carbon_Disulphide1/Shadow
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp/cntrl_Beaker_A
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp/cntrl_Beaker_A/Beaker_A
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp/cntrl_Beaker_A/Beaker_A/Beaker_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp/cntrl_Beaker_A/Beaker_A/Beaker_Grp/Beaker
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp/cntrl_Beaker_A/Beaker_A/Beaker_Grp/Beaker_Fill_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp/Shadow 1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Beaker_Grp
+          1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Beaker_Grp
+          1/Beaker 1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Beaker_Grp
+          1/Beaker_Fill_Blend_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_01_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_01_grp/cntrl_Crystal_Main_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_01_grp/cntrl_Crystal_Main_01/Crystal_Main_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_02_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_02_grp/cntrl_Crystal_Main_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_02_grp/cntrl_Crystal_Main_02/Crystal_Main_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_03_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_03_grp/cntrl_Crystal_Main_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_03_grp/cntrl_Crystal_Main_03/Crystal_Main_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_04_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_04_grp/cntrl_Crystal_Main_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_04_grp/cntrl_Crystal_Main_04/Crystal_Main_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_05_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_05_grp/cntrl_Crystal_Main_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_05_grp/cntrl_Crystal_Main_05/Crystal_Main_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_06_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_06_grp/cntrl_Crystal_Main_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_06_grp/cntrl_Crystal_Main_06/Crystal_Main_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_07_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_07_grp/cntrl_Crystal_Main_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_07_grp/cntrl_Crystal_Main_07/Crystal_Main_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_08_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_08_grp/cntrl_Crystal_Main_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_08_grp/cntrl_Crystal_Main_08/Crystal_Main_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_09_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_09_grp/cntrl_Crystal_Main_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_09_grp/cntrl_Crystal_Main_09/Crystal_Main_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_010_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_010_grp/cntrl_Crystal_Main_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_010_grp/cntrl_Crystal_Main_010/Crystal_Main_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_011_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_011_grp/cntrl_Crystal_Main_011
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_011_grp/cntrl_Crystal_Main_011/Crystal_Main_011
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_012_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_012_grp/cntrl_Crystal_Main_012
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_012_grp/cntrl_Crystal_Main_012/Crystal_Main_012
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_013_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_013_grp/cntrl_Crystal_Main_013
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_013_grp/cntrl_Crystal_Main_013/Crystal_Main_013
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_014_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_014_grp/cntrl_Crystal_Main_014
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_014_grp/cntrl_Crystal_Main_014/Crystal_Main_014
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_015_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_015_grp/cntrl_Crystal_Main_015
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_015_grp/cntrl_Crystal_Main_015/Crystal_Main_015
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_016_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_016_grp/cntrl_Crystal_Main_016
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_016_grp/cntrl_Crystal_Main_016/Crystal_Main_016
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_017_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_017_grp/cntrl_Crystal_Main_017
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_017_grp/cntrl_Crystal_Main_017/Crystal_Main_017
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_018_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_018_grp/cntrl_Crystal_Main_018
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_018_grp/cntrl_Crystal_Main_018/Crystal_Main_018
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_019_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_019_grp/cntrl_Crystal_Main_019
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_019_grp/cntrl_Crystal_Main_019/Crystal_Main_019
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_020_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_020_grp/cntrl_Crystal_Main_020
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_020_grp/cntrl_Crystal_Main_020/Crystal_Main_020
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_021_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_021_grp/cntrl_Crystal_Main_021
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_021_grp/cntrl_Crystal_Main_021/Crystal_Main_021
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_022_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_022_grp/cntrl_Crystal_Main_022
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_022_grp/cntrl_Crystal_Main_022/Crystal_Main_022
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_023_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_023_grp/cntrl_Crystal_Main_023
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_023_grp/cntrl_Crystal_Main_023/Crystal_Main_023
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/Sulphur_Crystal_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Iron_Sulfide_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Iron_Sulfide_Grp/Iron_Sulfide_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Sulphur_Iron_Mixture_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Sulphur_Iron_Mixture_Grp/Iron_Powder_Alphas
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Sulphur_Iron_Mixture_Grp/Sulphur_Iron_Mixture_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/Shadow 2
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Cap_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Cap_grp/cntrl_Cap
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Cap_grp/cntrl_Cap/Cap
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp/cntrl_Graduated_Cylinder
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp/cntrl_Graduated_Cylinder/Graduated_Cylinder
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp/cntrl_Graduated_Cylinder/Graduated_Cylinder/Carbon_Disulphide_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp/cntrl_Graduated_Cylinder/Graduated_Cylinder/Carbon_Disulphide_Raise_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp/cntrl_Graduated_Cylinder/Graduated_Cylinder/Graduated_Cylinder
+          1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp/Shadow 3
+        weight: 1
+      - path: Level_2/Iron_Sulfide_Main1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: _acitivity2Lab2
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 1350
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Level_2
+        weight: 1
+      - path: Level_2/Activity_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/Carbon_Disulphide1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/Carbon_Disulphide1/cntrl_Bottle_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/Carbon_Disulphide1/cntrl_Bottle_grp/cntrl_Bottle
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/Carbon_Disulphide1/cntrl_Bottle_grp/cntrl_Bottle/Bottle
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/Carbon_Disulphide1/cntrl_Bottle_grp/cntrl_Bottle/Carbon_Disulphide_Main1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/Carbon_Disulphide1/Shadow
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp/cntrl_Beaker_A
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp/cntrl_Beaker_A/Beaker_A
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp/cntrl_Beaker_A/Beaker_A/Beaker_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp/cntrl_Beaker_A/Beaker_A/Beaker_Grp/Beaker
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp/cntrl_Beaker_A/Beaker_A/Beaker_Grp/Beaker_Fill_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp/Shadow 1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Beaker_Grp
+          1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Beaker_Grp
+          1/Beaker 1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Beaker_Grp
+          1/Beaker_Fill_Blend_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_01_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_01_grp/cntrl_Crystal_Main_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_01_grp/cntrl_Crystal_Main_01/Crystal_Main_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_02_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_02_grp/cntrl_Crystal_Main_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_02_grp/cntrl_Crystal_Main_02/Crystal_Main_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_03_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_03_grp/cntrl_Crystal_Main_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_03_grp/cntrl_Crystal_Main_03/Crystal_Main_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_04_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_04_grp/cntrl_Crystal_Main_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_04_grp/cntrl_Crystal_Main_04/Crystal_Main_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_05_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_05_grp/cntrl_Crystal_Main_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_05_grp/cntrl_Crystal_Main_05/Crystal_Main_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_06_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_06_grp/cntrl_Crystal_Main_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_06_grp/cntrl_Crystal_Main_06/Crystal_Main_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_07_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_07_grp/cntrl_Crystal_Main_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_07_grp/cntrl_Crystal_Main_07/Crystal_Main_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_08_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_08_grp/cntrl_Crystal_Main_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_08_grp/cntrl_Crystal_Main_08/Crystal_Main_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_09_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_09_grp/cntrl_Crystal_Main_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_09_grp/cntrl_Crystal_Main_09/Crystal_Main_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_010_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_010_grp/cntrl_Crystal_Main_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_010_grp/cntrl_Crystal_Main_010/Crystal_Main_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_011_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_011_grp/cntrl_Crystal_Main_011
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_011_grp/cntrl_Crystal_Main_011/Crystal_Main_011
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_012_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_012_grp/cntrl_Crystal_Main_012
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_012_grp/cntrl_Crystal_Main_012/Crystal_Main_012
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_013_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_013_grp/cntrl_Crystal_Main_013
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_013_grp/cntrl_Crystal_Main_013/Crystal_Main_013
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_014_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_014_grp/cntrl_Crystal_Main_014
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_014_grp/cntrl_Crystal_Main_014/Crystal_Main_014
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_015_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_015_grp/cntrl_Crystal_Main_015
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_015_grp/cntrl_Crystal_Main_015/Crystal_Main_015
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_016_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_016_grp/cntrl_Crystal_Main_016
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_016_grp/cntrl_Crystal_Main_016/Crystal_Main_016
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_017_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_017_grp/cntrl_Crystal_Main_017
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_017_grp/cntrl_Crystal_Main_017/Crystal_Main_017
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_018_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_018_grp/cntrl_Crystal_Main_018
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_018_grp/cntrl_Crystal_Main_018/Crystal_Main_018
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_019_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_019_grp/cntrl_Crystal_Main_019
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_019_grp/cntrl_Crystal_Main_019/Crystal_Main_019
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_020_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_020_grp/cntrl_Crystal_Main_020
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_020_grp/cntrl_Crystal_Main_020/Crystal_Main_020
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_021_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_021_grp/cntrl_Crystal_Main_021
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_021_grp/cntrl_Crystal_Main_021/Crystal_Main_021
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_022_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_022_grp/cntrl_Crystal_Main_022
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_022_grp/cntrl_Crystal_Main_022/Crystal_Main_022
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_023_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_023_grp/cntrl_Crystal_Main_023
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_023_grp/cntrl_Crystal_Main_023/Crystal_Main_023
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/Sulphur_Crystal_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Iron_Sulfide_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Iron_Sulfide_Grp/Iron_Sulfide_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Sulphur_Iron_Mixture_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Sulphur_Iron_Mixture_Grp/Iron_Powder_Alphas
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Sulphur_Iron_Mixture_Grp/Sulphur_Iron_Mixture_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/Shadow 2
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Cap_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Cap_grp/cntrl_Cap
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Cap_grp/cntrl_Cap/Cap
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp/cntrl_Graduated_Cylinder
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp/cntrl_Graduated_Cylinder/Graduated_Cylinder
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp/cntrl_Graduated_Cylinder/Graduated_Cylinder/Carbon_Disulphide_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp/cntrl_Graduated_Cylinder/Graduated_Cylinder/Carbon_Disulphide_Raise_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp/cntrl_Graduated_Cylinder/Graduated_Cylinder/Graduated_Cylinder
+          1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp/Shadow 3
+        weight: 1
+      - path: Level_2/Iron_Sulfide_Main1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: beakerBClip
+      takeName: Take 001
+      firstFrame: 509
+      lastFrame: 963
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Level_2
+        weight: 1
+      - path: Level_2/Activity_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/Carbon_Disulphide1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/Carbon_Disulphide1/cntrl_Bottle_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/Carbon_Disulphide1/cntrl_Bottle_grp/cntrl_Bottle
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/Carbon_Disulphide1/cntrl_Bottle_grp/cntrl_Bottle/Bottle
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/Carbon_Disulphide1/cntrl_Bottle_grp/cntrl_Bottle/Carbon_Disulphide_Main1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/Carbon_Disulphide1/Shadow
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp/cntrl_Beaker_A
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp/cntrl_Beaker_A/Beaker_A
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp/cntrl_Beaker_A/Beaker_A/Beaker_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp/cntrl_Beaker_A/Beaker_A/Beaker_Grp/Beaker
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp/cntrl_Beaker_A/Beaker_A/Beaker_Grp/Beaker_Fill_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_A_grp/Shadow 1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Beaker_Grp
+          1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Beaker_Grp
+          1/Beaker 1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Beaker_Grp
+          1/Beaker_Fill_Blend_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_01_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_01_grp/cntrl_Crystal_Main_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_01_grp/cntrl_Crystal_Main_01/Crystal_Main_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_02_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_02_grp/cntrl_Crystal_Main_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_02_grp/cntrl_Crystal_Main_02/Crystal_Main_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_03_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_03_grp/cntrl_Crystal_Main_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_03_grp/cntrl_Crystal_Main_03/Crystal_Main_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_04_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_04_grp/cntrl_Crystal_Main_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_04_grp/cntrl_Crystal_Main_04/Crystal_Main_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_05_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_05_grp/cntrl_Crystal_Main_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_05_grp/cntrl_Crystal_Main_05/Crystal_Main_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_06_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_06_grp/cntrl_Crystal_Main_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_06_grp/cntrl_Crystal_Main_06/Crystal_Main_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_07_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_07_grp/cntrl_Crystal_Main_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_07_grp/cntrl_Crystal_Main_07/Crystal_Main_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_08_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_08_grp/cntrl_Crystal_Main_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_08_grp/cntrl_Crystal_Main_08/Crystal_Main_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_09_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_09_grp/cntrl_Crystal_Main_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_09_grp/cntrl_Crystal_Main_09/Crystal_Main_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_010_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_010_grp/cntrl_Crystal_Main_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_010_grp/cntrl_Crystal_Main_010/Crystal_Main_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_011_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_011_grp/cntrl_Crystal_Main_011
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_011_grp/cntrl_Crystal_Main_011/Crystal_Main_011
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_012_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_012_grp/cntrl_Crystal_Main_012
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_012_grp/cntrl_Crystal_Main_012/Crystal_Main_012
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_013_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_013_grp/cntrl_Crystal_Main_013
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_013_grp/cntrl_Crystal_Main_013/Crystal_Main_013
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_014_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_014_grp/cntrl_Crystal_Main_014
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_014_grp/cntrl_Crystal_Main_014/Crystal_Main_014
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_015_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_015_grp/cntrl_Crystal_Main_015
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_015_grp/cntrl_Crystal_Main_015/Crystal_Main_015
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_016_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_016_grp/cntrl_Crystal_Main_016
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_016_grp/cntrl_Crystal_Main_016/Crystal_Main_016
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_017_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_017_grp/cntrl_Crystal_Main_017
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_017_grp/cntrl_Crystal_Main_017/Crystal_Main_017
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_018_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_018_grp/cntrl_Crystal_Main_018
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_018_grp/cntrl_Crystal_Main_018/Crystal_Main_018
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_019_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_019_grp/cntrl_Crystal_Main_019
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_019_grp/cntrl_Crystal_Main_019/Crystal_Main_019
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_020_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_020_grp/cntrl_Crystal_Main_020
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_020_grp/cntrl_Crystal_Main_020/Crystal_Main_020
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_021_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_021_grp/cntrl_Crystal_Main_021
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_021_grp/cntrl_Crystal_Main_021/Crystal_Main_021
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_022_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_022_grp/cntrl_Crystal_Main_022
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_022_grp/cntrl_Crystal_Main_022/Crystal_Main_022
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_023_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_023_grp/cntrl_Crystal_Main_023
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/cntrl_Crystal_Main_023_grp/cntrl_Crystal_Main_023/Crystal_Main_023
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/cntrl_Sulphur_Crystal_Grp_grp/cntrl_Sulphur_Crystal_Grp/Sulphur_Crystal_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Iron_Sulfide_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Iron_Sulfide_Grp/Iron_Sulfide_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Sulphur_Iron_Mixture_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Sulphur_Iron_Mixture_Grp/Iron_Powder_Alphas
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/cntrl_Beaker_B/Beaker_B/Sulphur_Iron_Mixture_Grp/Sulphur_Iron_Mixture_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Beaker_B_grp/Shadow 2
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Cap_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Cap_grp/cntrl_Cap
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Cap_grp/cntrl_Cap/Cap
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp/cntrl_Graduated_Cylinder
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp/cntrl_Graduated_Cylinder/Graduated_Cylinder
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp/cntrl_Graduated_Cylinder/Graduated_Cylinder/Carbon_Disulphide_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp/cntrl_Graduated_Cylinder/Graduated_Cylinder/Carbon_Disulphide_Raise_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp/cntrl_Graduated_Cylinder/Graduated_Cylinder/Graduated_Cylinder
+          1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_02/cntrl_Graduated_Cylinder_grp/Shadow 3
+        weight: 1
+      - path: Level_2/Iron_Sulfide_Main1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

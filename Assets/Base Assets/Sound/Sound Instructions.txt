@@ -1,0 +1,5 @@
+Sound Instructions :
+
+1. Scrolling sounds on pointer enter on buttons in main menu and objective scene only
+
+2. Click sounds on each buttons in every scene

@@ -1,0 +1,755 @@
+{
+
+            "lang": [
+                {
+                    "LANG_ID": "1",
+                    "LANG_CULTURE_NAME": "en-US",
+                    "LANG_NAME": "English - US",
+                    "LANG_NAME_EN": "English (US)",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "2",
+                    "LANG_CULTURE_NAME": "en-GB",
+                    "LANG_NAME": "English - International",
+                    "LANG_NAME_EN": "English (UK)",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "3",
+                    "LANG_CULTURE_NAME": "zh-CN",
+                    "LANG_NAME": "中文",
+                    "LANG_NAME_EN": "Simplified Chinese (China)",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "4",
+                    "LANG_CULTURE_NAME": "ar-AR",
+                    "LANG_NAME": "عربى",
+                    "LANG_NAME_EN": "Arabic",
+                    "DIR": "rtl"
+                },
+                {
+                    "LANG_ID": "5",
+                    "LANG_CULTURE_NAME": "fr-FR",
+                    "LANG_NAME": "Français",
+                    "LANG_NAME_EN": "French (France)",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "6",
+                    "LANG_CULTURE_NAME": "ru-RU",
+                    "LANG_NAME": "Русский",
+                    "LANG_NAME_EN": "Russian",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "7",
+                    "LANG_CULTURE_NAME": "hi-IN",
+                    "LANG_NAME": "हिन्दी",
+                    "LANG_NAME_EN": "Hindi",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "8",
+                    "LANG_CULTURE_NAME": "es-ES",
+                    "LANG_NAME": "Español (España)",
+                    "LANG_NAME_EN": "Spanish (Spain)",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "9",
+                    "LANG_CULTURE_NAME": "pt-PT",
+                    "LANG_NAME": "Português (Portugal)",
+                    "LANG_NAME_EN": "Portuguese (Portugal)",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "10",
+                    "LANG_CULTURE_NAME": "ja-JP",
+                    "LANG_NAME": "日本語",
+                    "LANG_NAME_EN": "Japanese",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "11",
+                    "LANG_CULTURE_NAME": "az-AZ",
+                    "LANG_NAME": "Azərbaycan dili",
+                    "LANG_NAME_EN": "Azerbaijani",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "12",
+                    "LANG_CULTURE_NAME": "ms-MY",
+                    "LANG_NAME": "Bahasa Indonesia",
+                    "LANG_NAME_EN": "Indonesian",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "13",
+                    "LANG_CULTURE_NAME": "id-ID",
+                    "LANG_NAME": "Bahasa Melayu",
+                    "LANG_NAME_EN": "Malay",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "14",
+                    "LANG_CULTURE_NAME": "jv-ID",
+                    "LANG_NAME": "Basa Jawa",
+                    "LANG_NAME_EN": "Javanese",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "15",
+                    "LANG_CULTURE_NAME": "cx-PH",
+                    "LANG_NAME": "Bisaya",
+                    "LANG_NAME_EN": "Cebuano",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "16",
+                    "LANG_CULTURE_NAME": "bs-BA",
+                    "LANG_NAME": "Bosanski",
+                    "LANG_NAME_EN": "Bosnian",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "17",
+                    "LANG_CULTURE_NAME": "br-FR",
+                    "LANG_NAME": "Brezhoneg",
+                    "LANG_NAME_EN": "Breton",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "18",
+                    "LANG_CULTURE_NAME": "ca-ES",
+                    "LANG_NAME": "Català",
+                    "LANG_NAME_EN": "Catalan",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "19",
+                    "LANG_CULTURE_NAME": "cs-CZ",
+                    "LANG_NAME": "Čeština",
+                    "LANG_NAME_EN": "Czech",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "20",
+                    "LANG_CULTURE_NAME": "co-FR",
+                    "LANG_NAME": "Corsu",
+                    "LANG_NAME_EN": "Corsican",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "21",
+                    "LANG_CULTURE_NAME": "cy-GB",
+                    "LANG_NAME": "Cymraeg",
+                    "LANG_NAME_EN": "Welsh",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "22",
+                    "LANG_CULTURE_NAME": "da-DK",
+                    "LANG_NAME": "Dansk",
+                    "LANG_NAME_EN": "Danish",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "23",
+                    "LANG_CULTURE_NAME": "de-DE",
+                    "LANG_NAME": "Deutsch",
+                    "LANG_NAME_EN": "German",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "24",
+                    "LANG_CULTURE_NAME": "et-EE",
+                    "LANG_NAME": "Eesti",
+                    "LANG_NAME_EN": "Estonian",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "25",
+                    "LANG_CULTURE_NAME": "es-LA",
+                    "LANG_NAME": "Español",
+                    "LANG_NAME_EN": "Spanish",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "26",
+                    "LANG_CULTURE_NAME": "eu-ES",
+                    "LANG_NAME": "Euskara",
+                    "LANG_NAME_EN": "Basque",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "27",
+                    "LANG_CULTURE_NAME": "tl-PH",
+                    "LANG_NAME": "Filipino",
+                    "LANG_NAME_EN": "Filipino",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "28",
+                    "LANG_CULTURE_NAME": "fo-FO",
+                    "LANG_NAME": "Føroyskt",
+                    "LANG_NAME_EN": "Faroese",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "29",
+                    "LANG_CULTURE_NAME": "fr-CA",
+                    "LANG_NAME": "Français (Canada)",
+                    "LANG_NAME_EN": "French (Canada)",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "30",
+                    "LANG_CULTURE_NAME": "fy-NL",
+                    "LANG_NAME": "Frysk",
+                    "LANG_NAME_EN": "Frisian",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "31",
+                    "LANG_CULTURE_NAME": "ga-IE",
+                    "LANG_NAME": "Gaeilge",
+                    "LANG_NAME_EN": "Irish",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "32",
+                    "LANG_CULTURE_NAME": "gl-ES",
+                    "LANG_NAME": "Galego",
+                    "LANG_NAME_EN": "Galician",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "33",
+                    "LANG_CULTURE_NAME": "gn-PY",
+                    "LANG_NAME": "Guarani",
+                    "LANG_NAME_EN": "Guarani",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "34",
+                    "LANG_CULTURE_NAME": "hr-HR",
+                    "LANG_NAME": "Hrvatski",
+                    "LANG_NAME_EN": "Croatian",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "35",
+                    "LANG_CULTURE_NAME": "is-IS",
+                    "LANG_NAME": "Íslenska",
+                    "LANG_NAME_EN": "Icelandic",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "36",
+                    "LANG_CULTURE_NAME": "it-IT",
+                    "LANG_NAME": "Italiano",
+                    "LANG_NAME_EN": "Italian",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "37",
+                    "LANG_CULTURE_NAME": "ht-HT",
+                    "LANG_NAME": "Kreyòl Ayisyen",
+                    "LANG_NAME_EN": "Haitian Creole",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "38",
+                    "LANG_CULTURE_NAME": "lv-LV",
+                    "LANG_NAME": "Latviešu",
+                    "LANG_NAME_EN": "Latvian",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "39",
+                    "LANG_CULTURE_NAME": "lt-LT",
+                    "LANG_NAME": "Lietuvių",
+                    "LANG_NAME_EN": "Lithuanian",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "40",
+                    "LANG_CULTURE_NAME": "hu-HU",
+                    "LANG_NAME": "Magyar",
+                    "LANG_NAME_EN": "Hungarian",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "41",
+                    "LANG_CULTURE_NAME": "mt-MT",
+                    "LANG_NAME": "Malti",
+                    "LANG_NAME_EN": "Maltese",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "42",
+                    "LANG_CULTURE_NAME": "nl-NL",
+                    "LANG_NAME": "Nederlands",
+                    "LANG_NAME_EN": "Dutch",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "43",
+                    "LANG_CULTURE_NAME": "nl-BE",
+                    "LANG_NAME": "Nederlands (België)",
+                    "LANG_NAME_EN": "Dutch (BelgiÃ«)",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "44",
+                    "LANG_CULTURE_NAME": "nb-NO",
+                    "LANG_NAME": "Norsk (bokmål)",
+                    "LANG_NAME_EN": "Norwegian (bokmal)",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "45",
+                    "LANG_CULTURE_NAME": "nn-NO",
+                    "LANG_NAME": "Norsk (nynorsk)",
+                    "LANG_NAME_EN": "Norwegian (nynorsk)",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "46",
+                    "LANG_CULTURE_NAME": "uz-UZ",
+                    "LANG_NAME": "Ozbek",
+                    "LANG_NAME_EN": "Uzbek",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "47",
+                    "LANG_CULTURE_NAME": "pl-PL",
+                    "LANG_NAME": "Polski",
+                    "LANG_NAME_EN": "Polish",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "48",
+                    "LANG_CULTURE_NAME": "pt-BR",
+                    "LANG_NAME": "Português (Brasil)",
+                    "LANG_NAME_EN": "Portuguese (Brazil)",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "49",
+                    "LANG_CULTURE_NAME": "ro-RO",
+                    "LANG_NAME": "Română",
+                    "LANG_NAME_EN": "Romanian",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "50",
+                    "LANG_CULTURE_NAME": "sc-IT",
+                    "LANG_NAME": "Sardu",
+                    "LANG_NAME_EN": "Sardinian",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "51",
+                    "LANG_CULTURE_NAME": "sq-AL",
+                    "LANG_NAME": "Shqip",
+                    "LANG_NAME_EN": "Albanian",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "52",
+                    "LANG_CULTURE_NAME": "sz-PL",
+                    "LANG_NAME": "ślōnskŏ gŏdka",
+                    "LANG_NAME_EN": "Silesian",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "53",
+                    "LANG_CULTURE_NAME": "sk-SK",
+                    "LANG_NAME": "Slovenčina",
+                    "LANG_NAME_EN": "Slovak",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "54",
+                    "LANG_CULTURE_NAME": "sl-SI",
+                    "LANG_NAME": "Slovenščina",
+                    "LANG_NAME_EN": "Slovenian",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "55",
+                    "LANG_CULTURE_NAME": "fi-FI",
+                    "LANG_NAME": "Suomi",
+                    "LANG_NAME_EN": "Finnish",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "56",
+                    "LANG_CULTURE_NAME": "sv-SE",
+                    "LANG_NAME": "Svenska",
+                    "LANG_NAME_EN": "Swedish",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "57",
+                    "LANG_CULTURE_NAME": "vi-VN",
+                    "LANG_NAME": "Tiếng Việt",
+                    "LANG_NAME_EN": "Vietnamese",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "58",
+                    "LANG_CULTURE_NAME": "el-GR",
+                    "LANG_NAME": "Ελληνικά",
+                    "LANG_NAME_EN": "Greek",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "59",
+                    "LANG_CULTURE_NAME": "be-BY",
+                    "LANG_NAME": "Беларуская",
+                    "LANG_NAME_EN": "Belarusian",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "60",
+                    "LANG_CULTURE_NAME": "bg-BG",
+                    "LANG_NAME": "Български",
+                    "LANG_NAME_EN": "Bulgarian",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "61",
+                    "LANG_CULTURE_NAME": "ky-KG",
+                    "LANG_NAME": "кыргызча",
+                    "LANG_NAME_EN": "Kyrgyz",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "62",
+                    "LANG_CULTURE_NAME": "kk-KZ",
+                    "LANG_NAME": "Қазақша",
+                    "LANG_NAME_EN": "Kazakh",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "63",
+                    "LANG_CULTURE_NAME": "mk-MK",
+                    "LANG_NAME": "Македонски",
+                    "LANG_NAME_EN": "Macedonian",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "64",
+                    "LANG_CULTURE_NAME": "mn-MN",
+                    "LANG_NAME": "Монгол",
+                    "LANG_NAME_EN": "Mongolian",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "65",
+                    "LANG_CULTURE_NAME": "sr-RS",
+                    "LANG_NAME": "Српски",
+                    "LANG_NAME_EN": "Serbian",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "66",
+                    "LANG_CULTURE_NAME": "tg-TJ",
+                    "LANG_NAME": "Тоҷикӣ",
+                    "LANG_NAME_EN": "Tajik",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "67",
+                    "LANG_CULTURE_NAME": "uk-UA",
+                    "LANG_NAME": "Українська",
+                    "LANG_NAME_EN": "Ukrainian",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "68",
+                    "LANG_CULTURE_NAME": "ka-GE",
+                    "LANG_NAME": "ქართული",
+                    "LANG_NAME_EN": "Georgian",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "69",
+                    "LANG_CULTURE_NAME": "hy-AM",
+                    "LANG_NAME": "Հայերեն",
+                    "LANG_NAME_EN": "Armenian",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "70",
+                    "LANG_CULTURE_NAME": "ur-PK",
+                    "LANG_NAME": "\u200fاردو\u200f",
+                    "LANG_NAME_EN": "Urdu",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "71",
+                    "LANG_CULTURE_NAME": "ps-AF",
+                    "LANG_NAME": "\u200fپښتو\u200f",
+                    "LANG_NAME_EN": "Pashto",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "72",
+                    "LANG_CULTURE_NAME": "tz-MA",
+                    "LANG_NAME": "ⵜⴰⵎⴰⵣⵉⵖⵜ",
+                    "LANG_NAME_EN": "Tamazight",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "73",
+                    "LANG_CULTURE_NAME": "am-ET",
+                    "LANG_NAME": "አማርኛ",
+                    "LANG_NAME_EN": "Amharic",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "74",
+                    "LANG_CULTURE_NAME": "ne-NP",
+                    "LANG_NAME": "नेपाली",
+                    "LANG_NAME_EN": "Nepali",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "75",
+                    "LANG_CULTURE_NAME": "mr-IN",
+                    "LANG_NAME": "मराठी",
+                    "LANG_NAME_EN": "Marathi",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "76",
+                    "LANG_CULTURE_NAME": "as-IN",
+                    "LANG_NAME": "অসমীয়া",
+                    "LANG_NAME_EN": "Assamese",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "77",
+                    "LANG_CULTURE_NAME": "bn-IN",
+                    "LANG_NAME": "বাংলা",
+                    "LANG_NAME_EN": "Bengali",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "78",
+                    "LANG_CULTURE_NAME": "pa-IN",
+                    "LANG_NAME": "ਪੰਜਾਬੀ",
+                    "LANG_NAME_EN": "Punjabi",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "79",
+                    "LANG_CULTURE_NAME": "gu-IN",
+                    "LANG_NAME": "ગુજરાતી",
+                    "LANG_NAME_EN": "Gujarati",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "80",
+                    "LANG_CULTURE_NAME": "or-IN",
+                    "LANG_NAME": "ଓଡ଼ିଆ",
+                    "LANG_NAME_EN": "Oriya",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "81",
+                    "LANG_CULTURE_NAME": "ta-IN",
+                    "LANG_NAME": "தமிழ்",
+                    "LANG_NAME_EN": "Tamil",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "82",
+                    "LANG_CULTURE_NAME": "te-IN",
+                    "LANG_NAME": "తెలుగు",
+                    "LANG_NAME_EN": "Telugu",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "83",
+                    "LANG_CULTURE_NAME": "kn-IN",
+                    "LANG_NAME": "ಕನ್ನಡ",
+                    "LANG_NAME_EN": "Kannada",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "84",
+                    "LANG_CULTURE_NAME": "ml-IN",
+                    "LANG_NAME": "മലയാളം",
+                    "LANG_NAME_EN": "Malayalam",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "85",
+                    "LANG_CULTURE_NAME": "si-LK",
+                    "LANG_NAME": "සිංහල",
+                    "LANG_NAME_EN": "Sinhala",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "86",
+                    "LANG_CULTURE_NAME": "th-TH",
+                    "LANG_NAME": "ภาษาไทย",
+                    "LANG_NAME_EN": "Thai",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "87",
+                    "LANG_CULTURE_NAME": "lo-LA",
+                    "LANG_NAME": "ພາສາລາວ",
+                    "LANG_NAME_EN": "Lao",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "88",
+                    "LANG_CULTURE_NAME": "my-MM",
+                    "LANG_NAME": "မြန်မာဘာသာ",
+                    "LANG_NAME_EN": "Burmese",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "89",
+                    "LANG_CULTURE_NAME": "km-KH",
+                    "LANG_NAME": "ភាសាខ្មែរ",
+                    "LANG_NAME_EN": "Khmer",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "90",
+                    "LANG_CULTURE_NAME": "ko-KR",
+                    "LANG_NAME": "한국어",
+                    "LANG_NAME_EN": "Korean",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "91",
+                    "LANG_CULTURE_NAME": "zh-TW",
+                    "LANG_NAME": "中文(台灣)",
+                    "LANG_NAME_EN": "Traditional Chinese (Taiwan)",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "92",
+                    "LANG_CULTURE_NAME": "zh-HK",
+                    "LANG_NAME": "中文(香港)",
+                    "LANG_NAME_EN": "Traditional Chinese (Hong Kong)",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "93",
+                    "LANG_CULTURE_NAME": "ja-KS",
+                    "LANG_NAME": "日本語(関西)",
+                    "LANG_NAME_EN": "Japanese (Kansai)",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "94",
+                    "LANG_CULTURE_NAME": "so-SO",
+                    "LANG_NAME": "Af-Soomaali",
+                    "LANG_NAME_EN": "Somali",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "95",
+                    "LANG_CULTURE_NAME": "af-ZA",
+                    "LANG_NAME": "Afrikaans",
+                    "LANG_NAME_EN": "Afrikaans",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "96",
+                    "LANG_CULTURE_NAME": "ff-NG",
+                    "LANG_NAME": "Fula",
+                    "LANG_NAME_EN": "Fula",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "97",
+                    "LANG_CULTURE_NAME": "ha-NG",
+                    "LANG_NAME": "Hausa",
+                    "LANG_NAME_EN": "Hausa",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "98",
+                    "LANG_CULTURE_NAME": "rw-RW",
+                    "LANG_NAME": "Ikinyarwanda",
+                    "LANG_NAME_EN": "Kinyarwanda",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "99",
+                    "LANG_CULTURE_NAME": "sw-KE",
+                    "LANG_NAME": "Kiswahili",
+                    "LANG_NAME_EN": "Swahili",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "100",
+                    "LANG_CULTURE_NAME": "ku-TR",
+                    "LANG_NAME": "Kurdî (Kurmancî)",
+                    "LANG_NAME_EN": "Kurdish (Kurmanji)",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "101",
+                    "LANG_CULTURE_NAME": "mg-MG",
+                    "LANG_NAME": "Malagasy",
+                    "LANG_NAME_EN": "Malagasy",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "102",
+                    "LANG_CULTURE_NAME": "sn-ZW",
+                    "LANG_NAME": "Shona",
+                    "LANG_NAME_EN": "Shona",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "103",
+                    "LANG_CULTURE_NAME": "tr-TR",
+                    "LANG_NAME": "Türkçe",
+                    "LANG_NAME_EN": "Turkish",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "104",
+                    "LANG_CULTURE_NAME": "zz-TR",
+                    "LANG_NAME": "Zaza",
+                    "LANG_NAME_EN": "Zaza",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "105",
+                    "LANG_CULTURE_NAME": "he-IL",
+                    "LANG_NAME": "\u200fעברית\u200f",
+                    "LANG_NAME_EN": "Hebrew",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "106",
+                    "LANG_CULTURE_NAME": "fa-IR",
+                    "LANG_NAME": "\u200fفارسی\u200f",
+                    "LANG_NAME_EN": "Persian",
+                    "DIR": "ltr"
+                },
+                {
+                    "LANG_ID": "107",
+                    "LANG_CULTURE_NAME": "cb-IQ",
+                    "LANG_NAME": "\u200fکوردیی ناوەندی\u200f",
+                    "LANG_NAME_EN": "Sorani Kurdish",
+                    "DIR": "ltr"
+                }
+            ]
+        
+}

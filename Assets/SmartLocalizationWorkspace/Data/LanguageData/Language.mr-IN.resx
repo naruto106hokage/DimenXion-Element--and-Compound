@@ -1,0 +1,573 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root><!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+	<data name="C_Activity_Menu" xml:space="preserve">
+		<value>miØekpk esU;w</value>
+	</data>
+	<data name="C_Assess_your_Knowledge" xml:space="preserve">
+		<value>vkiY;k Kkukpk vk&lt;kok ?;k</value>
+	</data>
+	<data name="C_Btn_Close" xml:space="preserve">
+		<value>can djk</value>
+	</data>
+	<data name="C_Btn_SyncToServer" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_Completed_Activity" xml:space="preserve">
+		<value>vki.k gk miØe iw.kZ dsyk vkgs </value>
+	</data>
+	<data name="C_Completed_Assessment" xml:space="preserve">
+		<value>vki.k ewY;kadu iw.kZ dsys vkgs-</value>
+	</data>
+	<data name="C_Correct_Response" xml:space="preserve">
+		<value>gk ;ksX; çfrlkn vkgs-</value>
+	</data>
+	<data name="C_Follow_Ins_Perform_Assessment_Earn_Points" xml:space="preserve">
+		<value>ewY;kadu dj.;klkBh vkf.k xq.k feGfo.;klkBh lwpuk ikGk- </value>
+	</data>
+	<data name="C_Fullpoints_Correct_Fewpoints_Tryagain" xml:space="preserve">
+		<value>tsOgk vki.k ifgY;k ç;Rukr cjkscj vlky rsOgk vkiY;kyk iw.kZ xq.k feGrhy] vkiY;kyk iqUgk ç;Ru djkok ykxyk rj deh xq.k feGrhy-</value>
+	</data>
+	<data name="C_Here_is_Your_Score" xml:space="preserve">
+		<value>vkiys xq.k vls vkgsr%</value>
+	</data>
+	<data name="C_Inst_CheckNetworkConnection" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_Inst_ServerError" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_Move_Highlighted_Area" xml:space="preserve">
+		<value>vkiY;k fu;a=dkpk okij d:u BGd dsysY;k {ks=kdMs tk-</value>
+	</data>
+	<data name="C_No" xml:space="preserve">
+		<value>ukgh</value>
+	</data>
+	<data name="C_Nopoint_Hint" xml:space="preserve">
+		<value>vki.k b'kkjk okijY;kl dks.krsgh xq.k fnys tkr ukghr-</value>
+	</data>
+	<data name="C_OK" xml:space="preserve">
+		<value>Bhd vkgs</value>
+	</data>
+	<data name="C_Perform_Assessment_Earn_Points" xml:space="preserve">
+		<value>ewY;kadu dj.;klkBh vkf.k xq.k feGfo.;klkBh lwpuk ikGk-</value>
+	</data>
+	<data name="C_Quit" xml:space="preserve">
+		<value>lksMwu tk</value>
+	</data>
+	<data name="C_Restart_Activity" xml:space="preserve">
+		<value>miØe iqUgk lq: djk</value>
+	</data>
+	<data name="C_Resume" xml:space="preserve">
+		<value>iqUgk lq: djk</value>
+	</data>
+	<data name="C_Return_Menu_Continue_Next_Activity" xml:space="preserve">
+		<value>esU;woj ijr tk.;klkBh vkf.k iq&lt;hy fØ;k lq: Bso.;klkBh vksds fuoMk-</value>
+	</data>
+	<data name="C_Return_Menu_Try_Activity_Again" xml:space="preserve">
+		<value>esU;weè;s ijr vkY;kuarj] vkiY;kyk vkiys xq.k lqèkkj.;klkBh iqUgk miØe d:u c?krk ;srhy-</value>
+	</data>
+	<data name="C_Scored_Less_Than_60" xml:space="preserve">
+		<value>vkiY;kyk 60çfr'kr is{kk deh xq.k feGkys vkgsr-</value>
+	</data>
+	<data name="C_Scored_Well_Completed_Module" xml:space="preserve">
+		<value>vki.k pkaxys xq.k feGoys vkgsr vkf.k vki.k e‚Mîwy iw.kZ dsys vkgs!</value>
+	</data>
+	<data name="C_Scrore" xml:space="preserve">
+		<value>xq.k</value>
+	</data>
+	<data name="C_Select_Ok_Menu_Exit" xml:space="preserve">
+		<value>vkiY;kyk ckgsj iMrk ;sbZy v'kk esU;woj ijr tk.;klkBh vksds fuoMk-</value>
+	</data>
+	<data name="C_Try_Multipletimes_awarded_only_answer_correctly" xml:space="preserve">
+		<value>vkiY;kyk vusd osGk d:u c?krk ;sbZy] ijarq ifgY;k ç;Rukr vki.k ;ksX; mÙkj fnys rjp xq.k fnys tkrkr-</value>
+	</data>
+	<data name="C_TryAgain1" xml:space="preserve">
+		<value>iqUgk ç;Ru djk-</value>
+	</data>
+	<data name="C_TryAgain2" xml:space="preserve">
+		<value>rs rla ukgh-</value>
+	</data>
+	<data name="C_TryAgain3" xml:space="preserve">
+		<value>vxnh cjkscj vkgs vls ukgh-</value>
+	</data>
+	<data name="C_View_Learning_Objective" xml:space="preserve">
+		<value>f'kd.;kph míh"Vs igk</value>
+	</data>
+	<data name="C_Want_To_Quit" xml:space="preserve">
+		<value>vkiY;kyk uDdh lksMk;ps vkgs dk\</value>
+	</data>
+	<data name="C_WellDone1" xml:space="preserve">
+		<value>Nku dsys!</value>
+	</data>
+	<data name="C_WellDone2" xml:space="preserve">
+		<value>cjkscj!</value>
+	</data>
+	<data name="C_WellDone3" xml:space="preserve">
+		<value>;ksX; vkgs!</value>
+	</data>
+	<data name="C_yes" xml:space="preserve">
+		<value>gks;</value>
+	</data>
+	<data name="Choose_Language" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L1_Btn_AddedInst1" xml:space="preserve">
+		<value>rqEgkyk ekfgr vkgs dh foÜokrhy loZ inkFkZ ,drj 'kq) inkFkZ fdaok feJ.k Eg.kwu oxÊÑr dsys tkÅ 'kdrkr?k~ 'kq) inkFkkZaph laiw.kZ jpuk leku vlrs- rs ?kVd fdaok la;qxs Eg.kwu oxÊÑr dsys tkÅ 'kdrkr-</value>
+	</data>
+	<data name="L1_Btn_AddedInst2" xml:space="preserve">
+		<value>?kVd [kafMr dsys tkÅ 'kdr ukghr- nksu fdaok vfèkd ?kVdkaP;k jklk;fud la;ksxkrwu la;qxs r;kj gksrkr- gs ?kVd HkkSfrd ekxkZus osxGs dsys tkÅ 'kdr ukghr- daikÅaMps xq.kèkeZ daikÅaM cufo.kkj+~;k çR;sd ?kVdkP;k xq.kèkekZais{kk iw.kZi.ks fHkUu vlrkr-</value>
+	</data>
+	<data name="L1_Btn_AddedInst3" xml:space="preserve">
+		<value>tsOgk nksu fdaok vfèkd inkFkZ HkkSfrdfjR;k ,d= dsys tkrkr rsOgk feJ.k r;kj gksrkr- feJ.kkps Hkkx HkkSfrdfjR;k ,desdkaiklwu osxGs dsys tkÅ 'kdrkr- feJ.kkrhy loZ inkFkZ R;kaps ewG xq.kèkeZ fVdowu Bsorkr-</value>
+	</data>
+	<data name="L1_Btn_AddedInst4" xml:space="preserve">
+		<value>vkEgh iq&lt;hy ç;ksxkr gs uequs oki:-</value>
+	</data>
+	<data name="L1_Btn_Instruction1" xml:space="preserve">
+		<value>yksg vkf.k xaèkd gs ?kVd fefDlax psacjeè;s vlrkr- 'kq) inkFkZ vkf.k feJ.kkacíy vfèkd tk.kwu ?ks.;klkBh dkgh ç;ksx d:;k-</value>
+	</data>
+	<data name="L1_Btn_Instruction2" xml:space="preserve">
+		<value>?kVd Qä ,d= felGys tkrkr vkf.k dks.krhgh jklk;fud çfrfØ;k gksr ukgh-</value>
+	</data>
+	<data name="L1_Btn_Instruction3" xml:space="preserve">
+		<value>xje dsY;koj] yksg vkf.k lYQj jklk;fud jhrhus çfrfØ;k nsÅu yksg lYQkbM r;kj djrkr-</value>
+	</data>
+	<data name="L1_Btn_Instruction4" xml:space="preserve">
+		<value>;k inkFkkZaps R;kaP;k xq.kèkekZaoj vkèkkfjr ?kVd] la;qxs fdaok feJ.k vls oxÊdj.k d: ;k-</value>
+	</data>
+	<data name="L1_Btn_Instruction5" xml:space="preserve">
+		<value>yksg gs Qä yksgkP;k v.kwauh cuysys vlrs- Eg.kwu] rks ,d ?kVd vkgs-</value>
+	</data>
+	<data name="L1_Btn_Instruction6" xml:space="preserve">
+		<value>lYQj gs Qä lYQjP;k v.kwauh cuysys vlrs- Eg.kwu] rks ns[khy ,d ?kVd vkgs-</value>
+	</data>
+	<data name="L1_Btn_Instruction7" xml:space="preserve">
+		<value>gs daikÅaM yksg lYQkbM vkgs- rs yksg vkf.k lYQj ;k nksu ?kVdkauh cuysys vkgs] ts HkkSfrdfjR;k osxGs dsys tkÅ 'kdr ukghr-</value>
+	</data>
+	<data name="L1_Btn_Instruction8" xml:space="preserve">
+		<value>gk uequk ,d feJ.k vkgs dkj.k yksg vkf.k lYQj gs inkFkZ osxGs jkgrkr- rs jklk;fudfjR;k ,d= dsysys ukghr-</value>
+	</data>
+	<data name="L1_Btn_Instruction9" xml:space="preserve">
+		<value>eq[; ladYiuk
+● ewyæO;s vkf.k la;qxs gs 'kq) inkFkZ vkgsr dkj.k R;kaph laiw.kZ jpuk lkj[khp vlrs-
+● feJ.k r;kj gksrkr tsOgk nksu fdaok vfèkd inkFkZ HkkSfrd nz"Vîk] ijarq jklk;fud nz"Vîk ,df=r ulrkr-</value>
+	</data>
+	<data name="L1_Inst_drag1" xml:space="preserve">
+		<value>yks[kaMh ikoMj vlysys isVªh fM'k R;kps d.k nz'; ikg.;klkBh gk;ykbV dsysY;k Hkkxkr MªWx djk-</value>
+	</data>
+	<data name="L1_Inst_drag2" xml:space="preserve">
+		<value>lYQj vlysY;k isVªh fM'kps d.k nz'; ikg.;klkBh gk;ykbV dsysY;k Hkkxkr MªWx djk-</value>
+	</data>
+	<data name="L1_Inst_drag3" xml:space="preserve">
+		<value>isVªh fM'kps inkFkZ T;keè;s fjvWD'ku psacjeèkwu gk;ykbV dsysY;k Hkkxkoj R;kps d.k nz'; ikg.;klkBh MªWx djk-</value>
+	</data>
+	<data name="L1_Inst_drag4" xml:space="preserve">
+		<value>fefDlax psacjeèkwu inkFkZ vlysys isVªh fM'k R;kps d.k nz'; ikg.;klkBh gk;ykbV dsysY;k Hkkxkr MªWx djk-</value>
+	</data>
+	<data name="L1_Inst_SelectButton1" xml:space="preserve">
+		<value>feJ.k lq: dj.;klkBh gk;ykbV dsysys cV.k fuoMk-</value>
+	</data>
+	<data name="L1_Inst_SelectButton2" xml:space="preserve">
+		<value>çfrfØ;k lq: dj.;klkBh gk;ykbV dsysys cV.k fuoMk-</value>
+	</data>
+	<data name="L1_Inst_SelectButton3" xml:space="preserve">
+		<value>çR;sd psacjeèkwu uequk xksGk dj.;klkBh gk;ykbV dsysys cV.k fuoMk-</value>
+	</data>
+	<data name="L1_Inst_SelectYellowButton" xml:space="preserve">
+		<value>fjvWD'ku psacjeè;s yksg vkf.k lYQjps feJ.k tksM.;klkBh gk;ykbV dsysys cV.k fuoMk-</value>
+	</data>
+	<data name="L1_Label_Compond" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L1_Label_Element" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L1_Label_Heat" xml:space="preserve">
+		<value>m".krk</value>
+	</data>
+	<data name="L1_Label_iron" xml:space="preserve">
+		<value>yks[kaM</value>
+	</data>
+	<data name="L1_Label_IronSulphide" xml:space="preserve">
+		<value>yksg lYQkbM</value>
+	</data>
+	<data name="L1_Label_mixture_chamber" xml:space="preserve">
+		<value>fefDlax psacjeèkwu feGoysys inkFkZ</value>
+	</data>
+	<data name="L1_Label_mixure1" xml:space="preserve">
+		<value>fefDlax psacj</value>
+	</data>
+	<data name="L1_Label_mixure2" xml:space="preserve">
+		<value>çfrfØ;k d{k</value>
+	</data>
+	<data name="L1_Label_reaction_chamber" xml:space="preserve">
+		<value>çfrfØ;k d{kkrwu feGoysys inkFkZ</value>
+	</data>
+	<data name="L1_Label_sulfur" xml:space="preserve">
+		<value>lYQj</value>
+	</data>
+	<data name="L2_Inst_DragDropForSulphide" xml:space="preserve">
+		<value>pqacdh; pkp.kh dj.;klkBh pqacd fuoMk
+yksg lYQkbMpk xq.kèkeZ-</value>
+	</data>
+	<data name="L2_Inst_DragDropForSulphur" xml:space="preserve">
+		<value>pqacdh; xq.kèkeZ rikl.;klkBh pqacd fuoMk
+yksg vkf.k xaèkd ;kaps feJ.k-</value>
+	</data>
+	<data name="L2_Inst_DragDropGraduateCylForA" xml:space="preserve">
+		<value>xzWT;q,VsM flysaMj chdj    oj vks&lt;k vkf.k chdj    eè;s 20  dkcZu Mk;lYQkbZM ?kkyk-</value>
+	</data>
+	<data name="L2_Inst_DragDropGraduateCylForB" xml:space="preserve">
+		<value>xzWT;q,VsM flysaMj chdj     oj vks&lt;k vkf.k chdj    eè;s 20   dkcZu Mk;lYQkbZM ?kkyk-</value>
+	</data>
+	<data name="L2_Inst_DragDropSolutionBottle" xml:space="preserve">
+		<value>dkcZu Mk;lYQkbM lksY;w'kuph ckVyh xzWT;q,VsM flfyaMjeè;s MªWx djk vkf.k xzWT;q,VsM flfyaMjeè;s 40 ,e,y dkcZu Mk;lYQkbM ?kkyk-</value>
+	</data>
+	<data name="L2_Inst_FollowInst" xml:space="preserve">
+		<value>vki.k la;qxs vkf.k feJ.kkaeè;s Qjd d: 'kdrks v'kk i)rhapk 'kksèk lq: Bsow;k-</value>
+	</data>
+	<data name="L2_Inst_IronSulphideMagnet" xml:space="preserve">
+		<value>yksg lYQkbMoj yksgpqacd gyoY;koj pqacdkyk dks.krsgh d.k tksMys tkr ukghr- Eg.kwu] yksg lYQkbM pqacdh; ukgh-</value>
+	</data>
+	<data name="L2_Inst_KeyConcept" xml:space="preserve">
+		<value>eq[; ladYiuk
+
+● la;qxkps xq.kèkeZ daikÅaM cufo.kkj+~;k çR;sd ?kVdkP;k xq.kèkekZais{kk osxGs vlrkr-
+● feJ.kkeè;s] feJ.k r;kj dj.kkjs loZ inkFkZ R;kaps ewG xq.kèkeZ fVdowu Bsorkr-</value>
+	</data>
+	<data name="L2_Inst_LetsTestBoth" xml:space="preserve">
+		<value>yksg] ,d ?kVd Eg.kwu] pqacdh; vkgs- yksgkps pqacdRo fVdwu vkgs dh ukgh gs ikg.;klkBh daikÅaM vkf.k feJ.k ;k nksUghph pkp.kh d:-</value>
+	</data>
+	<data name="L2_Inst_MixtureOfBoth" xml:space="preserve">
+		<value>yks[kaM vkf.k xaèkdkP;k feJ.kkr] fioGs lYQj ikoMj vkf.k yks[kaMh nkfxus nksUgh fnlrkr- ;kmyV] yksg lYQkbMps Lo:i ,dlkj[ks vlrs-</value>
+	</data>
+	<data name="L2_Inst_MixtureOfIronSulphideMagnet" xml:space="preserve">
+		<value>feJ.kkr] yksg R;kps xq.kèkeZ fVdowu Bsors] rj la;qxkr] yksgkus R;kps xq.kèkeZ xekoys vkgsr-</value>
+	</data>
+	<data name="L2_Inst_MixtureSulphurDissolves" xml:space="preserve">
+		<value>dkcZu Mk;lYQkbMeè;s lYQj foj?kGrs- yks[kaMh fQfyaXl v?kqyu'khy vlrkr vkf.k chdjP;k rGk'kh jkgrkr-</value>
+	</data>
+	<data name="L2_Inst_MixtureSulphurRetains" xml:space="preserve">
+		<value>lYQj R;kps xq.kèkeZ feJ.kkr fVdowu Bsors] rj lYQjus yksgkoj çfrfØ;k fnY;kuarj R;kps ewG xq.kèkeZ xekoys vkgsr-</value>
+	</data>
+	<data name="L2_Inst_MoveTowardsNext" xml:space="preserve">
+		<value>pyk ;kSfxdkaph oSf'k"Vîs 'kksèk.ks lq: Bsow;k- gk;ykbV dsysY;k Hkkxkr tk-</value>
+	</data>
+	<data name="L2_Inst_NoChangesObserved" xml:space="preserve">
+		<value>yksg lYQkbMeè;s dkcZu Mk;lYQkbZM tksMY;kl dks.krkgh cny fnlwu ;sr ukgh-</value>
+	</data>
+	<data name="L2_Inst_ObserveBoth" xml:space="preserve">
+		<value>yks[kaMh QkbZy pqacdkyk fpdVrkr-</value>
+	</data>
+	<data name="L2_Inst_ObserveChanges" xml:space="preserve">
+		<value>yksg vkf.k lYQjP;k feJ.kkr dkcZu Mk;lYQkbM felGY;koj çfrfØ;k igk-</value>
+	</data>
+	<data name="L2_Inst_ObserveProcess" xml:space="preserve">
+		<value>yks[kaMh QkbZy pqacdkyk fpdVrkr-</value>
+	</data>
+	<data name="L2_Inst_SelectCapOfBottle" xml:space="preserve">
+		<value>lYQjP;k xq.kèkekZaiSdh ,d Eg.kts R;kph dkcZu Mk;lYQkbMeè;s foækO;rk- rh dk&lt;.;klkBh dkcZu Mk;lYQkbM lksY;w'ku ckVyhph Vksih fuoMk-</value>
+	</data>
+	<data name="L2_Inst_TakeaLook" xml:space="preserve">
+		<value>yksg lYQkbM vkf.k yksg vkf.k lYQj ;kaps feJ.k ;k nksUghps Lo:i igk-</value>
+	</data>
+	<data name="L2_Label_Appearance" xml:space="preserve">
+		<value>ns[kkok</value>
+	</data>
+	<data name="L2_Label_Behaviour" xml:space="preserve">
+		<value>pqacdRo</value>
+	</data>
+	<data name="L2_Label_BothYellow" xml:space="preserve">
+		<value>fioGs xaèkd ikoMj vkf.k yksg Hkj.ks nksUgh nz';eku vkgsr</value>
+	</data>
+	<data name="L2_Label_CarbonDI" xml:space="preserve">
+		<value>dkcZu
+Mk;lYQkbM</value>
+	</data>
+	<data name="L2_Label_Comparing" xml:space="preserve">
+		<value>daikÅaM vkf.k feJ.kkps xq.kèkeZ</value>
+	</data>
+	<data name="L2_Label_cylinder" xml:space="preserve">
+		<value>xzWT;q,VsM flysaMj</value>
+	</data>
+	<data name="L2_Label_HavingUniform" xml:space="preserve">
+		<value>loZ= ,dleku ns[kkok</value>
+	</data>
+	<data name="L2_Label_IronAndSulphur" xml:space="preserve">
+		<value>yksg vkf.k lYQj ¼feJ.k½</value>
+	</data>
+	<data name="L2_Label_IronFilings" xml:space="preserve">
+		<value>yks[kaMh QkbZy pqacdkyk fpdVrkr</value>
+	</data>
+	<data name="L2_Label_Ironsulphide" xml:space="preserve">
+		<value>yksg lYQkbM ¼la;qx½</value>
+	</data>
+	<data name="L2_Label_IronSulphide" xml:space="preserve">
+		<value>yksg lYQkbM</value>
+	</data>
+	<data name="L2_Label_Magnet" xml:space="preserve">
+		<value>pqacd</value>
+	</data>
+	<data name="L2_Label_MixtureOfIron " xml:space="preserve">
+		<value>yksg vkf.k lYQjps feJ.k</value>
+	</data>
+	<data name="L2_Label_NoChange" xml:space="preserve">
+		<value>dks.krkgh cny fnlwu ;sr ukgh</value>
+	</data>
+	<data name="L2_Label_NoParticle" xml:space="preserve">
+		<value>dks.krsgh d.k pqacdkyk tksMr ukghr</value>
+	</data>
+	<data name="L2_Label_Property" xml:space="preserve">
+		<value>xq.kèkeZ</value>
+	</data>
+	<data name="L2_Label_Solvent" xml:space="preserve">
+		<value>foækO;rk</value>
+	</data>
+	<data name="L2_Label_SulphurDissolves" xml:space="preserve">
+		<value>lYQj foj?kGrs</value>
+	</data>
+	<data name="L2_Label_TableIronAndSulphur" xml:space="preserve">
+		<value>yksg vkf.k lYQj ¼feJ.k½</value>
+	</data>
+	<data name="L2_Label_TableIronsulphide" xml:space="preserve">
+		<value>yksg lYQkbM ¼la;qx½</value>
+	</data>
+	<data name="L2_Q1" xml:space="preserve">
+		<value>ç- 1 - rqEgh nks?kkaP;k fnl.;koj vkèkkfjr Qjd vksG[kw 'kdrk dk\</value>
+	</data>
+	<data name="L2_Q1_A" xml:space="preserve">
+		<value>,- gks;</value>
+	</data>
+	<data name="L2_Q1_B" xml:space="preserve">
+		<value>ch- Ø</value>
+	</data>
+	<data name="L2_Q2" xml:space="preserve">
+		<value>ç- 2 ----------------- eè;s yksg R;kP;k pqacdh; xq.kèkekZph ns[kHkky djrs-</value>
+	</data>
+	<data name="L2_Q2_A" xml:space="preserve">
+		<value>,- yksg lYQkbM</value>
+	</data>
+	<data name="L2_Q2_B" xml:space="preserve">
+		<value>ch- yksg vkf.k xaèkd ;kaps feJ.k</value>
+	</data>
+	<data name="L2_Q3" xml:space="preserve">
+		<value>ç-3- lYQj R;kps xq.kèkeZ yksg lYQkbMeè;s fVdowu Bsors-</value>
+	</data>
+	<data name="L2_Q3_A" xml:space="preserve">
+		<value>,- cjkscj</value>
+	</data>
+	<data name="L2_Q3_B" xml:space="preserve">
+		<value>ch- pwd</value>
+	</data>
+	<data name="L3_Btn_Back" xml:space="preserve">
+		<value>ekxs</value>
+	</data>
+	<data name="L3_Btn_CopperDropped" xml:space="preserve">
+		<value>rkacs gk 'kq) inkFkZ vkgs dkj.k rks Qä rkaC;kP;k v.kwauh cuysyk vlrks-</value>
+	</data>
+	<data name="L3_Btn_CylinderDropped" xml:space="preserve">
+		<value>feFksu gk 'kq) inkFkZ vkgs dkj.k rks Qä       js.kwauh cuysyk vkgs-</value>
+	</data>
+	<data name="L3_Btn_Instruction1" xml:space="preserve">
+		<value>çR;sd oLrwyk 'kq) inkFkZ fdaok feJ.k Eg.kwu vksG[kk-</value>
+	</data>
+	<data name="L3_Btn_MedicalGasDropped" xml:space="preserve">
+		<value>oS|dh; xWl flfyaMjeè;s gsfy;e vkf.k v‚fDltups feJ.k vlrs ts jklk;fud nz"Vîk ,df=r ulrkr-</value>
+	</data>
+	<data name="L3_Btn_SalinewaterDropped" xml:space="preserve">
+		<value>lykbZu gs feJ.k vkgs dkj.k lksfM;e vk;u] Dyksjhu vk;u vkf.k ik.;kps js.kw ,desdkaiklwu HkkSfrdfjR;k osxGs dsys tkÅ 'kdrkr-</value>
+	</data>
+	<data name="L3_Btn_SilverDropped" xml:space="preserve">
+		<value>LVfyZax flYOgj gs pkanh vkf.k rkacs vlysys feJ èkkrq vkgs- gs feJ.k vkgs dkj.k R;kps Hkkx HkkSfrdfjR;k ,desdkaiklwu osxGs dsys tkÅ 'kdrkr-</value>
+	</data>
+	<data name="L3_Inst_DragDropCopper" xml:space="preserve">
+		<value>rkaC;kph iêh ;ksX; c‚Dleè;s MªWx djk-</value>
+	</data>
+	<data name="L3_Inst_DragDropCylinder" xml:space="preserve">
+		<value>feFksu ok;w ;ksX; c‚Dleè;s MªWx djk-</value>
+	</data>
+	<data name="L3_Inst_DragDropMedicalGas" xml:space="preserve">
+		<value>oS|dh; xWl flysaMj ;ksX; c‚Dleè;s MªWx djk-</value>
+	</data>
+	<data name="L3_Inst_DragDropSalinewater" xml:space="preserve">
+		<value>lykbZu ik.;kph ckVyh ;ksX; c‚Dleè;s MªWx djk-</value>
+	</data>
+	<data name="L3_Inst_DragDropSilver" xml:space="preserve">
+		<value>LVfyZax flYOgj ckj ;ksX; c‚Dleè;s MªWx djk-</value>
+	</data>
+	<data name="L3_Inst_MoveForword" xml:space="preserve">
+		<value>VªWdoj iq&lt;s tk-</value>
+	</data>
+	<data name="L3_Inst_ObserveCopper" xml:space="preserve">
+		<value>rkaC;kP;k iêhP;k jpusps fujh{k.k djk-</value>
+	</data>
+	<data name="L3_Inst_ObserveCylinder" xml:space="preserve">
+		<value>ok;wP;k jpusps fujh{k.k djk-</value>
+	</data>
+	<data name="L3_Inst_ObserveMedicalGas" xml:space="preserve">
+		<value>ok;wP;k jpusps fujh{k.k djk-</value>
+	</data>
+	<data name="L3_Inst_ObserveSalinewater" xml:space="preserve">
+		<value>[kkjV ik.;kph jpuk igk-</value>
+	</data>
+	<data name="L3_Inst_ObserveSilver" xml:space="preserve">
+		<value>LVfyZax flYOgj ckjP;k jpusps fujh{k.k djk-</value>
+	</data>
+	<data name="L3_Inst_SelectBack" xml:space="preserve">
+		<value>vkf.od nz';krwu ckgsj iM.;klkBh ekxs fuoMk-</value>
+	</data>
+	<data name="L3_Inst_SelectCopper" xml:space="preserve">
+		<value>R;kph vkf.od jpuk ikg.;klkBh rkacs iêh fuoMk-</value>
+	</data>
+	<data name="L3_Inst_SelectCylinder" xml:space="preserve">
+		<value>feFksu ok;wP;k d.kkaph vkf.od jpuk ikg.;klkBh xWl flysaMj fuoMk-</value>
+	</data>
+	<data name="L3_Inst_SelectMedicalGas" xml:space="preserve">
+		<value>xWl d.kkaph vkf.od jpuk ikg.;klkBh oS|dh; xWl flysaMj fuoMk-</value>
+	</data>
+	<data name="L3_Inst_SelectSalinewater" xml:space="preserve">
+		<value>[kkjV ik.;kph ckVyh R;kph vkf.od jpuk ikg.;klkBh fuoMk-</value>
+	</data>
+	<data name="L3_Inst_SelectSilver" xml:space="preserve">
+		<value>R;kph vkf.od jpuk ikg.;klkBh LVfyZax flYOgj ckj fuoMk-</value>
+	</data>
+	<data name="L3_Label_Mixtures" xml:space="preserve">
+		<value>feJ.ks</value>
+	</data>
+	<data name="L3_Label_PureSubstances " xml:space="preserve">
+		<value>'kq) inkFkZ</value>
+	</data>
+	<data name="Level1" xml:space="preserve">
+		<value>'kq) inkFkZ vkf.k feJ.k ,DlIyksj djk</value>
+	</data>
+	<data name="Level2" xml:space="preserve">
+		<value>la;qxs vkf.k feJ.kkaeè;s Qjd djk</value>
+	</data>
+	<data name="ObjectiveContent" xml:space="preserve">
+		<value>f'kd.;kps mfí"V
+
+gs e‚Mîwy iw.kZ dsY;kuarj] rqEgh gs d: 'kdky%
+● 'kq) inkFkZ] ?kVd] la;qxs vkf.k feJ.k ;kaph oSf'k"Vîs vksG[kk-
+● la;qxs vkf.k feJ.kkaeè;s Qjd djk-
+● inkFkkZps 'kq) inkFkZ fdaok feJ.k Eg.kwu oxÊdj.k djk-</value>
+	</data>
+	<data name="Title" xml:space="preserve">
+		<value>?kVd] la;qxs vkf.k feJ.k</value>
+	</data>
+</root>

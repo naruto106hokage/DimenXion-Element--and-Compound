@@ -1,0 +1,2420 @@
+fileFormatVersion: 2
+guid: b8c4397555fc0944f8c40235d05f5f55
+timeCreated: 1520395713
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Activity_Grp
+    100004: Alpha_Blend_Main
+    100006: Alpha_Main
+    100008: camera1
+    100010: cntrl__Magnet
+    100012: cntrl__Magnet_grp
+    100014: cntrl_Iron_Sulfide
+    100016: cntrl_Iron_Sulfide_grp
+    100018: cntrl_N
+    100020: cntrl_N_grp
+    100022: cntrl_N_Powder_01
+    100024: cntrl_N_Powder_010
+    100026: cntrl_N_Powder_010_grp
+    100028: cntrl_N_Powder_011
+    100030: cntrl_N_Powder_011_grp
+    100032: cntrl_N_Powder_012
+    100034: cntrl_N_Powder_012_grp
+    100036: cntrl_N_Powder_01_grp
+    100038: cntrl_N_Powder_02
+    100040: cntrl_N_Powder_02_grp
+    100042: cntrl_N_Powder_03
+    100044: cntrl_N_Powder_03_grp
+    100046: cntrl_N_Powder_04
+    100048: cntrl_N_Powder_04_grp
+    100050: cntrl_N_Powder_05
+    100052: cntrl_N_Powder_05_grp
+    100054: cntrl_N_Powder_06
+    100056: cntrl_N_Powder_06_grp
+    100058: cntrl_N_Powder_07
+    100060: cntrl_N_Powder_07_grp
+    100062: cntrl_N_Powder_08
+    100064: cntrl_N_Powder_08_grp
+    100066: cntrl_N_Powder_09
+    100068: cntrl_N_Powder_09_grp
+    100070: cntrl_N_Powder_10
+    100072: cntrl_N_Powder_10_grp
+    100074: cntrl_N_Powder_11
+    100076: cntrl_N_Powder_11_grp
+    100078: cntrl_N_Powder_12
+    100080: cntrl_N_Powder_12_grp
+    100082: cntrl_N_Powder_13
+    100084: cntrl_N_Powder_13_grp
+    100086: cntrl_N_Powder_14
+    100088: cntrl_N_Powder_14_grp
+    100090: cntrl_N_Powder_15
+    100092: cntrl_N_Powder_15_grp
+    100094: cntrl_N_Powder_16
+    100096: cntrl_N_Powder_16_grp
+    100098: cntrl_N_Powder_17
+    100100: cntrl_N_Powder_17_grp
+    100102: cntrl_S
+    100104: cntrl_S_grp
+    100106: cntrl_S_Powder_01
+    100108: cntrl_S_Powder_010
+    100110: cntrl_S_Powder_010_grp
+    100112: cntrl_S_Powder_01_grp
+    100114: cntrl_S_Powder_02
+    100116: cntrl_S_Powder_02_grp
+    100118: cntrl_S_Powder_03
+    100120: cntrl_S_Powder_03_grp
+    100122: cntrl_S_Powder_04
+    100124: cntrl_S_Powder_04_grp
+    100126: cntrl_S_Powder_05
+    100128: cntrl_S_Powder_05_grp
+    100130: cntrl_S_Powder_06
+    100132: cntrl_S_Powder_06_grp
+    100134: cntrl_S_Powder_07
+    100136: cntrl_S_Powder_07_grp
+    100138: cntrl_S_Powder_08
+    100140: cntrl_S_Powder_08_grp
+    100142: cntrl_S_Powder_09
+    100144: cntrl_S_Powder_09_grp
+    100146: cntrl_S_Powder_10
+    100148: cntrl_S_Powder_10_grp
+    100150: cntrl_S_Powder_11
+    100152: cntrl_S_Powder_11_grp
+    100154: cntrl_S_Powder_12
+    100156: cntrl_S_Powder_12_grp
+    100158: cntrl_S_Powder_13
+    100160: cntrl_S_Powder_13_grp
+    100162: cntrl_S_Powder_14
+    100164: cntrl_S_Powder_14_grp
+    100166: cntrl_S_Powder_15
+    100168: cntrl_S_Powder_15_grp
+    100170: cntrl_S_Powder_16
+    100172: cntrl_S_Powder_16_grp
+    100174: cntrl_Sulphur
+    100176: cntrl_Sulphur_grp
+    100178: group1
+    100180: group2
+    100182: Iron_Sulfide
+    100184: Iron_Sulfide_Main
+    100186: Level_2
+    100188: Magnet
+    100190: Magnet 1
+    100192: Magnet_Iron
+    100194: Magnet_Shadow
+    100196: N
+    100198: N_Powder_01
+    100200: N_Powder_010
+    100202: N_Powder_011
+    100204: N_Powder_012
+    100206: N_Powder_02
+    100208: N_Powder_03
+    100210: N_Powder_04
+    100212: N_Powder_05
+    100214: N_Powder_06
+    100216: N_Powder_07
+    100218: N_Powder_08
+    100220: N_Powder_09
+    100222: N_Powder_10
+    100224: N_Powder_11
+    100226: N_Powder_12
+    100228: N_Powder_13
+    100230: N_Powder_14
+    100232: N_Powder_15
+    100234: N_Powder_16
+    100236: N_Powder_17
+    100238: S
+    100240: S_Powder_01
+    100242: S_Powder_010
+    100244: S_Powder_02
+    100246: S_Powder_03
+    100248: S_Powder_04
+    100250: S_Powder_05
+    100252: S_Powder_06
+    100254: S_Powder_07
+    100256: S_Powder_08
+    100258: S_Powder_09
+    100260: S_Powder_10
+    100262: S_Powder_11
+    100264: S_Powder_12
+    100266: S_Powder_13
+    100268: S_Powder_14
+    100270: S_Powder_15
+    100272: S_Powder_16
+    100274: Shadow
+    100276: Shadow 1
+    100278: Sulphur
+    100280: Sulphur_Main
+    100282: Table_01
+    100284: Watch_Glass
+    100286: Watch_Glass 1
+    400000: //RootNode
+    400002: Activity_Grp
+    400004: Alpha_Blend_Main
+    400006: Alpha_Main
+    400008: camera1
+    400010: cntrl__Magnet
+    400012: cntrl__Magnet_grp
+    400014: cntrl_Iron_Sulfide
+    400016: cntrl_Iron_Sulfide_grp
+    400018: cntrl_N
+    400020: cntrl_N_grp
+    400022: cntrl_N_Powder_01
+    400024: cntrl_N_Powder_010
+    400026: cntrl_N_Powder_010_grp
+    400028: cntrl_N_Powder_011
+    400030: cntrl_N_Powder_011_grp
+    400032: cntrl_N_Powder_012
+    400034: cntrl_N_Powder_012_grp
+    400036: cntrl_N_Powder_01_grp
+    400038: cntrl_N_Powder_02
+    400040: cntrl_N_Powder_02_grp
+    400042: cntrl_N_Powder_03
+    400044: cntrl_N_Powder_03_grp
+    400046: cntrl_N_Powder_04
+    400048: cntrl_N_Powder_04_grp
+    400050: cntrl_N_Powder_05
+    400052: cntrl_N_Powder_05_grp
+    400054: cntrl_N_Powder_06
+    400056: cntrl_N_Powder_06_grp
+    400058: cntrl_N_Powder_07
+    400060: cntrl_N_Powder_07_grp
+    400062: cntrl_N_Powder_08
+    400064: cntrl_N_Powder_08_grp
+    400066: cntrl_N_Powder_09
+    400068: cntrl_N_Powder_09_grp
+    400070: cntrl_N_Powder_10
+    400072: cntrl_N_Powder_10_grp
+    400074: cntrl_N_Powder_11
+    400076: cntrl_N_Powder_11_grp
+    400078: cntrl_N_Powder_12
+    400080: cntrl_N_Powder_12_grp
+    400082: cntrl_N_Powder_13
+    400084: cntrl_N_Powder_13_grp
+    400086: cntrl_N_Powder_14
+    400088: cntrl_N_Powder_14_grp
+    400090: cntrl_N_Powder_15
+    400092: cntrl_N_Powder_15_grp
+    400094: cntrl_N_Powder_16
+    400096: cntrl_N_Powder_16_grp
+    400098: cntrl_N_Powder_17
+    400100: cntrl_N_Powder_17_grp
+    400102: cntrl_S
+    400104: cntrl_S_grp
+    400106: cntrl_S_Powder_01
+    400108: cntrl_S_Powder_010
+    400110: cntrl_S_Powder_010_grp
+    400112: cntrl_S_Powder_01_grp
+    400114: cntrl_S_Powder_02
+    400116: cntrl_S_Powder_02_grp
+    400118: cntrl_S_Powder_03
+    400120: cntrl_S_Powder_03_grp
+    400122: cntrl_S_Powder_04
+    400124: cntrl_S_Powder_04_grp
+    400126: cntrl_S_Powder_05
+    400128: cntrl_S_Powder_05_grp
+    400130: cntrl_S_Powder_06
+    400132: cntrl_S_Powder_06_grp
+    400134: cntrl_S_Powder_07
+    400136: cntrl_S_Powder_07_grp
+    400138: cntrl_S_Powder_08
+    400140: cntrl_S_Powder_08_grp
+    400142: cntrl_S_Powder_09
+    400144: cntrl_S_Powder_09_grp
+    400146: cntrl_S_Powder_10
+    400148: cntrl_S_Powder_10_grp
+    400150: cntrl_S_Powder_11
+    400152: cntrl_S_Powder_11_grp
+    400154: cntrl_S_Powder_12
+    400156: cntrl_S_Powder_12_grp
+    400158: cntrl_S_Powder_13
+    400160: cntrl_S_Powder_13_grp
+    400162: cntrl_S_Powder_14
+    400164: cntrl_S_Powder_14_grp
+    400166: cntrl_S_Powder_15
+    400168: cntrl_S_Powder_15_grp
+    400170: cntrl_S_Powder_16
+    400172: cntrl_S_Powder_16_grp
+    400174: cntrl_Sulphur
+    400176: cntrl_Sulphur_grp
+    400178: group1
+    400180: group2
+    400182: Iron_Sulfide
+    400184: Iron_Sulfide_Main
+    400186: Level_2
+    400188: Magnet
+    400190: Magnet 1
+    400192: Magnet_Iron
+    400194: Magnet_Shadow
+    400196: N
+    400198: N_Powder_01
+    400200: N_Powder_010
+    400202: N_Powder_011
+    400204: N_Powder_012
+    400206: N_Powder_02
+    400208: N_Powder_03
+    400210: N_Powder_04
+    400212: N_Powder_05
+    400214: N_Powder_06
+    400216: N_Powder_07
+    400218: N_Powder_08
+    400220: N_Powder_09
+    400222: N_Powder_10
+    400224: N_Powder_11
+    400226: N_Powder_12
+    400228: N_Powder_13
+    400230: N_Powder_14
+    400232: N_Powder_15
+    400234: N_Powder_16
+    400236: N_Powder_17
+    400238: S
+    400240: S_Powder_01
+    400242: S_Powder_010
+    400244: S_Powder_02
+    400246: S_Powder_03
+    400248: S_Powder_04
+    400250: S_Powder_05
+    400252: S_Powder_06
+    400254: S_Powder_07
+    400256: S_Powder_08
+    400258: S_Powder_09
+    400260: S_Powder_10
+    400262: S_Powder_11
+    400264: S_Powder_12
+    400266: S_Powder_13
+    400268: S_Powder_14
+    400270: S_Powder_15
+    400272: S_Powder_16
+    400274: Shadow
+    400276: Shadow 1
+    400278: Sulphur
+    400280: Sulphur_Main
+    400282: Table_01
+    400284: Watch_Glass
+    400286: Watch_Glass 1
+    2300000: Alpha_Blend_Main
+    2300002: Magnet 1
+    2300004: Magnet_Shadow
+    2300006: N_Powder_01
+    2300008: N_Powder_010
+    2300010: N_Powder_011
+    2300012: N_Powder_012
+    2300014: N_Powder_02
+    2300016: N_Powder_03
+    2300018: N_Powder_04
+    2300020: N_Powder_05
+    2300022: N_Powder_06
+    2300024: N_Powder_07
+    2300026: N_Powder_08
+    2300028: N_Powder_09
+    2300030: N_Powder_10
+    2300032: N_Powder_11
+    2300034: N_Powder_12
+    2300036: N_Powder_13
+    2300038: N_Powder_14
+    2300040: N_Powder_15
+    2300042: N_Powder_16
+    2300044: N_Powder_17
+    2300046: S_Powder_01
+    2300048: S_Powder_010
+    2300050: S_Powder_02
+    2300052: S_Powder_03
+    2300054: S_Powder_04
+    2300056: S_Powder_05
+    2300058: S_Powder_06
+    2300060: S_Powder_07
+    2300062: S_Powder_08
+    2300064: S_Powder_09
+    2300066: S_Powder_10
+    2300068: S_Powder_11
+    2300070: S_Powder_12
+    2300072: S_Powder_13
+    2300074: S_Powder_14
+    2300076: S_Powder_15
+    2300078: S_Powder_16
+    2300080: Shadow
+    2300082: Shadow 1
+    2300084: Sulphur_Main
+    2300086: Watch_Glass
+    2300088: Watch_Glass 1
+    3300000: Alpha_Blend_Main
+    3300002: Magnet 1
+    3300004: Magnet_Shadow
+    3300006: N_Powder_01
+    3300008: N_Powder_010
+    3300010: N_Powder_011
+    3300012: N_Powder_012
+    3300014: N_Powder_02
+    3300016: N_Powder_03
+    3300018: N_Powder_04
+    3300020: N_Powder_05
+    3300022: N_Powder_06
+    3300024: N_Powder_07
+    3300026: N_Powder_08
+    3300028: N_Powder_09
+    3300030: N_Powder_10
+    3300032: N_Powder_11
+    3300034: N_Powder_12
+    3300036: N_Powder_13
+    3300038: N_Powder_14
+    3300040: N_Powder_15
+    3300042: N_Powder_16
+    3300044: N_Powder_17
+    3300046: S_Powder_01
+    3300048: S_Powder_010
+    3300050: S_Powder_02
+    3300052: S_Powder_03
+    3300054: S_Powder_04
+    3300056: S_Powder_05
+    3300058: S_Powder_06
+    3300060: S_Powder_07
+    3300062: S_Powder_08
+    3300064: S_Powder_09
+    3300066: S_Powder_10
+    3300068: S_Powder_11
+    3300070: S_Powder_12
+    3300072: S_Powder_13
+    3300074: S_Powder_14
+    3300076: S_Powder_15
+    3300078: S_Powder_16
+    3300080: Shadow
+    3300082: Shadow 1
+    3300084: Sulphur_Main
+    3300086: Watch_Glass
+    3300088: Watch_Glass 1
+    4300000: Magnet
+    4300002: Magnet_Shadow
+    4300004: N_Powder_17
+    4300006: N_Powder_012
+    4300008: N_Powder_011
+    4300010: N_Powder_010
+    4300012: N_Powder_16
+    4300014: N_Powder_15
+    4300016: N_Powder_14
+    4300018: N_Powder_13
+    4300020: N_Powder_12
+    4300022: N_Powder_11
+    4300024: N_Powder_10
+    4300026: N_Powder_09
+    4300028: N_Powder_08
+    4300030: N_Powder_07
+    4300032: N_Powder_06
+    4300034: N_Powder_05
+    4300036: N_Powder_04
+    4300038: N_Powder_03
+    4300040: N_Powder_02
+    4300042: N_Powder_01
+    4300044: S_Powder_01
+    4300046: S_Powder_02
+    4300048: S_Powder_03
+    4300050: S_Powder_04
+    4300052: S_Powder_05
+    4300054: S_Powder_06
+    4300056: S_Powder_07
+    4300058: S_Powder_08
+    4300060: S_Powder_09
+    4300062: S_Powder_10
+    4300064: S_Powder_11
+    4300066: S_Powder_12
+    4300068: S_Powder_13
+    4300070: S_Powder_14
+    4300072: S_Powder_15
+    4300074: S_Powder_16
+    4300076: S_Powder_010
+    4300078: Alpha_Main
+    4300080: Iron_Sulfide_Main
+    4300082: Watch_Glass
+    4300084: Shadow
+    4300086: Shadow
+    4300088: Alpha_Blend_Main
+    4300090: Sulphur_Main
+    4300092: Watch_Glass
+    7400000: _acitivity1Lab2
+    7400002: zoomClip
+    7400004: forIronSulphide
+    7400006: forIronMixture
+    7400008: rotatePlate
+    7400010: zoomClip_d
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Alpha_Main
+    13700002: Iron_Sulfide_Main
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: _acitivity1Lab2
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 1010
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: camera1
+        weight: 1
+      - path: Level_2
+        weight: 1
+      - path: Level_2/Activity_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/cntrl_Iron_Sulfide
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/cntrl_Iron_Sulfide/Iron_Sulfide
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/cntrl_Iron_Sulfide/Iron_Sulfide/Alpha_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/cntrl_Iron_Sulfide/Iron_Sulfide/Iron_Sulfide_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/cntrl_Iron_Sulfide/Iron_Sulfide/Watch_Glass
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/Shadow
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/cntrl_Sulphur
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/cntrl_Sulphur/Sulphur
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/cntrl_Sulphur/Sulphur/Alpha_Blend_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/cntrl_Sulphur/Sulphur/Sulphur_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/cntrl_Sulphur/Sulphur/Watch_Glass
+          1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/Shadow 1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl__Magnet_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl__Magnet_grp/cntrl__Magnet
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl__Magnet_grp/cntrl__Magnet/Magnet
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl__Magnet_grp/cntrl__Magnet/Magnet/Magnet
+          1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl__Magnet_grp/cntrl__Magnet/Magnet/Magnet_Shadow
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_01_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_01_grp/cntrl_N_Powder_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_01_grp/cntrl_N_Powder_01/N_Powder_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_02_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_02_grp/cntrl_N_Powder_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_02_grp/cntrl_N_Powder_02/N_Powder_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_03_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_03_grp/cntrl_N_Powder_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_03_grp/cntrl_N_Powder_03/N_Powder_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_04_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_04_grp/cntrl_N_Powder_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_04_grp/cntrl_N_Powder_04/N_Powder_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_05_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_05_grp/cntrl_N_Powder_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_05_grp/cntrl_N_Powder_05/N_Powder_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_06_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_06_grp/cntrl_N_Powder_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_06_grp/cntrl_N_Powder_06/N_Powder_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_07_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_07_grp/cntrl_N_Powder_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_07_grp/cntrl_N_Powder_07/N_Powder_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_08_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_08_grp/cntrl_N_Powder_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_08_grp/cntrl_N_Powder_08/N_Powder_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_09_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_09_grp/cntrl_N_Powder_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_09_grp/cntrl_N_Powder_09/N_Powder_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_010_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_010_grp/cntrl_N_Powder_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_010_grp/cntrl_N_Powder_010/N_Powder_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_10_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_10_grp/cntrl_N_Powder_10
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_10_grp/cntrl_N_Powder_10/N_Powder_10
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_011_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_011_grp/cntrl_N_Powder_011
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_011_grp/cntrl_N_Powder_011/N_Powder_011
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_11_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_11_grp/cntrl_N_Powder_11
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_11_grp/cntrl_N_Powder_11/N_Powder_11
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_012_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_012_grp/cntrl_N_Powder_012
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_012_grp/cntrl_N_Powder_012/N_Powder_012
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_12_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_12_grp/cntrl_N_Powder_12
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_12_grp/cntrl_N_Powder_12/N_Powder_12
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_13_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_13_grp/cntrl_N_Powder_13
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_13_grp/cntrl_N_Powder_13/N_Powder_13
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_14_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_14_grp/cntrl_N_Powder_14
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_14_grp/cntrl_N_Powder_14/N_Powder_14
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_15_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_15_grp/cntrl_N_Powder_15
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_15_grp/cntrl_N_Powder_15/N_Powder_15
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_16_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_16_grp/cntrl_N_Powder_16
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_16_grp/cntrl_N_Powder_16/N_Powder_16
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_17_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_17_grp/cntrl_N_Powder_17
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_17_grp/cntrl_N_Powder_17/N_Powder_17
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_01_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_01_grp/cntrl_S_Powder_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_01_grp/cntrl_S_Powder_01/S_Powder_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_02_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_02_grp/cntrl_S_Powder_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_02_grp/cntrl_S_Powder_02/S_Powder_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_03_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_03_grp/cntrl_S_Powder_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_03_grp/cntrl_S_Powder_03/S_Powder_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_04_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_04_grp/cntrl_S_Powder_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_04_grp/cntrl_S_Powder_04/S_Powder_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_05_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_05_grp/cntrl_S_Powder_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_05_grp/cntrl_S_Powder_05/S_Powder_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_06_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_06_grp/cntrl_S_Powder_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_06_grp/cntrl_S_Powder_06/S_Powder_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_07_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_07_grp/cntrl_S_Powder_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_07_grp/cntrl_S_Powder_07/S_Powder_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_08_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_08_grp/cntrl_S_Powder_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_08_grp/cntrl_S_Powder_08/S_Powder_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_09_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_09_grp/cntrl_S_Powder_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_09_grp/cntrl_S_Powder_09/S_Powder_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_010_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_010_grp/cntrl_S_Powder_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_010_grp/cntrl_S_Powder_010/S_Powder_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_10_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_10_grp/cntrl_S_Powder_10
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_10_grp/cntrl_S_Powder_10/S_Powder_10
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_11_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_11_grp/cntrl_S_Powder_11
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_11_grp/cntrl_S_Powder_11/S_Powder_11
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_12_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_12_grp/cntrl_S_Powder_12
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_12_grp/cntrl_S_Powder_12/S_Powder_12
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_13_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_13_grp/cntrl_S_Powder_13
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_13_grp/cntrl_S_Powder_13/S_Powder_13
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_14_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_14_grp/cntrl_S_Powder_14
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_14_grp/cntrl_S_Powder_14/S_Powder_14
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_15_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_15_grp/cntrl_S_Powder_15
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_15_grp/cntrl_S_Powder_15/S_Powder_15
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_16_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_16_grp/cntrl_S_Powder_16
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_16_grp/cntrl_S_Powder_16/S_Powder_16
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: zoomClip
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: camera1
+        weight: 1
+      - path: Level_2
+        weight: 1
+      - path: Level_2/Activity_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/cntrl_Iron_Sulfide
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/cntrl_Iron_Sulfide/Iron_Sulfide
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/cntrl_Iron_Sulfide/Iron_Sulfide/Alpha_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/cntrl_Iron_Sulfide/Iron_Sulfide/Iron_Sulfide_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/cntrl_Iron_Sulfide/Iron_Sulfide/Watch_Glass
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/Shadow
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/cntrl_Sulphur
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/cntrl_Sulphur/Sulphur
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/cntrl_Sulphur/Sulphur/Alpha_Blend_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/cntrl_Sulphur/Sulphur/Sulphur_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/cntrl_Sulphur/Sulphur/Watch_Glass
+          1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/Shadow 1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl__Magnet_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl__Magnet_grp/cntrl__Magnet
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl__Magnet_grp/cntrl__Magnet/Magnet
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl__Magnet_grp/cntrl__Magnet/Magnet/Magnet
+          1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl__Magnet_grp/cntrl__Magnet/Magnet/Magnet_Shadow
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_01_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_01_grp/cntrl_N_Powder_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_01_grp/cntrl_N_Powder_01/N_Powder_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_02_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_02_grp/cntrl_N_Powder_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_02_grp/cntrl_N_Powder_02/N_Powder_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_03_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_03_grp/cntrl_N_Powder_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_03_grp/cntrl_N_Powder_03/N_Powder_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_04_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_04_grp/cntrl_N_Powder_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_04_grp/cntrl_N_Powder_04/N_Powder_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_05_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_05_grp/cntrl_N_Powder_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_05_grp/cntrl_N_Powder_05/N_Powder_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_06_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_06_grp/cntrl_N_Powder_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_06_grp/cntrl_N_Powder_06/N_Powder_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_07_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_07_grp/cntrl_N_Powder_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_07_grp/cntrl_N_Powder_07/N_Powder_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_08_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_08_grp/cntrl_N_Powder_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_08_grp/cntrl_N_Powder_08/N_Powder_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_09_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_09_grp/cntrl_N_Powder_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_09_grp/cntrl_N_Powder_09/N_Powder_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_010_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_010_grp/cntrl_N_Powder_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_010_grp/cntrl_N_Powder_010/N_Powder_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_10_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_10_grp/cntrl_N_Powder_10
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_10_grp/cntrl_N_Powder_10/N_Powder_10
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_011_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_011_grp/cntrl_N_Powder_011
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_011_grp/cntrl_N_Powder_011/N_Powder_011
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_11_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_11_grp/cntrl_N_Powder_11
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_11_grp/cntrl_N_Powder_11/N_Powder_11
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_012_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_012_grp/cntrl_N_Powder_012
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_012_grp/cntrl_N_Powder_012/N_Powder_012
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_12_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_12_grp/cntrl_N_Powder_12
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_12_grp/cntrl_N_Powder_12/N_Powder_12
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_13_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_13_grp/cntrl_N_Powder_13
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_13_grp/cntrl_N_Powder_13/N_Powder_13
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_14_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_14_grp/cntrl_N_Powder_14
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_14_grp/cntrl_N_Powder_14/N_Powder_14
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_15_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_15_grp/cntrl_N_Powder_15
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_15_grp/cntrl_N_Powder_15/N_Powder_15
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_16_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_16_grp/cntrl_N_Powder_16
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_16_grp/cntrl_N_Powder_16/N_Powder_16
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_17_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_17_grp/cntrl_N_Powder_17
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_17_grp/cntrl_N_Powder_17/N_Powder_17
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_01_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_01_grp/cntrl_S_Powder_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_01_grp/cntrl_S_Powder_01/S_Powder_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_02_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_02_grp/cntrl_S_Powder_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_02_grp/cntrl_S_Powder_02/S_Powder_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_03_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_03_grp/cntrl_S_Powder_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_03_grp/cntrl_S_Powder_03/S_Powder_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_04_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_04_grp/cntrl_S_Powder_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_04_grp/cntrl_S_Powder_04/S_Powder_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_05_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_05_grp/cntrl_S_Powder_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_05_grp/cntrl_S_Powder_05/S_Powder_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_06_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_06_grp/cntrl_S_Powder_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_06_grp/cntrl_S_Powder_06/S_Powder_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_07_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_07_grp/cntrl_S_Powder_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_07_grp/cntrl_S_Powder_07/S_Powder_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_08_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_08_grp/cntrl_S_Powder_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_08_grp/cntrl_S_Powder_08/S_Powder_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_09_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_09_grp/cntrl_S_Powder_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_09_grp/cntrl_S_Powder_09/S_Powder_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_010_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_010_grp/cntrl_S_Powder_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_010_grp/cntrl_S_Powder_010/S_Powder_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_10_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_10_grp/cntrl_S_Powder_10
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_10_grp/cntrl_S_Powder_10/S_Powder_10
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_11_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_11_grp/cntrl_S_Powder_11
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_11_grp/cntrl_S_Powder_11/S_Powder_11
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_12_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_12_grp/cntrl_S_Powder_12
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_12_grp/cntrl_S_Powder_12/S_Powder_12
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_13_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_13_grp/cntrl_S_Powder_13
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_13_grp/cntrl_S_Powder_13/S_Powder_13
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_14_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_14_grp/cntrl_S_Powder_14
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_14_grp/cntrl_S_Powder_14/S_Powder_14
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_15_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_15_grp/cntrl_S_Powder_15
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_15_grp/cntrl_S_Powder_15/S_Powder_15
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_16_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_16_grp/cntrl_S_Powder_16
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_16_grp/cntrl_S_Powder_16/S_Powder_16
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: forIronSulphide
+      takeName: Take 001
+      firstFrame: 200
+      lastFrame: 675
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: camera1
+        weight: 1
+      - path: Level_2
+        weight: 1
+      - path: Level_2/Activity_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/cntrl_Iron_Sulfide
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/cntrl_Iron_Sulfide/Iron_Sulfide
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/cntrl_Iron_Sulfide/Iron_Sulfide/Alpha_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/cntrl_Iron_Sulfide/Iron_Sulfide/Iron_Sulfide_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/cntrl_Iron_Sulfide/Iron_Sulfide/Watch_Glass
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/Shadow
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/cntrl_Sulphur
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/cntrl_Sulphur/Sulphur
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/cntrl_Sulphur/Sulphur/Alpha_Blend_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/cntrl_Sulphur/Sulphur/Sulphur_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/cntrl_Sulphur/Sulphur/Watch_Glass
+          1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/Shadow 1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl__Magnet_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl__Magnet_grp/cntrl__Magnet
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl__Magnet_grp/cntrl__Magnet/Magnet
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl__Magnet_grp/cntrl__Magnet/Magnet/Magnet
+          1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl__Magnet_grp/cntrl__Magnet/Magnet/Magnet_Shadow
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_01_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_01_grp/cntrl_N_Powder_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_01_grp/cntrl_N_Powder_01/N_Powder_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_02_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_02_grp/cntrl_N_Powder_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_02_grp/cntrl_N_Powder_02/N_Powder_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_03_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_03_grp/cntrl_N_Powder_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_03_grp/cntrl_N_Powder_03/N_Powder_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_04_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_04_grp/cntrl_N_Powder_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_04_grp/cntrl_N_Powder_04/N_Powder_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_05_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_05_grp/cntrl_N_Powder_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_05_grp/cntrl_N_Powder_05/N_Powder_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_06_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_06_grp/cntrl_N_Powder_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_06_grp/cntrl_N_Powder_06/N_Powder_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_07_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_07_grp/cntrl_N_Powder_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_07_grp/cntrl_N_Powder_07/N_Powder_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_08_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_08_grp/cntrl_N_Powder_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_08_grp/cntrl_N_Powder_08/N_Powder_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_09_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_09_grp/cntrl_N_Powder_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_09_grp/cntrl_N_Powder_09/N_Powder_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_010_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_010_grp/cntrl_N_Powder_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_010_grp/cntrl_N_Powder_010/N_Powder_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_10_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_10_grp/cntrl_N_Powder_10
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_10_grp/cntrl_N_Powder_10/N_Powder_10
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_011_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_011_grp/cntrl_N_Powder_011
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_011_grp/cntrl_N_Powder_011/N_Powder_011
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_11_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_11_grp/cntrl_N_Powder_11
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_11_grp/cntrl_N_Powder_11/N_Powder_11
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_012_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_012_grp/cntrl_N_Powder_012
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_012_grp/cntrl_N_Powder_012/N_Powder_012
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_12_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_12_grp/cntrl_N_Powder_12
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_12_grp/cntrl_N_Powder_12/N_Powder_12
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_13_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_13_grp/cntrl_N_Powder_13
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_13_grp/cntrl_N_Powder_13/N_Powder_13
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_14_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_14_grp/cntrl_N_Powder_14
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_14_grp/cntrl_N_Powder_14/N_Powder_14
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_15_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_15_grp/cntrl_N_Powder_15
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_15_grp/cntrl_N_Powder_15/N_Powder_15
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_16_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_16_grp/cntrl_N_Powder_16
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_16_grp/cntrl_N_Powder_16/N_Powder_16
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_17_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_17_grp/cntrl_N_Powder_17
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_17_grp/cntrl_N_Powder_17/N_Powder_17
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_01_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_01_grp/cntrl_S_Powder_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_01_grp/cntrl_S_Powder_01/S_Powder_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_02_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_02_grp/cntrl_S_Powder_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_02_grp/cntrl_S_Powder_02/S_Powder_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_03_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_03_grp/cntrl_S_Powder_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_03_grp/cntrl_S_Powder_03/S_Powder_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_04_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_04_grp/cntrl_S_Powder_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_04_grp/cntrl_S_Powder_04/S_Powder_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_05_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_05_grp/cntrl_S_Powder_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_05_grp/cntrl_S_Powder_05/S_Powder_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_06_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_06_grp/cntrl_S_Powder_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_06_grp/cntrl_S_Powder_06/S_Powder_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_07_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_07_grp/cntrl_S_Powder_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_07_grp/cntrl_S_Powder_07/S_Powder_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_08_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_08_grp/cntrl_S_Powder_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_08_grp/cntrl_S_Powder_08/S_Powder_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_09_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_09_grp/cntrl_S_Powder_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_09_grp/cntrl_S_Powder_09/S_Powder_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_010_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_010_grp/cntrl_S_Powder_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_010_grp/cntrl_S_Powder_010/S_Powder_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_10_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_10_grp/cntrl_S_Powder_10
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_10_grp/cntrl_S_Powder_10/S_Powder_10
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_11_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_11_grp/cntrl_S_Powder_11
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_11_grp/cntrl_S_Powder_11/S_Powder_11
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_12_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_12_grp/cntrl_S_Powder_12
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_12_grp/cntrl_S_Powder_12/S_Powder_12
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_13_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_13_grp/cntrl_S_Powder_13
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_13_grp/cntrl_S_Powder_13/S_Powder_13
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_14_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_14_grp/cntrl_S_Powder_14
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_14_grp/cntrl_S_Powder_14/S_Powder_14
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_15_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_15_grp/cntrl_S_Powder_15
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_15_grp/cntrl_S_Powder_15/S_Powder_15
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_16_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_16_grp/cntrl_S_Powder_16
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_16_grp/cntrl_S_Powder_16/S_Powder_16
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: forIronMixture
+      takeName: Take 001
+      firstFrame: 679
+      lastFrame: 910
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: camera1
+        weight: 1
+      - path: Level_2
+        weight: 1
+      - path: Level_2/Activity_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/cntrl_Iron_Sulfide
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/cntrl_Iron_Sulfide/Iron_Sulfide
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/cntrl_Iron_Sulfide/Iron_Sulfide/Alpha_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/cntrl_Iron_Sulfide/Iron_Sulfide/Iron_Sulfide_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/cntrl_Iron_Sulfide/Iron_Sulfide/Watch_Glass
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/Shadow
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/cntrl_Sulphur
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/cntrl_Sulphur/Sulphur
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/cntrl_Sulphur/Sulphur/Alpha_Blend_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/cntrl_Sulphur/Sulphur/Sulphur_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/cntrl_Sulphur/Sulphur/Watch_Glass
+          1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/Shadow 1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl__Magnet_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl__Magnet_grp/cntrl__Magnet
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl__Magnet_grp/cntrl__Magnet/Magnet
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl__Magnet_grp/cntrl__Magnet/Magnet/Magnet
+          1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl__Magnet_grp/cntrl__Magnet/Magnet/Magnet_Shadow
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_01_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_01_grp/cntrl_N_Powder_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_01_grp/cntrl_N_Powder_01/N_Powder_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_02_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_02_grp/cntrl_N_Powder_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_02_grp/cntrl_N_Powder_02/N_Powder_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_03_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_03_grp/cntrl_N_Powder_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_03_grp/cntrl_N_Powder_03/N_Powder_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_04_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_04_grp/cntrl_N_Powder_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_04_grp/cntrl_N_Powder_04/N_Powder_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_05_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_05_grp/cntrl_N_Powder_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_05_grp/cntrl_N_Powder_05/N_Powder_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_06_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_06_grp/cntrl_N_Powder_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_06_grp/cntrl_N_Powder_06/N_Powder_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_07_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_07_grp/cntrl_N_Powder_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_07_grp/cntrl_N_Powder_07/N_Powder_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_08_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_08_grp/cntrl_N_Powder_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_08_grp/cntrl_N_Powder_08/N_Powder_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_09_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_09_grp/cntrl_N_Powder_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_09_grp/cntrl_N_Powder_09/N_Powder_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_010_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_010_grp/cntrl_N_Powder_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_010_grp/cntrl_N_Powder_010/N_Powder_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_10_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_10_grp/cntrl_N_Powder_10
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_10_grp/cntrl_N_Powder_10/N_Powder_10
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_011_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_011_grp/cntrl_N_Powder_011
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_011_grp/cntrl_N_Powder_011/N_Powder_011
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_11_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_11_grp/cntrl_N_Powder_11
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_11_grp/cntrl_N_Powder_11/N_Powder_11
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_012_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_012_grp/cntrl_N_Powder_012
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_012_grp/cntrl_N_Powder_012/N_Powder_012
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_12_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_12_grp/cntrl_N_Powder_12
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_12_grp/cntrl_N_Powder_12/N_Powder_12
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_13_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_13_grp/cntrl_N_Powder_13
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_13_grp/cntrl_N_Powder_13/N_Powder_13
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_14_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_14_grp/cntrl_N_Powder_14
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_14_grp/cntrl_N_Powder_14/N_Powder_14
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_15_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_15_grp/cntrl_N_Powder_15
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_15_grp/cntrl_N_Powder_15/N_Powder_15
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_16_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_16_grp/cntrl_N_Powder_16
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_16_grp/cntrl_N_Powder_16/N_Powder_16
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_17_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_17_grp/cntrl_N_Powder_17
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_17_grp/cntrl_N_Powder_17/N_Powder_17
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_01_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_01_grp/cntrl_S_Powder_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_01_grp/cntrl_S_Powder_01/S_Powder_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_02_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_02_grp/cntrl_S_Powder_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_02_grp/cntrl_S_Powder_02/S_Powder_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_03_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_03_grp/cntrl_S_Powder_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_03_grp/cntrl_S_Powder_03/S_Powder_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_04_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_04_grp/cntrl_S_Powder_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_04_grp/cntrl_S_Powder_04/S_Powder_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_05_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_05_grp/cntrl_S_Powder_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_05_grp/cntrl_S_Powder_05/S_Powder_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_06_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_06_grp/cntrl_S_Powder_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_06_grp/cntrl_S_Powder_06/S_Powder_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_07_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_07_grp/cntrl_S_Powder_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_07_grp/cntrl_S_Powder_07/S_Powder_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_08_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_08_grp/cntrl_S_Powder_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_08_grp/cntrl_S_Powder_08/S_Powder_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_09_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_09_grp/cntrl_S_Powder_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_09_grp/cntrl_S_Powder_09/S_Powder_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_010_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_010_grp/cntrl_S_Powder_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_010_grp/cntrl_S_Powder_010/S_Powder_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_10_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_10_grp/cntrl_S_Powder_10
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_10_grp/cntrl_S_Powder_10/S_Powder_10
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_11_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_11_grp/cntrl_S_Powder_11
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_11_grp/cntrl_S_Powder_11/S_Powder_11
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_12_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_12_grp/cntrl_S_Powder_12
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_12_grp/cntrl_S_Powder_12/S_Powder_12
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_13_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_13_grp/cntrl_S_Powder_13
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_13_grp/cntrl_S_Powder_13/S_Powder_13
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_14_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_14_grp/cntrl_S_Powder_14
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_14_grp/cntrl_S_Powder_14/S_Powder_14
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_15_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_15_grp/cntrl_S_Powder_15
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_15_grp/cntrl_S_Powder_15/S_Powder_15
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_16_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_16_grp/cntrl_S_Powder_16
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_16_grp/cntrl_S_Powder_16/S_Powder_16
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rotatePlate
+      takeName: Take 001
+      firstFrame: 40
+      lastFrame: 150
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: camera1
+        weight: 1
+      - path: Level_2
+        weight: 1
+      - path: Level_2/Activity_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/cntrl_Iron_Sulfide
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/cntrl_Iron_Sulfide/Iron_Sulfide
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/cntrl_Iron_Sulfide/Iron_Sulfide/Alpha_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/cntrl_Iron_Sulfide/Iron_Sulfide/Iron_Sulfide_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/cntrl_Iron_Sulfide/Iron_Sulfide/Watch_Glass
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/Shadow
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/cntrl_Sulphur
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/cntrl_Sulphur/Sulphur
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/cntrl_Sulphur/Sulphur/Alpha_Blend_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/cntrl_Sulphur/Sulphur/Sulphur_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/cntrl_Sulphur/Sulphur/Watch_Glass
+          1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/Shadow 1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl__Magnet_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl__Magnet_grp/cntrl__Magnet
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl__Magnet_grp/cntrl__Magnet/Magnet
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl__Magnet_grp/cntrl__Magnet/Magnet/Magnet
+          1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl__Magnet_grp/cntrl__Magnet/Magnet/Magnet_Shadow
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_01_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_01_grp/cntrl_N_Powder_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_01_grp/cntrl_N_Powder_01/N_Powder_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_02_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_02_grp/cntrl_N_Powder_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_02_grp/cntrl_N_Powder_02/N_Powder_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_03_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_03_grp/cntrl_N_Powder_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_03_grp/cntrl_N_Powder_03/N_Powder_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_04_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_04_grp/cntrl_N_Powder_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_04_grp/cntrl_N_Powder_04/N_Powder_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_05_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_05_grp/cntrl_N_Powder_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_05_grp/cntrl_N_Powder_05/N_Powder_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_06_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_06_grp/cntrl_N_Powder_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_06_grp/cntrl_N_Powder_06/N_Powder_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_07_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_07_grp/cntrl_N_Powder_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_07_grp/cntrl_N_Powder_07/N_Powder_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_08_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_08_grp/cntrl_N_Powder_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_08_grp/cntrl_N_Powder_08/N_Powder_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_09_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_09_grp/cntrl_N_Powder_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_09_grp/cntrl_N_Powder_09/N_Powder_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_010_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_010_grp/cntrl_N_Powder_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_010_grp/cntrl_N_Powder_010/N_Powder_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_10_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_10_grp/cntrl_N_Powder_10
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_10_grp/cntrl_N_Powder_10/N_Powder_10
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_011_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_011_grp/cntrl_N_Powder_011
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_011_grp/cntrl_N_Powder_011/N_Powder_011
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_11_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_11_grp/cntrl_N_Powder_11
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_11_grp/cntrl_N_Powder_11/N_Powder_11
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_012_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_012_grp/cntrl_N_Powder_012
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_012_grp/cntrl_N_Powder_012/N_Powder_012
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_12_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_12_grp/cntrl_N_Powder_12
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_12_grp/cntrl_N_Powder_12/N_Powder_12
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_13_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_13_grp/cntrl_N_Powder_13
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_13_grp/cntrl_N_Powder_13/N_Powder_13
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_14_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_14_grp/cntrl_N_Powder_14
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_14_grp/cntrl_N_Powder_14/N_Powder_14
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_15_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_15_grp/cntrl_N_Powder_15
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_15_grp/cntrl_N_Powder_15/N_Powder_15
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_16_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_16_grp/cntrl_N_Powder_16
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_16_grp/cntrl_N_Powder_16/N_Powder_16
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_17_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_17_grp/cntrl_N_Powder_17
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_17_grp/cntrl_N_Powder_17/N_Powder_17
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_01_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_01_grp/cntrl_S_Powder_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_01_grp/cntrl_S_Powder_01/S_Powder_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_02_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_02_grp/cntrl_S_Powder_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_02_grp/cntrl_S_Powder_02/S_Powder_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_03_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_03_grp/cntrl_S_Powder_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_03_grp/cntrl_S_Powder_03/S_Powder_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_04_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_04_grp/cntrl_S_Powder_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_04_grp/cntrl_S_Powder_04/S_Powder_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_05_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_05_grp/cntrl_S_Powder_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_05_grp/cntrl_S_Powder_05/S_Powder_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_06_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_06_grp/cntrl_S_Powder_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_06_grp/cntrl_S_Powder_06/S_Powder_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_07_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_07_grp/cntrl_S_Powder_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_07_grp/cntrl_S_Powder_07/S_Powder_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_08_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_08_grp/cntrl_S_Powder_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_08_grp/cntrl_S_Powder_08/S_Powder_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_09_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_09_grp/cntrl_S_Powder_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_09_grp/cntrl_S_Powder_09/S_Powder_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_010_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_010_grp/cntrl_S_Powder_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_010_grp/cntrl_S_Powder_010/S_Powder_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_10_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_10_grp/cntrl_S_Powder_10
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_10_grp/cntrl_S_Powder_10/S_Powder_10
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_11_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_11_grp/cntrl_S_Powder_11
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_11_grp/cntrl_S_Powder_11/S_Powder_11
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_12_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_12_grp/cntrl_S_Powder_12
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_12_grp/cntrl_S_Powder_12/S_Powder_12
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_13_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_13_grp/cntrl_S_Powder_13
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_13_grp/cntrl_S_Powder_13/S_Powder_13
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_14_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_14_grp/cntrl_S_Powder_14
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_14_grp/cntrl_S_Powder_14/S_Powder_14
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_15_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_15_grp/cntrl_S_Powder_15
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_15_grp/cntrl_S_Powder_15/S_Powder_15
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_16_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_16_grp/cntrl_S_Powder_16
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_16_grp/cntrl_S_Powder_16/S_Powder_16
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: zoomClip_d
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: camera1
+        weight: 1
+      - path: Level_2
+        weight: 1
+      - path: Level_2/Activity_Grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/cntrl_Iron_Sulfide
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/cntrl_Iron_Sulfide/Iron_Sulfide
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/cntrl_Iron_Sulfide/Iron_Sulfide/Alpha_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/cntrl_Iron_Sulfide/Iron_Sulfide/Iron_Sulfide_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/cntrl_Iron_Sulfide/Iron_Sulfide/Watch_Glass
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Iron_Sulfide_grp/Shadow
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/cntrl_Sulphur
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/cntrl_Sulphur/Sulphur
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/cntrl_Sulphur/Sulphur/Alpha_Blend_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/cntrl_Sulphur/Sulphur/Sulphur_Main
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/cntrl_Sulphur/Sulphur/Watch_Glass
+          1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/cntrl_Sulphur_grp/Shadow 1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl__Magnet_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl__Magnet_grp/cntrl__Magnet
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl__Magnet_grp/cntrl__Magnet/Magnet
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl__Magnet_grp/cntrl__Magnet/Magnet/Magnet
+          1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl__Magnet_grp/cntrl__Magnet/Magnet/Magnet_Shadow
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_01_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_01_grp/cntrl_N_Powder_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_01_grp/cntrl_N_Powder_01/N_Powder_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_02_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_02_grp/cntrl_N_Powder_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_02_grp/cntrl_N_Powder_02/N_Powder_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_03_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_03_grp/cntrl_N_Powder_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_03_grp/cntrl_N_Powder_03/N_Powder_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_04_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_04_grp/cntrl_N_Powder_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_04_grp/cntrl_N_Powder_04/N_Powder_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_05_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_05_grp/cntrl_N_Powder_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_05_grp/cntrl_N_Powder_05/N_Powder_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_06_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_06_grp/cntrl_N_Powder_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_06_grp/cntrl_N_Powder_06/N_Powder_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_07_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_07_grp/cntrl_N_Powder_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_07_grp/cntrl_N_Powder_07/N_Powder_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_08_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_08_grp/cntrl_N_Powder_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_08_grp/cntrl_N_Powder_08/N_Powder_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_09_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_09_grp/cntrl_N_Powder_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_09_grp/cntrl_N_Powder_09/N_Powder_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_010_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_010_grp/cntrl_N_Powder_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_010_grp/cntrl_N_Powder_010/N_Powder_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_10_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_10_grp/cntrl_N_Powder_10
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_10_grp/cntrl_N_Powder_10/N_Powder_10
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_011_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_011_grp/cntrl_N_Powder_011
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_011_grp/cntrl_N_Powder_011/N_Powder_011
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_11_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_11_grp/cntrl_N_Powder_11
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_11_grp/cntrl_N_Powder_11/N_Powder_11
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_012_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_012_grp/cntrl_N_Powder_012
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_012_grp/cntrl_N_Powder_012/N_Powder_012
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_12_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_12_grp/cntrl_N_Powder_12
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_12_grp/cntrl_N_Powder_12/N_Powder_12
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_13_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_13_grp/cntrl_N_Powder_13
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_13_grp/cntrl_N_Powder_13/N_Powder_13
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_14_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_14_grp/cntrl_N_Powder_14
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_14_grp/cntrl_N_Powder_14/N_Powder_14
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_15_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_15_grp/cntrl_N_Powder_15
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_15_grp/cntrl_N_Powder_15/N_Powder_15
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_16_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_16_grp/cntrl_N_Powder_16
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_16_grp/cntrl_N_Powder_16/N_Powder_16
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_17_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_17_grp/cntrl_N_Powder_17
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_N_grp/cntrl_N/N/group2/cntrl_N_Powder_17_grp/cntrl_N_Powder_17/N_Powder_17
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_01_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_01_grp/cntrl_S_Powder_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_01_grp/cntrl_S_Powder_01/S_Powder_01
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_02_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_02_grp/cntrl_S_Powder_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_02_grp/cntrl_S_Powder_02/S_Powder_02
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_03_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_03_grp/cntrl_S_Powder_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_03_grp/cntrl_S_Powder_03/S_Powder_03
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_04_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_04_grp/cntrl_S_Powder_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_04_grp/cntrl_S_Powder_04/S_Powder_04
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_05_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_05_grp/cntrl_S_Powder_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_05_grp/cntrl_S_Powder_05/S_Powder_05
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_06_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_06_grp/cntrl_S_Powder_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_06_grp/cntrl_S_Powder_06/S_Powder_06
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_07_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_07_grp/cntrl_S_Powder_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_07_grp/cntrl_S_Powder_07/S_Powder_07
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_08_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_08_grp/cntrl_S_Powder_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_08_grp/cntrl_S_Powder_08/S_Powder_08
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_09_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_09_grp/cntrl_S_Powder_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_09_grp/cntrl_S_Powder_09/S_Powder_09
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_010_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_010_grp/cntrl_S_Powder_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_010_grp/cntrl_S_Powder_010/S_Powder_010
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_10_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_10_grp/cntrl_S_Powder_10
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_10_grp/cntrl_S_Powder_10/S_Powder_10
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_11_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_11_grp/cntrl_S_Powder_11
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_11_grp/cntrl_S_Powder_11/S_Powder_11
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_12_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_12_grp/cntrl_S_Powder_12
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_12_grp/cntrl_S_Powder_12/S_Powder_12
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_13_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_13_grp/cntrl_S_Powder_13
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_13_grp/cntrl_S_Powder_13/S_Powder_13
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_14_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_14_grp/cntrl_S_Powder_14
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_14_grp/cntrl_S_Powder_14/S_Powder_14
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_15_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_15_grp/cntrl_S_Powder_15
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_15_grp/cntrl_S_Powder_15/S_Powder_15
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_16_grp
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_16_grp/cntrl_S_Powder_16
+        weight: 1
+      - path: Level_2/Activity_Grp/Table_01/Magnet_Iron/cntrl_S_grp/cntrl_S/S/group1/cntrl_S_Powder_16_grp/cntrl_S_Powder_16/S_Powder_16
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

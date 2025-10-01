@@ -1,0 +1,38 @@
+level 1-
+
+button and mixing chamber- 10-215
+reaction chamber and button-230-395
+sample collection button-  400-460
+sample drop-(470-525)
+drag 1st dish- 530-900    iron crystal loop(660-900)
+drag 2nd dish- 910-1280   sulphur crystal loop(1040-1280)
+drag 3rd dish- 1290-1660  irob sulphide loop (1420-1660)
+drag 4th dish- 1670-2030  iron sulphur loop(1790-1885)
+
+level 2 table 1-
+
+activity1 level2-
+zoom-(1-190)
+Drag and drop over iron sulphide clip-  200-509
+magnet iron attract clip- 510-679
+
+activity2 level2-
+
+cap open-(0-90)
+Drag carbon disulphide solutionto graduated cylinder- 100-270 
+Drag  graduated cylinder to beaker A -   280-440
+Drag  graduated cylinder to beaker B - 440-963
+
+
+level 3
+
+trolly clip-(0-800)
+copper bar appear -   10-37,   copper bar loop - 45-120
+Silver bar appear     130-157      loop-165-240
+cylinder appear-      250-277      loop-285-360
+neon cylinder appear- 370-397      loop-405-480
+saline bottle appear -490-517      loop-525-600
+trolly- (1-800)
+sodium hydroxide loop-20-790
+chloride crystall loop-20-790
+

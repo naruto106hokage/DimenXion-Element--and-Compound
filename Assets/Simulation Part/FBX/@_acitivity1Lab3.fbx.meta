@@ -1,0 +1,1878 @@
+fileFormatVersion: 2
+guid: 32c1e86c6110b2744802c6783299f9f4
+timeCreated: 1520395641
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Activity_01
+    100004: Activity_02
+    100006: Activity_03
+    100008: Activity_04
+    100010: Activity_05
+    100012: All_Blend_Grp
+    100014: cntrl__Rays_Main
+    100016: cntrl__Rays_Main 1
+    100018: cntrl__Rays_Main 2
+    100020: cntrl__Rays_Main_grp
+    100022: cntrl__Rays_Main_grp 1
+    100024: cntrl__Rays_Main_grp 2
+    100026: cntrl_cntrl_Copper_Bar_grp
+    100028: cntrl_cntrl_Copper_Bar_grp_grp
+    100030: cntrl_cntrl_Neon_Gas_Cylinder
+    100032: cntrl_cntrl_Neon_Gas_Cylinder_grp
+    100034: cntrl_cntrl_Silver_Bar_grp
+    100036: cntrl_cntrl_Silver_Bar_grp_grp
+    100038: cntrl_Copper_Bar
+    100040: cntrl_Copper_Bar_grp
+    100042: cntrl_Cylinder
+    100044: cntrl_Cylinder_grp
+    100046: cntrl_Methane_Cylinder
+    100048: cntrl_Methane_Cylinder_grp
+    100050: cntrl_Neon_Gas_Cylinder
+    100052: cntrl_Neon_Gas_Cylinder_grp
+    100054: cntrl_Rays_Main
+    100056: cntrl_Rays_Main 1
+    100058: cntrl_Rays_Main_grp
+    100060: cntrl_Rays_Main_grp 1
+    100062: cntrl_Saline_Solution_Bottle
+    100064: cntrl_Saline_Solution_Bottle_grp
+    100066: cntrl_Silver_Bar
+    100068: cntrl_Silver_Bar_grp
+    100070: cntrl_Solution_Bottle_grp
+    100072: cntrl_Solution_Bottle_grp_grp
+    100074: Copper_Bar
+    100076: Methane_Cylinder
+    100078: Neon_Gas_Cylinder
+    100080: Rays_Main
+    100082: Rays_Main 1
+    100084: Rays_Main 2
+    100086: Rays_Main 3
+    100088: Rays_Main 4
+    100090: Saline_Solution_Bottle
+    100092: Sci_Fi_Base
+    100094: Sci_Fi_Base 1
+    100096: Sci_Fi_Base 2
+    100098: Sci_Fi_Base 3
+    100100: Sci_Fi_Base 4
+    100102: Shadow5
+    100104: Shadow5 1
+    100106: Shadow5 2
+    100108: Shadow5 3
+    100110: Shadow5 4
+    100112: Silver_Bar
+    100114: Level_03
+    400000: //RootNode
+    400002: Activity_01
+    400004: Activity_02
+    400006: Activity_03
+    400008: Activity_04
+    400010: Activity_05
+    400012: All_Blend_Grp
+    400014: cntrl__Rays_Main
+    400016: cntrl__Rays_Main 1
+    400018: cntrl__Rays_Main 2
+    400020: cntrl__Rays_Main_grp
+    400022: cntrl__Rays_Main_grp 1
+    400024: cntrl__Rays_Main_grp 2
+    400026: cntrl_cntrl_Copper_Bar_grp
+    400028: cntrl_cntrl_Copper_Bar_grp_grp
+    400030: cntrl_cntrl_Neon_Gas_Cylinder
+    400032: cntrl_cntrl_Neon_Gas_Cylinder_grp
+    400034: cntrl_cntrl_Silver_Bar_grp
+    400036: cntrl_cntrl_Silver_Bar_grp_grp
+    400038: cntrl_Copper_Bar
+    400040: cntrl_Copper_Bar_grp
+    400042: cntrl_Cylinder
+    400044: cntrl_Cylinder_grp
+    400046: cntrl_Methane_Cylinder
+    400048: cntrl_Methane_Cylinder_grp
+    400050: cntrl_Neon_Gas_Cylinder
+    400052: cntrl_Neon_Gas_Cylinder_grp
+    400054: cntrl_Rays_Main
+    400056: cntrl_Rays_Main 1
+    400058: cntrl_Rays_Main_grp
+    400060: cntrl_Rays_Main_grp 1
+    400062: cntrl_Saline_Solution_Bottle
+    400064: cntrl_Saline_Solution_Bottle_grp
+    400066: cntrl_Silver_Bar
+    400068: cntrl_Silver_Bar_grp
+    400070: cntrl_Solution_Bottle_grp
+    400072: cntrl_Solution_Bottle_grp_grp
+    400074: Copper_Bar
+    400076: Methane_Cylinder
+    400078: Neon_Gas_Cylinder
+    400080: Rays_Main
+    400082: Rays_Main 1
+    400084: Rays_Main 2
+    400086: Rays_Main 3
+    400088: Rays_Main 4
+    400090: Saline_Solution_Bottle
+    400092: Sci_Fi_Base
+    400094: Sci_Fi_Base 1
+    400096: Sci_Fi_Base 2
+    400098: Sci_Fi_Base 3
+    400100: Sci_Fi_Base 4
+    400102: Shadow5
+    400104: Shadow5 1
+    400106: Shadow5 2
+    400108: Shadow5 3
+    400110: Shadow5 4
+    400112: Silver_Bar
+    400114: Level_03
+    2300000: Copper_Bar
+    2300002: Methane_Cylinder
+    2300004: Neon_Gas_Cylinder
+    2300006: Saline_Solution_Bottle
+    2300008: Sci_Fi_Base
+    2300010: Sci_Fi_Base 1
+    2300012: Sci_Fi_Base 2
+    2300014: Sci_Fi_Base 3
+    2300016: Sci_Fi_Base 4
+    2300018: Shadow5
+    2300020: Shadow5 1
+    2300022: Shadow5 2
+    2300024: Shadow5 3
+    2300026: Shadow5 4
+    2300028: Silver_Bar
+    3300000: Copper_Bar
+    3300002: Methane_Cylinder
+    3300004: Neon_Gas_Cylinder
+    3300006: Saline_Solution_Bottle
+    3300008: Sci_Fi_Base
+    3300010: Sci_Fi_Base 1
+    3300012: Sci_Fi_Base 2
+    3300014: Sci_Fi_Base 3
+    3300016: Sci_Fi_Base 4
+    3300018: Shadow5
+    3300020: Shadow5 1
+    3300022: Shadow5 2
+    3300024: Shadow5 3
+    3300026: Shadow5 4
+    3300028: Silver_Bar
+    4300000: Sci_Fi_Base
+    4300002: Shadow5
+    4300004: Rays_Main
+    4300006: Copper_Bar
+    4300008: Sci_Fi_Base
+    4300010: Shadow5
+    4300012: Rays_Main
+    4300014: Silver_Bar
+    4300016: Sci_Fi_Base
+    4300018: Shadow5
+    4300020: Rays_Main
+    4300022: Methane_Cylinder
+    4300024: Shadow5
+    4300026: Sci_Fi_Base
+    4300028: Rays_Main
+    4300030: Neon_Gas_Cylinder
+    4300032: Sci_Fi_Base
+    4300034: Shadow5
+    4300036: Rays_Main
+    4300038: Saline_Solution_Bottle
+    7400000: _acitivity1Lab3
+    7400002: copper bar appear
+    7400004: copper bar loop
+    7400006: 'Silver bar appear '
+    7400008: Silver bar loop
+    7400010: cylinder appear
+    7400012: cylinder loop
+    7400014: neon cylinder appear
+    7400016: neon cylinder loop
+    7400018: saline bottle appear
+    7400020: saline bottle loop
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Rays_Main
+    13700002: Rays_Main 1
+    13700004: Rays_Main 2
+    13700006: Rays_Main 3
+    13700008: Rays_Main 4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: _acitivity1Lab3
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Level_03
+        weight: 1
+      - path: Level_03/Activity_01
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp/cntrl__Rays_Main
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp/cntrl__Rays_Main/Rays_Main
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp/cntrl_Copper_Bar
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp/cntrl_Copper_Bar/Copper_Bar
+        weight: 1
+      - path: Level_03/Activity_01/Sci_Fi_Base
+        weight: 1
+      - path: Level_03/Activity_01/Shadow5
+        weight: 1
+      - path: Level_03/Activity_02
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1/cntrl__Rays_Main 1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1/cntrl__Rays_Main 1/Rays_Main
+          1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp/cntrl_Silver_Bar
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp/cntrl_Silver_Bar/Silver_Bar
+        weight: 1
+      - path: Level_03/Activity_02/Sci_Fi_Base 1
+        weight: 1
+      - path: Level_03/Activity_02/Shadow5 1
+        weight: 1
+      - path: Level_03/Activity_03
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp/cntrl_Methane_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp/cntrl_Methane_Cylinder/Methane_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp/cntrl_Rays_Main
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp/cntrl_Rays_Main/Rays_Main 2
+        weight: 1
+      - path: Level_03/Activity_03/Sci_Fi_Base 2
+        weight: 1
+      - path: Level_03/Activity_03/Shadow5 2
+        weight: 1
+      - path: Level_03/Activity_04
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp/cntrl_Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp/cntrl_Neon_Gas_Cylinder/Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1/cntrl_Rays_Main 1
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1/cntrl_Rays_Main 1/Rays_Main
+          3
+        weight: 1
+      - path: Level_03/Activity_04/Sci_Fi_Base 3
+        weight: 1
+      - path: Level_03/Activity_04/Shadow5 3
+        weight: 1
+      - path: Level_03/Activity_05
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2/cntrl__Rays_Main 2
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2/cntrl__Rays_Main 2/Rays_Main
+          4
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle/Saline_Solution_Bottle
+        weight: 1
+      - path: Level_03/Activity_05/Sci_Fi_Base 4
+        weight: 1
+      - path: Level_03/Activity_05/Shadow5 4
+        weight: 1
+      - path: Level_03/All_Blend_Grp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: copper bar appear
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 37
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Level_03
+        weight: 1
+      - path: Level_03/Activity_01
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp/cntrl__Rays_Main
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp/cntrl__Rays_Main/Rays_Main
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp/cntrl_Copper_Bar
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp/cntrl_Copper_Bar/Copper_Bar
+        weight: 1
+      - path: Level_03/Activity_01/Sci_Fi_Base
+        weight: 1
+      - path: Level_03/Activity_01/Shadow5
+        weight: 1
+      - path: Level_03/Activity_02
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1/cntrl__Rays_Main 1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1/cntrl__Rays_Main 1/Rays_Main
+          1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp/cntrl_Silver_Bar
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp/cntrl_Silver_Bar/Silver_Bar
+        weight: 1
+      - path: Level_03/Activity_02/Sci_Fi_Base 1
+        weight: 1
+      - path: Level_03/Activity_02/Shadow5 1
+        weight: 1
+      - path: Level_03/Activity_03
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp/cntrl_Methane_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp/cntrl_Methane_Cylinder/Methane_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp/cntrl_Rays_Main
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp/cntrl_Rays_Main/Rays_Main 2
+        weight: 1
+      - path: Level_03/Activity_03/Sci_Fi_Base 2
+        weight: 1
+      - path: Level_03/Activity_03/Shadow5 2
+        weight: 1
+      - path: Level_03/Activity_04
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp/cntrl_Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp/cntrl_Neon_Gas_Cylinder/Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1/cntrl_Rays_Main 1
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1/cntrl_Rays_Main 1/Rays_Main
+          3
+        weight: 1
+      - path: Level_03/Activity_04/Sci_Fi_Base 3
+        weight: 1
+      - path: Level_03/Activity_04/Shadow5 3
+        weight: 1
+      - path: Level_03/Activity_05
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2/cntrl__Rays_Main 2
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2/cntrl__Rays_Main 2/Rays_Main
+          4
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle/Saline_Solution_Bottle
+        weight: 1
+      - path: Level_03/Activity_05/Sci_Fi_Base 4
+        weight: 1
+      - path: Level_03/Activity_05/Shadow5 4
+        weight: 1
+      - path: Level_03/All_Blend_Grp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: copper bar loop
+      takeName: Take 001
+      firstFrame: 45
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Level_03
+        weight: 1
+      - path: Level_03/Activity_01
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp/cntrl__Rays_Main
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp/cntrl__Rays_Main/Rays_Main
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp/cntrl_Copper_Bar
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp/cntrl_Copper_Bar/Copper_Bar
+        weight: 1
+      - path: Level_03/Activity_01/Sci_Fi_Base
+        weight: 1
+      - path: Level_03/Activity_01/Shadow5
+        weight: 1
+      - path: Level_03/Activity_02
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1/cntrl__Rays_Main 1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1/cntrl__Rays_Main 1/Rays_Main
+          1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp/cntrl_Silver_Bar
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp/cntrl_Silver_Bar/Silver_Bar
+        weight: 1
+      - path: Level_03/Activity_02/Sci_Fi_Base 1
+        weight: 1
+      - path: Level_03/Activity_02/Shadow5 1
+        weight: 1
+      - path: Level_03/Activity_03
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp/cntrl_Methane_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp/cntrl_Methane_Cylinder/Methane_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp/cntrl_Rays_Main
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp/cntrl_Rays_Main/Rays_Main 2
+        weight: 1
+      - path: Level_03/Activity_03/Sci_Fi_Base 2
+        weight: 1
+      - path: Level_03/Activity_03/Shadow5 2
+        weight: 1
+      - path: Level_03/Activity_04
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp/cntrl_Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp/cntrl_Neon_Gas_Cylinder/Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1/cntrl_Rays_Main 1
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1/cntrl_Rays_Main 1/Rays_Main
+          3
+        weight: 1
+      - path: Level_03/Activity_04/Sci_Fi_Base 3
+        weight: 1
+      - path: Level_03/Activity_04/Shadow5 3
+        weight: 1
+      - path: Level_03/Activity_05
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2/cntrl__Rays_Main 2
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2/cntrl__Rays_Main 2/Rays_Main
+          4
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle/Saline_Solution_Bottle
+        weight: 1
+      - path: Level_03/Activity_05/Sci_Fi_Base 4
+        weight: 1
+      - path: Level_03/Activity_05/Shadow5 4
+        weight: 1
+      - path: Level_03/All_Blend_Grp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: 'Silver bar appear '
+      takeName: Take 001
+      firstFrame: 130
+      lastFrame: 157
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Level_03
+        weight: 1
+      - path: Level_03/Activity_01
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp/cntrl__Rays_Main
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp/cntrl__Rays_Main/Rays_Main
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp/cntrl_Copper_Bar
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp/cntrl_Copper_Bar/Copper_Bar
+        weight: 1
+      - path: Level_03/Activity_01/Sci_Fi_Base
+        weight: 1
+      - path: Level_03/Activity_01/Shadow5
+        weight: 1
+      - path: Level_03/Activity_02
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1/cntrl__Rays_Main 1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1/cntrl__Rays_Main 1/Rays_Main
+          1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp/cntrl_Silver_Bar
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp/cntrl_Silver_Bar/Silver_Bar
+        weight: 1
+      - path: Level_03/Activity_02/Sci_Fi_Base 1
+        weight: 1
+      - path: Level_03/Activity_02/Shadow5 1
+        weight: 1
+      - path: Level_03/Activity_03
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp/cntrl_Methane_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp/cntrl_Methane_Cylinder/Methane_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp/cntrl_Rays_Main
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp/cntrl_Rays_Main/Rays_Main 2
+        weight: 1
+      - path: Level_03/Activity_03/Sci_Fi_Base 2
+        weight: 1
+      - path: Level_03/Activity_03/Shadow5 2
+        weight: 1
+      - path: Level_03/Activity_04
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp/cntrl_Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp/cntrl_Neon_Gas_Cylinder/Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1/cntrl_Rays_Main 1
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1/cntrl_Rays_Main 1/Rays_Main
+          3
+        weight: 1
+      - path: Level_03/Activity_04/Sci_Fi_Base 3
+        weight: 1
+      - path: Level_03/Activity_04/Shadow5 3
+        weight: 1
+      - path: Level_03/Activity_05
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2/cntrl__Rays_Main 2
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2/cntrl__Rays_Main 2/Rays_Main
+          4
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle/Saline_Solution_Bottle
+        weight: 1
+      - path: Level_03/Activity_05/Sci_Fi_Base 4
+        weight: 1
+      - path: Level_03/Activity_05/Shadow5 4
+        weight: 1
+      - path: Level_03/All_Blend_Grp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Silver bar loop
+      takeName: Take 001
+      firstFrame: 165
+      lastFrame: 240
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Level_03
+        weight: 1
+      - path: Level_03/Activity_01
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp/cntrl__Rays_Main
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp/cntrl__Rays_Main/Rays_Main
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp/cntrl_Copper_Bar
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp/cntrl_Copper_Bar/Copper_Bar
+        weight: 1
+      - path: Level_03/Activity_01/Sci_Fi_Base
+        weight: 1
+      - path: Level_03/Activity_01/Shadow5
+        weight: 1
+      - path: Level_03/Activity_02
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1/cntrl__Rays_Main 1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1/cntrl__Rays_Main 1/Rays_Main
+          1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp/cntrl_Silver_Bar
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp/cntrl_Silver_Bar/Silver_Bar
+        weight: 1
+      - path: Level_03/Activity_02/Sci_Fi_Base 1
+        weight: 1
+      - path: Level_03/Activity_02/Shadow5 1
+        weight: 1
+      - path: Level_03/Activity_03
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp/cntrl_Methane_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp/cntrl_Methane_Cylinder/Methane_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp/cntrl_Rays_Main
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp/cntrl_Rays_Main/Rays_Main 2
+        weight: 1
+      - path: Level_03/Activity_03/Sci_Fi_Base 2
+        weight: 1
+      - path: Level_03/Activity_03/Shadow5 2
+        weight: 1
+      - path: Level_03/Activity_04
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp/cntrl_Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp/cntrl_Neon_Gas_Cylinder/Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1/cntrl_Rays_Main 1
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1/cntrl_Rays_Main 1/Rays_Main
+          3
+        weight: 1
+      - path: Level_03/Activity_04/Sci_Fi_Base 3
+        weight: 1
+      - path: Level_03/Activity_04/Shadow5 3
+        weight: 1
+      - path: Level_03/Activity_05
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2/cntrl__Rays_Main 2
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2/cntrl__Rays_Main 2/Rays_Main
+          4
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle/Saline_Solution_Bottle
+        weight: 1
+      - path: Level_03/Activity_05/Sci_Fi_Base 4
+        weight: 1
+      - path: Level_03/Activity_05/Shadow5 4
+        weight: 1
+      - path: Level_03/All_Blend_Grp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: cylinder appear
+      takeName: Take 001
+      firstFrame: 250
+      lastFrame: 277
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Level_03
+        weight: 1
+      - path: Level_03/Activity_01
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp/cntrl__Rays_Main
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp/cntrl__Rays_Main/Rays_Main
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp/cntrl_Copper_Bar
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp/cntrl_Copper_Bar/Copper_Bar
+        weight: 1
+      - path: Level_03/Activity_01/Sci_Fi_Base
+        weight: 1
+      - path: Level_03/Activity_01/Shadow5
+        weight: 1
+      - path: Level_03/Activity_02
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1/cntrl__Rays_Main 1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1/cntrl__Rays_Main 1/Rays_Main
+          1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp/cntrl_Silver_Bar
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp/cntrl_Silver_Bar/Silver_Bar
+        weight: 1
+      - path: Level_03/Activity_02/Sci_Fi_Base 1
+        weight: 1
+      - path: Level_03/Activity_02/Shadow5 1
+        weight: 1
+      - path: Level_03/Activity_03
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp/cntrl_Methane_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp/cntrl_Methane_Cylinder/Methane_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp/cntrl_Rays_Main
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp/cntrl_Rays_Main/Rays_Main 2
+        weight: 1
+      - path: Level_03/Activity_03/Sci_Fi_Base 2
+        weight: 1
+      - path: Level_03/Activity_03/Shadow5 2
+        weight: 1
+      - path: Level_03/Activity_04
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp/cntrl_Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp/cntrl_Neon_Gas_Cylinder/Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1/cntrl_Rays_Main 1
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1/cntrl_Rays_Main 1/Rays_Main
+          3
+        weight: 1
+      - path: Level_03/Activity_04/Sci_Fi_Base 3
+        weight: 1
+      - path: Level_03/Activity_04/Shadow5 3
+        weight: 1
+      - path: Level_03/Activity_05
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2/cntrl__Rays_Main 2
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2/cntrl__Rays_Main 2/Rays_Main
+          4
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle/Saline_Solution_Bottle
+        weight: 1
+      - path: Level_03/Activity_05/Sci_Fi_Base 4
+        weight: 1
+      - path: Level_03/Activity_05/Shadow5 4
+        weight: 1
+      - path: Level_03/All_Blend_Grp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: cylinder loop
+      takeName: Take 001
+      firstFrame: 285
+      lastFrame: 360
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Level_03
+        weight: 1
+      - path: Level_03/Activity_01
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp/cntrl__Rays_Main
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp/cntrl__Rays_Main/Rays_Main
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp/cntrl_Copper_Bar
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp/cntrl_Copper_Bar/Copper_Bar
+        weight: 1
+      - path: Level_03/Activity_01/Sci_Fi_Base
+        weight: 1
+      - path: Level_03/Activity_01/Shadow5
+        weight: 1
+      - path: Level_03/Activity_02
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1/cntrl__Rays_Main 1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1/cntrl__Rays_Main 1/Rays_Main
+          1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp/cntrl_Silver_Bar
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp/cntrl_Silver_Bar/Silver_Bar
+        weight: 1
+      - path: Level_03/Activity_02/Sci_Fi_Base 1
+        weight: 1
+      - path: Level_03/Activity_02/Shadow5 1
+        weight: 1
+      - path: Level_03/Activity_03
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp/cntrl_Methane_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp/cntrl_Methane_Cylinder/Methane_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp/cntrl_Rays_Main
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp/cntrl_Rays_Main/Rays_Main 2
+        weight: 1
+      - path: Level_03/Activity_03/Sci_Fi_Base 2
+        weight: 1
+      - path: Level_03/Activity_03/Shadow5 2
+        weight: 1
+      - path: Level_03/Activity_04
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp/cntrl_Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp/cntrl_Neon_Gas_Cylinder/Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1/cntrl_Rays_Main 1
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1/cntrl_Rays_Main 1/Rays_Main
+          3
+        weight: 1
+      - path: Level_03/Activity_04/Sci_Fi_Base 3
+        weight: 1
+      - path: Level_03/Activity_04/Shadow5 3
+        weight: 1
+      - path: Level_03/Activity_05
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2/cntrl__Rays_Main 2
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2/cntrl__Rays_Main 2/Rays_Main
+          4
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle/Saline_Solution_Bottle
+        weight: 1
+      - path: Level_03/Activity_05/Sci_Fi_Base 4
+        weight: 1
+      - path: Level_03/Activity_05/Shadow5 4
+        weight: 1
+      - path: Level_03/All_Blend_Grp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: neon cylinder appear
+      takeName: Take 001
+      firstFrame: 370
+      lastFrame: 397
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Level_03
+        weight: 1
+      - path: Level_03/Activity_01
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp/cntrl__Rays_Main
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp/cntrl__Rays_Main/Rays_Main
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp/cntrl_Copper_Bar
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp/cntrl_Copper_Bar/Copper_Bar
+        weight: 1
+      - path: Level_03/Activity_01/Sci_Fi_Base
+        weight: 1
+      - path: Level_03/Activity_01/Shadow5
+        weight: 1
+      - path: Level_03/Activity_02
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1/cntrl__Rays_Main 1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1/cntrl__Rays_Main 1/Rays_Main
+          1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp/cntrl_Silver_Bar
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp/cntrl_Silver_Bar/Silver_Bar
+        weight: 1
+      - path: Level_03/Activity_02/Sci_Fi_Base 1
+        weight: 1
+      - path: Level_03/Activity_02/Shadow5 1
+        weight: 1
+      - path: Level_03/Activity_03
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp/cntrl_Methane_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp/cntrl_Methane_Cylinder/Methane_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp/cntrl_Rays_Main
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp/cntrl_Rays_Main/Rays_Main 2
+        weight: 1
+      - path: Level_03/Activity_03/Sci_Fi_Base 2
+        weight: 1
+      - path: Level_03/Activity_03/Shadow5 2
+        weight: 1
+      - path: Level_03/Activity_04
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp/cntrl_Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp/cntrl_Neon_Gas_Cylinder/Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1/cntrl_Rays_Main 1
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1/cntrl_Rays_Main 1/Rays_Main
+          3
+        weight: 1
+      - path: Level_03/Activity_04/Sci_Fi_Base 3
+        weight: 1
+      - path: Level_03/Activity_04/Shadow5 3
+        weight: 1
+      - path: Level_03/Activity_05
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2/cntrl__Rays_Main 2
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2/cntrl__Rays_Main 2/Rays_Main
+          4
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle/Saline_Solution_Bottle
+        weight: 1
+      - path: Level_03/Activity_05/Sci_Fi_Base 4
+        weight: 1
+      - path: Level_03/Activity_05/Shadow5 4
+        weight: 1
+      - path: Level_03/All_Blend_Grp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: neon cylinder loop
+      takeName: Take 001
+      firstFrame: 405
+      lastFrame: 480
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Level_03
+        weight: 1
+      - path: Level_03/Activity_01
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp/cntrl__Rays_Main
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp/cntrl__Rays_Main/Rays_Main
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp/cntrl_Copper_Bar
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp/cntrl_Copper_Bar/Copper_Bar
+        weight: 1
+      - path: Level_03/Activity_01/Sci_Fi_Base
+        weight: 1
+      - path: Level_03/Activity_01/Shadow5
+        weight: 1
+      - path: Level_03/Activity_02
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1/cntrl__Rays_Main 1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1/cntrl__Rays_Main 1/Rays_Main
+          1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp/cntrl_Silver_Bar
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp/cntrl_Silver_Bar/Silver_Bar
+        weight: 1
+      - path: Level_03/Activity_02/Sci_Fi_Base 1
+        weight: 1
+      - path: Level_03/Activity_02/Shadow5 1
+        weight: 1
+      - path: Level_03/Activity_03
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp/cntrl_Methane_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp/cntrl_Methane_Cylinder/Methane_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp/cntrl_Rays_Main
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp/cntrl_Rays_Main/Rays_Main 2
+        weight: 1
+      - path: Level_03/Activity_03/Sci_Fi_Base 2
+        weight: 1
+      - path: Level_03/Activity_03/Shadow5 2
+        weight: 1
+      - path: Level_03/Activity_04
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp/cntrl_Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp/cntrl_Neon_Gas_Cylinder/Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1/cntrl_Rays_Main 1
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1/cntrl_Rays_Main 1/Rays_Main
+          3
+        weight: 1
+      - path: Level_03/Activity_04/Sci_Fi_Base 3
+        weight: 1
+      - path: Level_03/Activity_04/Shadow5 3
+        weight: 1
+      - path: Level_03/Activity_05
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2/cntrl__Rays_Main 2
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2/cntrl__Rays_Main 2/Rays_Main
+          4
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle/Saline_Solution_Bottle
+        weight: 1
+      - path: Level_03/Activity_05/Sci_Fi_Base 4
+        weight: 1
+      - path: Level_03/Activity_05/Shadow5 4
+        weight: 1
+      - path: Level_03/All_Blend_Grp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: saline bottle appear
+      takeName: Take 001
+      firstFrame: 490
+      lastFrame: 517
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Level_03
+        weight: 1
+      - path: Level_03/Activity_01
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp/cntrl__Rays_Main
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp/cntrl__Rays_Main/Rays_Main
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp/cntrl_Copper_Bar
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp/cntrl_Copper_Bar/Copper_Bar
+        weight: 1
+      - path: Level_03/Activity_01/Sci_Fi_Base
+        weight: 1
+      - path: Level_03/Activity_01/Shadow5
+        weight: 1
+      - path: Level_03/Activity_02
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1/cntrl__Rays_Main 1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1/cntrl__Rays_Main 1/Rays_Main
+          1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp/cntrl_Silver_Bar
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp/cntrl_Silver_Bar/Silver_Bar
+        weight: 1
+      - path: Level_03/Activity_02/Sci_Fi_Base 1
+        weight: 1
+      - path: Level_03/Activity_02/Shadow5 1
+        weight: 1
+      - path: Level_03/Activity_03
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp/cntrl_Methane_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp/cntrl_Methane_Cylinder/Methane_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp/cntrl_Rays_Main
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp/cntrl_Rays_Main/Rays_Main 2
+        weight: 1
+      - path: Level_03/Activity_03/Sci_Fi_Base 2
+        weight: 1
+      - path: Level_03/Activity_03/Shadow5 2
+        weight: 1
+      - path: Level_03/Activity_04
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp/cntrl_Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp/cntrl_Neon_Gas_Cylinder/Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1/cntrl_Rays_Main 1
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1/cntrl_Rays_Main 1/Rays_Main
+          3
+        weight: 1
+      - path: Level_03/Activity_04/Sci_Fi_Base 3
+        weight: 1
+      - path: Level_03/Activity_04/Shadow5 3
+        weight: 1
+      - path: Level_03/Activity_05
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2/cntrl__Rays_Main 2
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2/cntrl__Rays_Main 2/Rays_Main
+          4
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle/Saline_Solution_Bottle
+        weight: 1
+      - path: Level_03/Activity_05/Sci_Fi_Base 4
+        weight: 1
+      - path: Level_03/Activity_05/Shadow5 4
+        weight: 1
+      - path: Level_03/All_Blend_Grp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: saline bottle loop
+      takeName: Take 001
+      firstFrame: 525
+      lastFrame: 600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Level_03
+        weight: 1
+      - path: Level_03/Activity_01
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp/cntrl__Rays_Main
+        weight: 1
+      - path: Level_03/Activity_01/cntrl__Rays_Main_grp/cntrl__Rays_Main/Rays_Main
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp/cntrl_Copper_Bar
+        weight: 1
+      - path: Level_03/Activity_01/cntrl_cntrl_Copper_Bar_grp_grp/cntrl_cntrl_Copper_Bar_grp/cntrl_Copper_Bar_grp/cntrl_Copper_Bar/Copper_Bar
+        weight: 1
+      - path: Level_03/Activity_01/Sci_Fi_Base
+        weight: 1
+      - path: Level_03/Activity_01/Shadow5
+        weight: 1
+      - path: Level_03/Activity_02
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1/cntrl__Rays_Main 1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl__Rays_Main_grp 1/cntrl__Rays_Main 1/Rays_Main
+          1
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp/cntrl_Silver_Bar
+        weight: 1
+      - path: Level_03/Activity_02/cntrl_cntrl_Silver_Bar_grp_grp/cntrl_cntrl_Silver_Bar_grp/cntrl_Silver_Bar_grp/cntrl_Silver_Bar/Silver_Bar
+        weight: 1
+      - path: Level_03/Activity_02/Sci_Fi_Base 1
+        weight: 1
+      - path: Level_03/Activity_02/Shadow5 1
+        weight: 1
+      - path: Level_03/Activity_03
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp/cntrl_Methane_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Cylinder_grp/cntrl_Cylinder/cntrl_Methane_Cylinder_grp/cntrl_Methane_Cylinder/Methane_Cylinder
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp/cntrl_Rays_Main
+        weight: 1
+      - path: Level_03/Activity_03/cntrl_Rays_Main_grp/cntrl_Rays_Main/Rays_Main 2
+        weight: 1
+      - path: Level_03/Activity_03/Sci_Fi_Base 2
+        weight: 1
+      - path: Level_03/Activity_03/Shadow5 2
+        weight: 1
+      - path: Level_03/Activity_04
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp/cntrl_Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_cntrl_Neon_Gas_Cylinder_grp/cntrl_cntrl_Neon_Gas_Cylinder/cntrl_Neon_Gas_Cylinder_grp/cntrl_Neon_Gas_Cylinder/Neon_Gas_Cylinder
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1/cntrl_Rays_Main 1
+        weight: 1
+      - path: Level_03/Activity_04/cntrl_Rays_Main_grp 1/cntrl_Rays_Main 1/Rays_Main
+          3
+        weight: 1
+      - path: Level_03/Activity_04/Sci_Fi_Base 3
+        weight: 1
+      - path: Level_03/Activity_04/Shadow5 3
+        weight: 1
+      - path: Level_03/Activity_05
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2/cntrl__Rays_Main 2
+        weight: 1
+      - path: Level_03/Activity_05/cntrl__Rays_Main_grp 2/cntrl__Rays_Main 2/Rays_Main
+          4
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle
+        weight: 1
+      - path: Level_03/Activity_05/cntrl_Solution_Bottle_grp_grp/cntrl_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle_grp/cntrl_Saline_Solution_Bottle/Saline_Solution_Bottle
+        weight: 1
+      - path: Level_03/Activity_05/Sci_Fi_Base 4
+        weight: 1
+      - path: Level_03/Activity_05/Shadow5 4
+        weight: 1
+      - path: Level_03/All_Blend_Grp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

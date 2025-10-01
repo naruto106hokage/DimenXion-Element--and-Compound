@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root><!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+	<data name="C_Activity_Menu" xml:space="preserve">
+		<value>Activity menu</value>
+	</data>
+	<data name="C_Assess_your_Knowledge" xml:space="preserve">
+		<value>Assess your knowledge</value>
+	</data>
+	<data name="C_Btn_Close" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_Btn_SyncToServer" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_Completed_Activity" xml:space="preserve">
+		<value>You have completed this activity. Select OK to return to the menu and continue to the next activity.</value>
+	</data>
+	<data name="C_Completed_Assessment" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_Correct_Response" xml:space="preserve">
+		<value>This is the correct response.</value>
+	</data>
+	<data name="C_Follow_Ins_Perform_Assessment_Earn_Points" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_Fullpoints_Correct_Fewpoints_Tryagain" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_Here_is_Your_Score" xml:space="preserve">
+		<value>You have completed the assessment. Here is your score: </value>
+	</data>
+	<data name="C_Inst_CheckNetworkConnection" xml:space="preserve">
+		<value>Please check your network connection or try again later.</value>
+	</data>
+	<data name="C_Inst_ServerError" xml:space="preserve">
+		<value>Internal server error</value>
+	</data>
+	<data name="C_Move_Highlighted_Area" xml:space="preserve">
+		<value>Move toward the highlighted area by using your controller to perform an activity.</value>
+	</data>
+	<data name="C_No" xml:space="preserve">
+		<value>No</value>
+	</data>
+	<data name="C_Nopoint_Hint" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_OK" xml:space="preserve">
+		<value>OK</value>
+	</data>
+	<data name="C_Perform_Assessment_Earn_Points" xml:space="preserve">
+		<value>Follow the instructions to perform the assessment and earn points. You'll receive full points when you are correct on the first try, fewer points if you have to try again. No points are awarded if you use a hint.</value>
+	</data>
+	<data name="C_Quit" xml:space="preserve">
+		<value>Quit</value>
+	</data>
+	<data name="C_Restart_Activity" xml:space="preserve">
+		<value>Restart activity</value>
+	</data>
+	<data name="C_Resume" xml:space="preserve">
+		<value>Resume</value>
+	</data>
+	<data name="C_Return_Menu_Continue_Next_Activity" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_Return_Menu_Try_Activity_Again" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_Scored_Less_Than_60" xml:space="preserve">
+		<value>You scored less than 60%. After returning to the menu, you can try the assessment again to improve your score, or you can exit.</value>
+	</data>
+	<data name="C_Scored_Well_Completed_Module" xml:space="preserve">
+		<value>You scored well and you have completed the module! Select OK to return to the menu where you can exit.</value>
+	</data>
+	<data name="C_Scrore" xml:space="preserve">
+		<value>Score</value>
+	</data>
+	<data name="C_Select_Ok_Menu_Exit" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_Try_Multipletimes_awarded_only_answer_correctly" xml:space="preserve">
+		<value />
+	</data>
+	<data name="C_TryAgain1" xml:space="preserve">
+		<value>Try again.</value>
+	</data>
+	<data name="C_TryAgain2" xml:space="preserve">
+		<value>That's not it.</value>
+	</data>
+	<data name="C_TryAgain3" xml:space="preserve">
+		<value>Not quite right.</value>
+	</data>
+	<data name="C_View_Learning_Objective" xml:space="preserve">
+		<value>View learning objectives</value>
+	</data>
+	<data name="C_Want_To_Quit" xml:space="preserve">
+		<value>Are you sure you want to quit?</value>
+	</data>
+	<data name="C_WellDone1" xml:space="preserve">
+		<value>Well done!</value>
+	</data>
+	<data name="C_WellDone2" xml:space="preserve">
+		<value>Correct!</value>
+	</data>
+	<data name="C_WellDone3" xml:space="preserve">
+		<value>Right!</value>
+	</data>
+	<data name="C_yes" xml:space="preserve">
+		<value>Yes</value>
+	</data>
+	<data name="Choose_Language" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L1_Btn_AddedInst1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L1_Btn_AddedInst2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L1_Btn_AddedInst3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L1_Btn_AddedInst4" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L1_Btn_Instruction1" xml:space="preserve">
+		<value>Iron and sulphur are present in these chambers. Follow the instructions to form two new matters from iron and sulphur.</value>
+	</data>
+	<data name="L1_Btn_Instruction2" xml:space="preserve">
+		<value>In mixing chamber, iron and sulphur simply mixed together, no chemical reaction takes place.</value>
+	</data>
+	<data name="L1_Btn_Instruction3" xml:space="preserve">
+		<value>On heating iron and sulphur reacts chemically to form iron sulphide.</value>
+	</data>
+	<data name="L1_Btn_Instruction4" xml:space="preserve">
+		<value>Let’s classify these matters into element, compound and mixture on the basis of their compositions.</value>
+	</data>
+	<data name="L1_Btn_Instruction5" xml:space="preserve">
+		<value>Iron metal is made of only iron atoms. Thus it is an element.</value>
+	</data>
+	<data name="L1_Btn_Instruction6" xml:space="preserve">
+		<value>Sulphur is made of only sulphur atoms. Thus it is also an element.</value>
+	</data>
+	<data name="L1_Btn_Instruction7" xml:space="preserve">
+		<value>Iron sulphide is made up of two elements, iron and sulphur, chemically combined in a fixed proportion. Thus it is a compound.</value>
+	</data>
+	<data name="L1_Btn_Instruction8" xml:space="preserve">
+		<value>It represents a mixture of iron and sulphur as 
+the constituent particles are not chemically 
+combined together.</value>
+	</data>
+	<data name="L1_Btn_Instruction9" xml:space="preserve">
+		<value>Elements and compounds are pure substances as they contain only one kind of particles either atoms or molecules, whereas, a mixture contains two or more 
+different kinds of particles.</value>
+	</data>
+	<data name="L1_Inst_drag1" xml:space="preserve">
+		<value>Drag and drop petri dish containing iron powder to highlighted spot to have its particle view.</value>
+	</data>
+	<data name="L1_Inst_drag2" xml:space="preserve">
+		<value>Drag and drop petri dish containing sulphur powder to highlighted spot to have its particle view.</value>
+	</data>
+	<data name="L1_Inst_drag3" xml:space="preserve">
+		<value>Drag and place petri dish containing matter obtained from reaction chamber   to highlighted spot to have its particle view.</value>
+	</data>
+	<data name="L1_Inst_drag4" xml:space="preserve">
+		<value>Drag and place petri dish containing matter obtained from mixing chamber to highlighted spot to have its particle view.</value>
+	</data>
+	<data name="L1_Inst_SelectButton1" xml:space="preserve">
+		<value>Select the highlighted button to start mixing in mixing chamber.</value>
+	</data>
+	<data name="L1_Inst_SelectButton2" xml:space="preserve">
+		<value>Select the highlighted button to start reaction in reaction chamber.</value>
+	</data>
+	<data name="L1_Inst_SelectButton3" xml:space="preserve">
+		<value>Select the highlighted button to collect the samples from both the chambers and place them on activity table.</value>
+	</data>
+	<data name="L1_Inst_SelectYellowButton" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L1_Label_Compond" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L1_Label_Element" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L1_Label_Heat" xml:space="preserve">
+		<value>Heat</value>
+	</data>
+	<data name="L1_Label_iron" xml:space="preserve">
+		<value>Iron</value>
+	</data>
+	<data name="L1_Label_IronSulphide" xml:space="preserve">
+		<value>Iron sulphide</value>
+	</data>
+	<data name="L1_Label_Mixture" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L1_Label_mixture_chamber" xml:space="preserve">
+		<value>Matter obtained from mixing chamber</value>
+	</data>
+	<data name="L1_Label_mixure1" xml:space="preserve">
+		<value>Mixing chamber</value>
+	</data>
+	<data name="L1_Label_mixure2" xml:space="preserve">
+		<value>Reaction chamber</value>
+	</data>
+	<data name="L1_Label_reaction_chamber" xml:space="preserve">
+		<value>Matter obtained from reaction chamber</value>
+	</data>
+	<data name="L1_Label_sulfur" xml:space="preserve">
+		<value>Sulphur</value>
+	</data>
+	<data name="L2_Inst_DragDropForSulphide" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Inst_DragDropForSulphur" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Inst_DragDropGraduateCylForA" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Inst_DragDropGraduateCylForB" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Inst_DragDropSolutionBottle" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Inst_FollowInst" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Inst_IronSulphideMagnet" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Inst_KeyConcept" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Inst_LetsTestBoth" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Inst_MixtureOfBoth" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Inst_MixtureOfIronSulphideMagnet" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Inst_MixtureSulphurDissolves" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Inst_MixtureSulphurRetains" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Inst_MoveTowards" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Inst_MoveTowardsNext" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Inst_NoChangesObserved" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Inst_ObserveBoth" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Inst_ObserveChanges" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Inst_ObserveProcess" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Inst_SelectCapOfBottle" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Inst_TakeaLook" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Label_Appearance" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Label_Behaviour" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Label_BothYellow" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Label_CarbonDI" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Label_Comparing" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Label_cylinder" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Label_HavingUniform" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Label_IronAndSulphur" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Label_IronFilings" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Label_Ironsulphide" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Label_IronSulphide" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Label_Magnet" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Label_MixtureOfIron " xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Label_NoChange" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Label_NoParticle" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Label_Property" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Label_Solvent" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Label_SulphurDissolves" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Label_TableIronAndSulphur" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Label_TableIronsulphide" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Q1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Q1_A" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Q1_B" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Q2" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Q2_A" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Q2_B" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Q3" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Q3_A" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L2_Q3_B" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Btn_Back" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Btn_CopperDropped" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Btn_CylinderDropped" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Btn_Instruction1" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Btn_MedicalGasDropped" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Btn_SalinewaterDropped" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Btn_SilverDropped" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Inst_DragDropCopper" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Inst_DragDropCylinder" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Inst_DragDropMedicalGas" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Inst_DragDropSalinewater" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Inst_DragDropSilver" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Inst_MoveForword" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Inst_ObserveCopper" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Inst_ObserveCylinder" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Inst_ObserveMedicalGas" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Inst_ObserveSalinewater" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Inst_ObserveSilver" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Inst_SelectBack" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Inst_SelectCopper" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Inst_SelectCylinder" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Inst_SelectMedicalGas" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Inst_SelectSalinewater" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Inst_SelectSilver" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Label_Mixtures" xml:space="preserve">
+		<value />
+	</data>
+	<data name="L3_Label_PureSubstances " xml:space="preserve">
+		<value />
+	</data>
+	<data name="Level1" xml:space="preserve">
+		<value>Exploring pure substances and mixtures</value>
+	</data>
+	<data name="Level2" xml:space="preserve">
+		<value>Distinguishing between substances and mixtures</value>
+	</data>
+	<data name="ObjectiveContent" xml:space="preserve">
+		<value>Learning Objectives
+
+After completing this module, you will be able to:
+● Define pure substances.
+● Define mixtures
+● Distinguish between element, compound and mixture on 
+   the basis of their compositions.
+● Sort given materials into pure substances and mixtures.</value>
+	</data>
+	<data name="Title" xml:space="preserve">
+		<value>Elements, Compounds, and Mixtures</value>
+	</data>
+</root>

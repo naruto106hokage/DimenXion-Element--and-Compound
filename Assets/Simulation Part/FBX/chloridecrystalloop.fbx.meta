@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 083c8f5ce2f5a9849b9df37e42212cc5
+timeCreated: 1520395726
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: joint1
+    100004: joint13
+    100006: joint14
+    100008: joint2
+    100010: joint3
+    100012: joint4
+    100014: joint5
+    100016: Sodium_Atom
+    100018: transform1
+    100020: transform2
+    100022: transform3
+    100024: transform4
+    100026: transform5
+    100028: transform6
+    100030: transform7
+    100032: Water_Molecule_01
+    100034: Water_Molecule_02
+    100036: Water_Molecule_03
+    100038: Water_Molecule_04
+    100040: Water_Molecule_05
+    100042: Water_Molecule_06
+    100044: Water_Molecule_07
+    400000: //RootNode
+    400002: joint1
+    400004: joint13
+    400006: joint14
+    400008: joint2
+    400010: joint3
+    400012: joint4
+    400014: joint5
+    400016: Sodium_Atom
+    400018: transform1
+    400020: transform2
+    400022: transform3
+    400024: transform4
+    400026: transform5
+    400028: transform6
+    400030: transform7
+    400032: Water_Molecule_01
+    400034: Water_Molecule_02
+    400036: Water_Molecule_03
+    400038: Water_Molecule_04
+    400040: Water_Molecule_05
+    400042: Water_Molecule_06
+    400044: Water_Molecule_07
+    2300000: Sodium_Atom
+    2300002: Water_Molecule_01
+    2300004: Water_Molecule_02
+    2300006: Water_Molecule_03
+    2300008: Water_Molecule_04
+    2300010: Water_Molecule_05
+    2300012: Water_Molecule_06
+    2300014: Water_Molecule_07
+    3300000: Sodium_Atom
+    3300002: Water_Molecule_01
+    3300004: Water_Molecule_02
+    3300006: Water_Molecule_03
+    3300008: Water_Molecule_04
+    3300010: Water_Molecule_05
+    3300012: Water_Molecule_06
+    3300014: Water_Molecule_07
+    4300000: Water_Molecule_07
+    4300002: Sodium_Atom
+    4300004: Water_Molecule_03
+    4300006: Water_Molecule_04
+    4300008: Water_Molecule_02
+    4300010: Water_Molecule_06
+    4300012: Water_Molecule_01
+    4300014: Water_Molecule_05
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
